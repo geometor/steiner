@@ -14,7 +14,10 @@ classifiers = [
     "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
 ]
-dependencies = []
+dependencies = [
+    "sympy",
+    "geometor-model",
+]
 
 [project.scripts]
 steiner = "geometor.steiner.__main__:main"
