@@ -1,0 +1,58 @@
+                                                                      :
+
+
+
+
+                 Die geometrischen Constructionen.                   5
+
+     Ob es mir gelungen sei, den vorgesteckten [4] Zweck
+auf die eiijfjichste Weise zu erreichen, vermag ich nicht zu
+entscheiden, auch bin ich nicht einmal überzeugt, ob selbst
+hei dem von mir eingeschlagenen Weg überall die bequemsten
+Constructionen angewendet Avorden sind oder nicht.      Wenn
+indessen der Gegenstand einiges Interesse erregen sollte, so
+wird, bei dem eifrigen Betriebe der Geometrie in unserer Zeit,
+das Fehlende bald von Anderen ergänzt werden, und ich
+dürfte dann wohl auf einige Nachsicht rechnen.
+     Sind die Mascheroni^schen Constructionen für die Mecha-
+niker und besonders zur Anfertigung astronomischer Instru-
+mente von grossem Vortheil, wie er behauptet, so dürften
+dagegen die gegenwärtigen für die Ingenieurs und Feldmesser
+von nicht geringerem Nutzen sein,            worüber   ich   jedoch von
+diesen letztern selbst das sachverständige Urtheil erwarten will.
+
+                               i?       2.
+
+     Die Sätze und Eigenschaften der Figuren, auf welchen
+die   Lösungender vorgenannten Aufgaben (§ 1) beruhen,
+sind unter andern theils im ersten Theil der «Systema-
+tischen Entwickelung der Abhängigkeit geometri-
+scjier Gestalten von einander« und theils in der Abhand-
+lung i^Einige geometrische Betrachtungen« (Journal für
+Mathematik, Bd. I. S. 1611 enthalten, so dass also, mit Be-
+ziehung auf dieselben, die vorgelegten Aufgaben auf einem
+Räume von wenig Seiten erledigt werden könnten. Allein da
+das gegenwärtige Werkchen leicht in Vieler Hände [5] kom-
+men kann, welche jene Schriften nicht besitzen, so hielt ich
+es für zweckmässig, jene Sätze und Eigenschaften hier kurz
+zu wiederholen, wobei ich mich bemühte, sie so elementar als
+möglich darzustellen.    Diesem gemäss besteht die gegen-
+wärtige Arbeit aus drei Kapiteln, die folgenden Inhalts sind
+   Erstes Kapitel. Einige Eigenschaften geradliniger Figuren,
+       in Rücksicht auf Transversalen, harmonische Strahlen
+       und Punkte Consti-uctionen mittelst des Lineals allein,
+                     :
+
+
+
+       unter bestimmten Voraussetzungen, d. h., wenn ent-
+       weder parallele oder in gegebenem Verhältniss ge-
+       theilte Gerade gegeben sind, so lassen siöh andere der
+        Grösse und Lage nach gegebene Gerade beliebig ver-
+       vielfachen und theilen   und andere Parallele ziehen
+                                    .
+
+
+
+        !so wie auch rechte Winkel hälften und beliebige ge-
+       gebene Winkel vervielfachen).

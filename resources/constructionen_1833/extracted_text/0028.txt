@@ -1,0 +1,54 @@
+24                               Jacob Steiner.
+
+ist auch Bogen ec    fc.   =
+                         Daher folgt (wenn man die gleichen
+Sehnen ec, fc zieht, dass Winkel               und Winkel y^d
+ebc   =fbc; und hieraus folgt weiter, dass der zu den drei
+Strahlen     fce,    6c,   6f gehörige,        dem 6c zugeordnete,        vierte har-
+monische Strahl Bq zu 6 c senkrecht ist und mit den beiden
+übrigen Strahlen be'(oder hB)^ bf gleiche Winkel bildet,
+nämlich Winkel a            =
+                     ß, und dass ebenso der zu den drei
+Strahlen     fce,    bc, bf gehörige,        dem tc zugeordnete,          vierte har-
+monische Strahl b^* zu dem Strahle cc senkrecht ist, und mit
+den zwei übrigen be, bf gleiche Winkel bildet.       Vermöge
+dieser harmonischen Strahlen    folgt endlich  weiter,   dass
+b, f, t),    B
+            und ebenso B, b, e, y vier harmonische Punkte
+sind.
+        Da   bei     dieser Betrachtung          die   vier    Punkte   a,   b.   c.   C,
+sowie der Kreis 31, als           festvorausgesetzt sind, so sind auch
+die  Geraden bq und bj:,           wovon die erste den Kreis in )}, vT
+schneidet,   fest, dagegen ändern die Strahlen b, r/, bf, be
+ihre Lage mit dem Punkte                 B
+                                 zugleich, nämlich sie drehen
+sich um die festen Punkte b, b, während       den Kreis durch-B
+läuft.    Da ferner die veränderlichen Winkel ce und ß stets
+einander gleich sind, so müssen                   B
+                                        und f sich gleichzeitig
+dem festen Punkte q nähern, sodass sie sich zuletzt zugleich
+mit ihm vereinigen, und dass folglich die Gerade Cq, in
+welche in diesem Falle der Strahl d tibergeht, Tangente des
+Kreises ist.    (Das Letztere folgt auch daraus, dass, wenn
+man sich den Punkt B nach dem festen Punkte q gelangt
+vorstellt, und sich sodann die Strahlen qa, qb, qc, qb denkt,
+diese harmonisch [31] sind und ausserdem qa und qc zu
+einander rechtwinklig, mithin Winkel cqb     cqb     c);>\}.  =
+                                                             und      =
+folglich tq Tangente ist.)    Ebenso folgt, dass C^^ Tangente
+des Kreises         ist.
+
+        Aus diesen Betrachtungen               folgt   unter      andern der nach-
+stehende Satz.
+    »Zieht man durch irgend einen festen Punkt,
+b oder b, beliebige Gerade, wie etwa ^be^" oder tfwi)*,
+welche einen festen Kreis 31 schneiden, so ist der
+Ort desjenigen Punktes,      oder », welcher zu den
+                                          ^'
+
+
+zwei Durchschnittspunkten, B und c, oder f und B.
+und zu jenem festen Punkte, b oder b, der vierte,
+dem letzteren zugeordnete, harmonische Punkt ist,
+eine bestimmte Gerade, ^t oder i)b, welche auf dem-
+jenigen Durchmesser des Kreises senkrecht steht.

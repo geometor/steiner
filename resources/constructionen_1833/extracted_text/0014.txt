@@ -1,0 +1,53 @@
+                                                                                  f
+
+10                                 Jacob Steiner.
+
+     h) Sind G, F,            E
+                        gegeben und es soll der dem   zu-                 E
+geordnete vierte harmonische Punkt JJ gefunden werden, so
+ziehe    man nach einem             willkürlichenPunkt         A
+                                                           die Geraden
+FA, GA.            schneide       sie durch eine beliebige, durch               E
+gehende Gerade EIH,               in den Punkten /, II, ziehe sofort die
+Geraden Gr/, FH, die sich in C kreuzen, und ziehe endlich
+die Gerade     A
+             C, so wird diese durch den gesuchten Punkt D
+gehen.
+     IL  ))Zu  irgend drei gegebenen Strahlen, die
+durch einen Punkt gehen, einen vierten harmo-
+nischen Strahl mittelst des Lineals zu finden.«
+     Sind etwa die drei Strahlen a, c, d ^Fig. 2) gegeben
+und soll der dem d zugeordnete vierte harmonische Strahl b
+gefunden werden, so ziehe man durch einen beliebigen Punkt G.
+des Strahls d^ irgend zwei Gerade GA, Gl. welche die
+Strahlen a, c in A^ /, 6',              H
+                                schneiden, ziehe sodann die
+Geraden       AC. HI, die sich in B kreuzen, so wird FB der
+gesuchte Strahl sein.
+     Auf dieselbe Weise wird, wenn die Strahlen a, h. c ge-
+geben sind, der dem h zugeordnete vierte harmonische Strahl d
+gefunden.
+     IIL »Wenn  ein rechter Winkel und ein anderer
+beliebiger Winkel einerlei Scheitelpunkt und einen
+gemeinschaftlichen [12j Schenkel haben, so soll der
+letzte Winkel mittelst des Lineals verdoppelt werden.
+     Angenommen, es sei [bd, (Fig. 1) der rechte und fic)
+der andere Winkel, so suche man zu den drei Strahlen b, c. d
+einen vierten, dem c zugeordneten, harmonischen Strahl a (LI.),
+so wird alsdann, zufolge      § 3, IV.   Winkel {ab  .   (bc).           =
+und mithin Winkel          ac) der       verlangte       doppelte Winkel sein.
+    IV. «Wenn von drei Strahlen,    die durch einen
+Punkt gehen, der eine mit den zwei andern gleiche
+Winkel bildet, so soll mittelst des Lineals ein vier-,
+ter Strahl gefunden werden, welcher ebenfalls mit
+den zwei letzt er n gleiche Winkel einschliesst. und
+mithin zu jenem ersten rechtwinklig ist.«
+        Die Lösung dieser Aufgabe gründet                    sich   ebenfalls   auf
+(IL)    und (i? 3, IV.), wie die vorige.
+     V. »W^erden irgend zwei Gerade «. c (Fig. 2) von
+beliebigen Geraden a^, b^, c^,       die durch irgend    ,
+
+
+
+einen Punkt G gehen, geschnitten,, und man verbin-
+det die Durch Schnittspunkte von je zwei der letzteren

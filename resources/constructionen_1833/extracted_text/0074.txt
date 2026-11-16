@@ -1,0 +1,75 @@
+                                                                                                 .
+
+
+
+
+70                                 Jacob Steiner.
+
+Kegelschnitt          möglich    sei),     sind        die   nämlichen    wie       bei   den
+vorhergehenden Aufgaben.
+       II.        Um die Construetion etwas
+                                         abzukürzen, kann man
+bei dieser Aufgabe   auch wie folgt verfahren. Man ziehe nur
+zwei Paar Gerade (I.\ etwa 2tS3 und SI^. iHß und ^X).
+welche der Tangente A in den Punkten a und «. b und [i
+begegnen, und ziehe sofort aus dem im Hülfskreise          belie-                   M
+big angenommenen Punkte                  P
+                               (vergl. Aufg. 1) die Strahlen Pa
+und P«, P6 und Pß, welche den Kreis in a und a,
+h und /?, schneiden, und ziehe ferner die Geraden aß^ und ba^                                    .
+
+
+
+die sich in einem Punkte ^^, sowie die Geraden ah und c(^{i^.
+die sich in einem Punkte t schneiden         lege weiter die Ge-
+                                                              ,
+
+
+
+
+rade ^^t. die den Kreis J/. im Allgemeinen, in zwei Punkten
+r und     schneiden wird
+             6'             und ziehe endlich die Strahlen Pr
+                                   .
+
+
+
+
+und Ps, so werden diese der Geraden            in den gesuchten   A
+Punkten r und      begegnen.
+
+                                   Aufgabe 5.
+    «Wenn von einem Kegelschnitte vier Tangenten
+und ein Punkt gegeben sind, so soll man die Tan-
+gente  finden, welche den Kegelschnitt in diesem
+Punkte berührt.«
+    [97] Es seien A. B. C\ D die gegebenen vier Tan-
+genten, und          9(   der gegebene Punkt.                Es heissen    die Punkte,
+in   welchen         A von B. C, D geschnitten wird,                          beziehlich
+a,   K c, und die Punkte, in welchen I) und C. D und B.
+6'   und     B einander schneiden, beziehlich a,. I\                      .   c,    .     Man
+ziehe die Strahlen %a^^                'i(b,,        %c^, und nenne die Punkte, in
+welchen sie die Tangente       treffen,    A
+                                        beziehlich a, ß^ y.
+Sodann suche man     auf dieselbe Weise wie bisher
+                             .                       mittelst                   .
+
+
+
+der Punktenpaare a und «.      und ß. c und ;', in der Ge-
+                                                t*
+
+
+raden      A
+         die Punkte v und ^. und ziehe sofort die Strahlen
+%X und %^, so wird jeder von diesen der Aufgabe ge-
+nügen.       —
+           üebrigeus lassen sich die zwei Punkte r. ^ auch
+hier durch dasselbe abgekürzte Verfahren finden, wie bei der
+vorigen Aufgabe (Aufg. 4, IL), wozu man nämlich nur zwei
+der drei Punktenpaare, etwa a und a. h und ß. nöthig hat.
+
+                                   Aufgabe 0.
+     »Wenn drei Punkte und zwei Tangenten eines
+Kegelschnittes gegeben sind, so soll man die Punkte
+finden, in welchen derselbe die Tangenten bi'nilnt                                          ^>

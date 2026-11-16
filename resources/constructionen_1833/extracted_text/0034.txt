@@ -1,0 +1,67 @@
+                                                      :
+
+
+
+
+"30                                     Jacob Steiner.
+
+<lass sich die Strecken ab. a^i\ in diesen Geraden,   welche
+durch die genannten Punkte begrenzt werden, ebenso zu
+einander verhalten, wie die Abstände irgend [39] zweier ent-
+sprechenden Punkte vom Punkte A] d. h. dass sich verhält
+ah a,6,
+      :          =
+              n n^.    Denn zufolge des Beziehungssystems
+                            :
+
+
+
+sind offenbar die Dreiecke aAh und a^Ah^ ähnlich, woraus
+sofort die ausgesprochenen Behauptungen unmittelbar folgen.
+Aehnlicher Weise folgt weiter: dass jede der zwei Geraden
+ai*, a,t\ alle Punkte enthält, welche den sämmtlichen Punk-
+ten in der anderen Geraden entsprechen;       nämlich irgend
+einem Punkte in der einen Geraden, z. B. dem Punkte e in
+der Geraden ab, entspricht derjenige Punkt e, in der anderen
+Geraden a, b^ welcher mit ihm in demselben (durch
+                       ,                              gehen-               A
+den) Strahle liegt, sodass also jeder Geraden in der einen
+Ebene irgend eine bestimmte Gerade in der anderen Ebene
+entspricht.           Daraus        fliessen     folgende Sätze:
+       »Jeder Geraden in der einen Ebene entspricht
+          I.
+
+eine bestimmte Gerade in der anderen Ebene; d. h.
+allen Punkten in der ersten Geraden entsprechen die
+sämmtlichen Punkte in der zweiten Geraden; je zwei
+solche entsprechende Gerade sind unter sich paral-
+lel, und je zwei entsprechende Strecken '^in zwei
+solchen Geraden) verhalten sich ebenso, wie die Ab-
+stände irgend zweier entsprechenden Punkte vom
+Punkte A, also wie ?i fl^^< Und umgekehrt: »Eine Ge-
+                                            :
+
+
+
+rade, die durch irgend zwei Punkte in der einen
+Ebene geht, entspricht derjenigen Geraden, welche
+durch die entsprechenden Punkte in der anderen
+Ebene bestimmt wird.«                           Ein [40] wesentlicher besonderer
+Fall hiervon          ist       der folgende Satz
+          II.   »In   jeder          Geraden,         welche       durch   A geht,
+also       in   jedem            Stralil,       sind zwei entsprechende        Ge-
+rade vereinigt.«
+          ni.   »Dem Durchschnittspunkte
+                                      irgend   zweier
+Geraden      der einen Ebene entspricht der Durch-
+                 in
+schnittspunkt der ihnen entsprechenden Geraden in
+der anderen Ebene.«
+    IV. »Zieht man aus irgend zwei entsprechenden
+Punkten, etwa aus a und a,, nach beliebiger Richtung
+zwei parallele Strecken, etwa vic und a, e,  die sich                  ,
+
+
+
+dem Beziehungssystem gemäss verhalten,           also
+ae: a^e, =n:n^,   so sind ihre anderen Endpunkte,

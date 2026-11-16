@@ -1,0 +1,61 @@
+        :
+
+
+
+
+                        Die geometrischen Constructionen.                     27
+
+        Aus       dieser   Betrachtung        fliessen   unter   anderen folgende
+Sätze
+        1.                   irgend einer Geraden (wie
+                »Liegt ein Punkt         in
+etwa        l   oder   m in \\}, oder    ^-  so geht seine
+                                               oder r in ^c),
+Harmonische durch ihren harmonischen Pol (b oder 6).«
+     Oder mit anderen Worten, ausführlicher:
+     2. «Die  Harmonische aller Punkte, welche in
+irgend einer Geraden {)^c\ oder ^*fc^ liegen, schneiden
+einander in einem bestimmten Punkte (C oder b). näm-
+lich im [35] harmonischen Pol jener Geraden«; und
+umgekehrt: »die harmonischen Pole aller Geraden,
+welche durch irgend einen festen Punkt              oder 6)            !t)
+
+
+gehen, liegen in der Harmonischen (pq oder j:r) des
+letzteren«.
+        3.      »Lässt man, in der Vorstellung, zwei Tangen-
+ten eines festen Kreises 31 sich so bewegen, dass
+ihr gegenseitiger Durchschnittspunkt (1 oder j;) längs
+irgend einer festen Geraden (pq oder j;r) fortgleitet,
+so dreht sich die Gerade, welche durch ihre Be-
+rührungspunkte geht, um irgend einen bestimmten
+festen Punkt (C oder b).« Und umgekehrt: «Dreht sicli
+eine Secante eines festen Kreises um irgend einen
+festen Punkt (b oder b), so bewegt sich der Durch-
+schnittspunkt der Tangenten,     durch deren Be-
+rührungspunkte sie geht, längs irgend einer be-
+stimmten Geraden (pq oder j;r).«
+        IV. Die vorstehenden Betrachtungen geben ein bequemes
+Mittel  an die Hand, um die folgenden Aufgaben durch
+Hülfe des Lineals allein zu lösen.
+     1. »Wenn in einer Ebene irgend ein Kreis 71/ ge-
+
+geben ist, so soll man «) die Harmonische irgend
+eines gegebenen Punktes, und ß) den harmonischen
+Pol irgend einer gegebenen Geraden finden.«
+        Es     etwa b oder b (Fig. 12) der gegebene Punkt.
+                 sei
+Man           durch denselben zwei beliebige [36] Secanten,
+            ziehe
+etwa b^ und bt oder Bt und ac, verbinde die vier Durch-
+schnittspunkte e. cj, ^. i oder i5, e, a, c, in welchen sie
+den Kreis 31 schneiden      paarweise durch zwei Paar Gerade,
+                                  .
+
+
+
+
+r^e, ig und f)g, te.   oder Bc. ae und aB, cc. so werden
+ ihre Durchschnittspunkte, t und f oder ? und r, in der ver-
+-langten Geraden («) liegen, wodurch diese sofort gefunden ist.
+      Ist ferner etwa die Gerade ^^q oder j:r gegeben (/?), so

@@ -1,0 +1,79 @@
+                                                      :                                          :
+
+
+
+
+16                                          Jacob Steiner.
+
+
+kurz   andeuten, und das Auffinden der leichtesten und be-
+quemsten Auflösung Andern überlassen.
+     [20] Die Aufgabe ist als gelöst zu betrachten, sobald
+man in der gegebenen Geraden irgend drei Punkte gefunden
+hat, wovon der eine gleich weit von den zwei übrigen ent-
+fernt ist (§6, I.).
+     Das gegebene rationale Verhältniss der gegebeneu
+Strecken BD,                DC
+                     lässt sich immer, in welcher Form es
+auch gegeben sein mag, durch zwei ganze Zahlen a, h aus-
+drücken, welche unter sich Primzahlen sind.     Angenommen
+es sei a'^ b.    Man construire zu den drei gegebenen Punk-
+ten B. D, C den vierten, dem                              D
+                                  zugeordneten, harmonischen
+Punkt     E (§     5,   I.),       so hat       man
+                               BD: CD = BE CE                          :
+
+
+
+
+oder, wenn man                 statt         der Linien die ihnen entsprechenden
+Zahlen setzt, und              CE           durch die Zahl .r ausdrückt
+                               a   :    b   =   {a -\- b -]- x)             :   X
+und     folglich
+                                            _b{a-h b]
+                                                 a   —b
+        Wird BC^a-\-b                           =y        gesetzt,          so hat      man
+
+                            X -.xj          = b{aa —+— a ^
+                                                         -\-b
+                                                           b
+                                                              b]
+                                                                   :
+                                                                                ,
+
+
+
+
+oder
+            1.                      X   :
+                                            y   =b    :    [a      —b       .
+
+
+
+
+das heisst:      »Aus den gegebenen Strecken BD. CD. die
+sich verhalten wie die Zahlen a,                                           b.   lassen sich zwei
+neue Strecken BC,                           CE oder y. x,                       finden, die sich
+verhalten, wie die Differenz der gegebenen Zahlen
+a —  b zu der kleinereu Zahl Z».« Daher wird mau. durch
+wiederholte Anwendung dieses [21] Verfahrens, endlich zu
+zwei Strecken gelangen, die einander gleich sind, d. h. mau
+wird drei Punkte haben, wovon der eine in der Mitte zwischen
+den zwei übrigen liegt, und wodurch sodann die vorgelegte
+Aufgabe auf die obige (§ (», I.) zurückgebracht ist. Denn ist
+z. B. die Difl'erenz a                 —
+                        b grösser als b. so wird man durch
+eine neue Construction zwei Strecken erhalten,                                              die sich ver-
+halten wie b    —      {a und      2b\'.             so    kann man fortfahren,                       bis man
+                                                                                                      —
+                   :
+
+
+
+
+zu zwei Strecken gelangt,                       die sich verhalten wie b                     :   {a       /ib   .
+
+
+
+
+wo der Rest a — nb kleiner                        als b.        und etwa            =   c   ist.      Sodann

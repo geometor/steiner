@@ -1,0 +1,58 @@
+                         Die ^euiiietrisclicn Coustructioneu.                    25
+
+der (lurcli den festen Punkt gebt, abi'b, und welche
+uussevlialb des Kreises liegt (yb) oder ihn schneidet
+{\)h), je  nachdem der feste Punkt innerhalb (6) oder
+ausserhalb (t) desselben sich befindet. "Im letzteren           '(
+
+
+
+
+Falle, wo der feste Punkt b ausserhalb des Kreises
+liegt,    schneidet die genannte    zugehörige Orts-
+Gerade {jh den Kreis in denjenigen Punkten )^, q, in
+welchen er von den durch den festen Punkt b gehen-
+den Tangenten b^'», bq berührt wird.«
+        Vermöge dieser gegenseitigen Beziehung des jedesmaligen
+festen Punktes, 6 oder b,  und der zugehörigen Orts-Geraden,
+jcb   oder   1)6,    jener [32] der »harmonische Pol« der
+                        heisst
+letztern, und diese heisst die "Harmonische« jenes Punktes
+in Bezug auf den festen Kreis.
+      II. Zieht man aus dem festen Punkt b irgend zwei Se-
+
+canten durch den Kreis J/, etwa Ccj und bi, so bestimmen
+die     vier Durchschnittspunkte  e,  g,   f:), t  vier Gerade
+f^el,   igt,   cfi,
+                 gf:^, oder ein vollständiges Vierseit, dessen
+Diagonalen einander harmonisch schneiden (§ 4), sodass also
+die zwei Diagonalen eg und l^t von der dritten tl in den-
+jenigen Punkten u und m geschnitten werden, welche zu den
+drei Punkten b. e, g und b, t), t die vierten, dem b zuge-
+ordneten, harmonischen Punkte sind; da aber, zufolge des
+vorstehenden Satzes (I.), die nämlichen Geraden beg, t^i
+von der Geraden phq in denselben harmonischen Punkten n, m
+geschnitten werden, so muss folglich die Diagonale fl mit der
+Geraden \>c\ zusammenfallen, d. h. die Punkte f,. ( müssen in
+der Harmonischen '^q des Punktes b liegen.        Ebenso folgt,
+dass, wenn man durch den Punkt b irgend zwei Secanten
+Bht, ahc zieht (wovon die letztere nicht Durchmesser zu
+sein braucht), ihre vier Durchschnittspunkte B, e, a. c mit
+dem Kreise, ein vollständiges Vierseit ae§, Bc^, aBx, ecv
+bestimmen,          dessen       dritte   Diagonale   X^       die   zwei   übrigen
+ße, ac                Punkten j;. D schneiden muss, welche
+             in denjenigen
+zu den drei Punkten 5, b, e und a. h. c die vierten, dem h
+zugeordneten   harmonischen Punkte sind
+                    ,                       dass folglich die
+                                                           ,
+
+
+
+Diagonale rö mit der Harmonischen j;t! des Punktes 6 zusam-
+menfällt.      Also:
+           man aus irgend einem festen [33] Punkte,
+        »Zieht
+b oder b, zwei beliebige Secanten, bg, bt oder Bt, ac,
+durch einen festen Kreis J/, so bestimmen ihre vier
+Durchschnittspunkte, e, g, 6, i oder B, e, a, C, ein

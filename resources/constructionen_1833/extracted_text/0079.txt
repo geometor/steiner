@@ -1,0 +1,59 @@
+                          Die geometrischen Constructionen.                               75
+
+          Um ancleierseits die vier               gemeinschaftlichen                Tangenten
+zu linden,       nehme man in der gegebenen Secante ^){(S irgend
+einen Punkt      an (welcher aber ausserhalb der Kegelschnitte
+                   *"]>
+
+
+
+liegt), ziehe aus demselben an jeden Kegelschnitt zwei Tan-
+genten, suche sofort, mittelst des Lineals, die Berührungs-
+punkte, a und /», «, und h^, derselben und ziehe sodann die
+(jleradenpaare ««, und />/>»,, ah^ und Z»a, die sich beziehlich      ,
+
+
+
+in   den Punkten           A^ l schneiden, welche zugleich die Durch-
+schnittspunkte            der    gesuchten        zwei        Paar       gemeinschaftlichen
+Tangenten         sind,         sodass    also   sofort, nach
+                                                      diese    letzteren
+(Aufg.     gefunden werden.
+           3.)
+     Eine einfachere Auflösung der vorgelegten Aufgabe werde
+ich an einem anderen Orte mittheilen und beweisen.
+
+
+ 1041
+                                      Aufgabe           17.
+
+        »Wenn von zwei Kegelschnitten 7t', /f, zwei
+                                              ge-
+meinschaftliche Tangenten A^ A^ und ausserdem von
+Jedem insbesondere irgend drei Tangenten, etwa
+a,   h,    c   und a^.       ä, ,   c^^   gegeben sind, so soll man ihre
+übrigen    zwei gemeinschaftlichen Tangenten, sowie
+ihre vier gemeinschaftlichen Punkte finden.«
+     Heissen die Punkte, in welchen A und A^ von a, ä, c
+geschnitten werden, beziehlich a, &, c und a,, b, t\ Aus                        ,     .
+
+
+
+jedem der letzteren drei Punkte lege man an TT, eine zweite
+Tangente welche nämlich ausser der schon vorhandenen A^
+noch stattfindet), nenne die Punkte, in welchen sie die A
+schneiden, beziehlich a, ß,                      /,     suche    sofort,       mittelst   des
+Hülfskreises, in der Geraden                A zu den drei Punktenpaaren a
+und a,       b und /i?, c und y die zwei Punkte r und §, und
+lege      endlich aus jedem dieser Punkte eine zweite) Tangente
+an   K oder /rj,  so werden dieselben auch K^ (oder K) be-
+rühren,  und mithin die gesuchten zwei gemeinschaftlichen
+Tangenten sein.            —
+                    Die gemeinschaftlichen Punkte der Kegel-
+schnitte werden sofort auf eine entsprechende Weise gefun-
+den, wie bei der vorigen Aufgabe die gemeinschaftlichen
+Tangenten.
+      Es lassen sich nun weiter eine Menge Aufgaben auf-
+stellen, welche aus den zwei letzten (16. und 17.] und aus
+den früheren Aufgaben zusammengesetzt sind, wie z. B. die
+folgenden.

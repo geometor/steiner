@@ -1,0 +1,76 @@
+20                                        Jacob Steiner.
+
+
+mithin ist auch das Verhältniss der Strecken         C C'E                                     A            :
+
+
+
+
+gegeben, nämlich     [p    ?)  ??= —sodass also dadurch der
+                                                       •
+
+
+
+gegenwärtige Fall auf den vorigen [a] gebracht ist.    Es ist
+dabei nicht nöthig die dritte Parallele      zu ziehen, was                 EF
+leicht zu sehen ist.
+      Fall c. Sind etwa A,                        B
+                               (Fig. 9) die gegebenen Paral-
+                                               lelen und               CE
+                                                               die gegebene Streckt-,
+          —^^                             ^    welche in 1) so getheilt ist. dass
+                                               die Abschnitte CD^          sich ver-   DE
+          ^                          -^        halten wie zwei gegebene Zahlen^, q.
+                                 /             Man ziehe durch die Punkte C. I).                              E
+                             '
+                                               drei Gerade, welche den Geraden                              A B .
+
+
+
+
+                         /                     parallel sind (§ 6. lU. so hat man          .
+
+
+
+
+               Pj    y
+                                               alsdann den ersten Fall {a                              .
+
+
+
+                                                           Oder,       man ziehe durch irgend
+einen    beliebigen Punkt                     eine Parallele             mit   CE (§ 7             ,       so hat
+man die Aufgabe auf die obige                                    (I.   gebracht.
+        Fall   d.   Sind etwa AC^      (Fig. 10             DF                         die     gegebenen
+Strecken,       welche durch die Punkte B^                                     E in gegebenem
+                                 Verhältniss               getheilt         sind,          sodass               26]
+                                 AB :BC = p:q und DE: EF =                                                  t' : s,
+
+                                 wo />, q, r,  gegebene Zahlen sind, so
+                                                            i<
+
+
+                                 ziehe man durch irgend einen Punkt eine
+                              mit   C und durch (denselben
+                                 Parallele                       A
+                           irgend einen andern Punkt eine
+                                 oder;
+                   Parallele mit      \% 7.): so hat man die DF
+                   Aufgabe auf die obige (I., zurückgeführt.
+                   Oder man ziehe durch zwei Punkte der
+                   einen Geraden, etwa durch F. E, mit der
+
+      i'^g- ^^-
+                   andern Geraden         Parallele (§ 7.), so         AC
+                   iiat mau die Aufgabe auf den Fall [a^ ge-
+
+bracht, und die Construction wird, in den meisten Fällen, im
+Ganzen etwas kürzer sein als die vorige.
+
+
+                C.   Wenn ein Quadrat gegeben ist.
+
+        Ausser den Aufgaben,                       welche vorhin durch Hülfe eines
+beliebigen Parallelogramms sich Ifisen Hessen                                    (i?   S   .   I.).        können
+in     dem besonderen                Falle,     wo das Parallelegramm ein Quadrat
+ist,   unter andern noch folgende Aufgaben gelöst werden.

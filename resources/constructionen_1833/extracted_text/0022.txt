@@ -1,0 +1,52 @@
+18                        Jacob Steiner.
+
+     Es seien  AB  und 1)C. AI) und B(J (Fig. 7) die ge-
+gebenen Parallelen und mithin       AB CD
+                                    das gegebene Paral-
+lelogramm, dessen Diagonalen ^6'.      BD
+                                     sich in    schneiden.£
+                                      Durch den Punkt                     E
+                                      lege man mit einem
+                                      der zwei Paar Paral-
+                                      lelen,   etwa    mit
+                                                   AD\ BC.              eine
+                                                   dritte Parallele     EF.
+                                                   so befindet sich diese
+                                                   offenbar in der Mitte
+                                                   zwischen [23 jenen
+                                                   zweien, d. h. sie ist
+                                                   von beiden gleich
+                                                   weit   entfernt,  su
+                                                   dass also diese drei
+                                          Parallelen jede an-
+dere Gerade (die nicht mit ihnen parallel ist in drei solchen
+Punkten schneiden, wovon der eine in der Mitte zwischen
+den zwei übrigen liegt.
+     Ist nun eine Gerade, etwa GK. gegeben, so wird die-
+                                                G F.
+selbe von den drei Parallelen in den drei Punkten               .        H
+geschnitten, wovon der eine, F\ in der Mitte zwischen den
+zwei übrigen, G und H. liegt, und wodurch also der For-
+derung [a): »durch jeden willkürlichen Punkt mit der Gera-
+den  GK    eine Parallele zu ziehen«, zufolge (i? 0. I.). genügt
+werden kann.
+     Oder, anstatt die dritte Parallele          EF
+                                             zu ziehen      kann    ,
+
+
+
+man auch wie folgt verfahren. Durch die Punkte /, Ä', in
+welchen die gegebene Gerade        GKdie Parallelen AB.                 DC
+schneidet, ziehe man die Geraden IE. KE. welche diesen
+Parallelen in L., 31 begegnen, so wird die Gerade LJI offen-
+bar der IK parallel sein, und sodann kann durch jeden be-
+liebigen Punkt, zufolge   (§ 6,   III.).   mit   IK eine Parallele ge-
+zogen werden.
+     Die zweite Forderung [b) wird durch Hülfe der ersten
+und nach Anleitung von ;§ 6, II.) erledigt.
+     II. »Wenn in einer Ebene entweder:
+
+      a) drei Parallele, welche irgend eine vierte Ge-
+           rade in gegebenem rationalen Verhältniss
+           schneiden: oder
+      b)   in  zwei Parallelen irgend zwei Strecken,

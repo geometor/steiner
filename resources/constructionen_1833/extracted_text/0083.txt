@@ -1,0 +1,66 @@
+                                                             .                    .
+
+
+
+
+                 Die {^ei'inetiiaelion Constructionen.                       79
+
+nimmt, einen Stal), der von einem. [109] an dem einen Ende
+der Kette befindlichen, Ringe lose umschlossen wird, und
+nehme    Ma = Mb =     der Länge der Kette und setze in a
+und b Stäbe. Nun setze man ferner in A, wo sich die Ge-
+raden a, a und M^     M
+                    kreuzen, sowie in /, wo sich die Ge-
+raden aj) und     M^M
+                   durchschneiden, einen Stab: so lassen
+sich alsdann,   mit Hülfe dieser Vorbereitungen, leicht so viele
+Punkte des Kreises M^ finden, als man will.      Denn man
+spanne z. B. die Kette nach einer beliebigen Richtung, etwa
+nach r hin, aus, setze hier einen Stab, und spanne sie so-
+dann nach der gerade entgegengesetzten Richtung bis d aus,
+und setze hier auch einen Stab, so ist sowohl der Durch-
+schnitt der Geraden Ar und dl. als der Geraden Ad und ri,
+also sowohl Tj als f/, ein Punkt des Kreises J/,
+                          .
+
+
+
+      Fänden    solche Hindernisse     statt,   dass   man       nicht   über
+den  Raum R hinwegsehen, also nicht aus A und / nach r,
+sehen könnte, so würde man vorerst nur die erforderliche
+Menge von Punkten längs des sichtbaren Bogens a, </, be-
+stimmen, und sodann den Hülfskreis anderswo annehmen, um
+einen neuen Bogen zu erhalten, oder um den vorigen zu ver-
+längern, und so würde         man fortfahren,   bis der Kreis J/,        voll-
+ständig wäre.
+     Wären, anstatt des Mittelpunktes J/, des zu construireu-
+den Kreises und des einen Punktes «,        in  dem Umfange
+                                                 .
+
+
+
+desselben, irgend drei Punkte des letzteren, etwa a^  d^  e,       .     .
+
+
+
+gegeben  , so Hesse sich die Aufgabe z. B. folgendergestalt
+lösen.
+      Man stecke irgend ein Dreieck ade ab. dessen Seiten
+den Seiten des gegebeneu Dreiecks a^d^e^ [110] beziehlich
+parallel sind;   suche den Mittelpunkt          M
+                                            des Kreises ade
+(d. h. des  dem Dreiecke ade umschriebenen Kreises, sowie
+die Aehnlichkeitspunkte A. I der Kreise ade. a^d^e^. und
+verfahre sodann ebenso wie oben.      Um nämlich z. B. die
+Gerade ad mit der durch die zwei Punkte a, und c/, ge-
+gebenen Geraden a^d^ parallel zu ziehen, ist es nöthig. die
+letztere über einen ihrer Endpunkte hinaus zu verlängern.
+um in dieser Verlängerung zwei gleiche Strecken annehmen
+zu können, wie vorhin die Strecken a^m          ?;^?^. =Dieses
+Verlängern ist aber bekanntlich auch in demjenigen Falle
+möglich, wo weder einer der beiden Endpunkte a,        r/, aus     .
+
+
+
+dem anderen zu sehen, noch die zwischen ihnen befindliche
+Strecke    von a^ bis r/J zugänglich ist. sondern wenn nur

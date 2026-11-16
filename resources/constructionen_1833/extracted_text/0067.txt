@@ -1,0 +1,77 @@
+                                 Die geometrischen Constructionen.                                    63
+
+.1/,       M^Bezug auf den Aehnliclikeitspuukt A^ sind. Man
+                  in
+zit'lie        die Geraden ce. df. welche den Hülfskreis
+            weiter                                                                                    M
+ zum zweiten Mal) in g, h schneiden, und lege sofort die
+Strahlen A,(j und Aji, A^g und AJi. welche den Geraden
+'e'n <A      beziehlich in den Punkten g^ und //,
+                 '''•<
+                                                     g^_ und h^                        .
+
+
+
+
+l'egegnen. so liegen diese Punkte zugleich auf den Kreisen
+J/,   il/j, und zwar sind sowohl <\ und g^. als «7, und Cj,
+       .
+
+
+
+als d^ und /^. als //, und d^ potenzhaltende Punkte in Bezug
+auf ihren äusseren Aelinlichkeitspunkt [A\^.   Denkt man sich
+also weiter die Sehnen {gji^     {gJi.i gezogen um die Figur
+nicht zu überfüllen, sind diese und einige folgende Linien
+nicht wirklich gezogen worden       und bezeichnet die Punkte,
+                                                             .
+
+
+
+
+in welchen sie beziehlich die Durchmesser Coc/,    c^d^ schnei-                    .
+
+
+
+
+den, durch p.        und zieht endlich die Gerade (pq), so ist
+                                   v").
+
+
+diese        die             gemeinschaftliche Secante der Kreise M^     J/^                      ,
+
+
+
+l§ 17.          II.      .   und es ist somit die vorgelegte Aufgabe auf die
+vorhergehende (7. Aufg.) zurückgebracht, indem nunmehr nur
+noch die gegenseitigen Durchschnittspuukte der Geraden ipci)
+und eines der beiden Kreise, etwa des Kreises il/, zu finden                               .
+
+
+
+nöthig sind.   Dieses kann aber mittelst der [861 bereits vor-
+handenen Hülfsliuien sehr leicht geschehen.          Nämlich man
+ziehe die Strahlen (^ .,)>), (-^^vi), nenne die Punkte, in welchen
+sie der Sehne [gJi    und dem Durchmesser cd beziehlich be-
+gegnen, [p). [q): ziehe weiter die Gerade [pq]. nenne die
+Punkte, in welchen sie den Hülfskreis        schneidet, [r). s) und     M
+ziehe endlich die Strahlen [A,^r           so werden diese die   .   'A.^s).
+Gerade (pq) in den der Aufgabe genügenden Punkten r, § treffen.
+     Mehrere andere Auflösungsarten der vorliegenden Auf-
+gabe übergehe ich hier, weil keine einfacher ist. als die eben
+beendigte.   Die eine besteht z. B. darin, dass man die Linien
+der gleichen Potenzen (oder gemeinschaftlichen Secanten) der
+Kreispaare      und il/,     M                 .    M
+                             und M^ sucht (1. Fall), und aus
+ihrem Durchschnittspunkte (q) auf die Axe M^ 31.-, ein Loth
+fällt, welches alsdann die gemeinschaftliche Secante der Kreise
+
+M^     .   31.,       ist.    u.     s.   w.
+
+                                                        §   19-
+
+                                           Schlussbemerkung.
+     Dass nunmehr alle geometrischen Aufgaben, im engereu
+Sinuc genommen, sich in der That durch Hülfe der vorher-
+gehenden acht Aufgaben (§ 18) behandeln lassen, das heisst.
+dass        ihre             Auflösung             in   einer        seriu^eren   oder         «rrösseren

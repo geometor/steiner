@@ -1,0 +1,54 @@
+54                      Jacob Steiner.
+
+
+ Dreiecks pap^, zwei aus den Ecken auf die Gegenseiten ge-
+fällte  Lothe, und daher muss ah das aus der dritten Ecke
+ auf die Gegenseite gefällte Loth sein, weil alle drei Lothe
+ sich in einem und demselben Punkte h schneiden müssen.
+ Der Beweis folgt auch aus harmoni.schen Eigenschaften, zu
+ welchem Ende mau nur noch die Gerade csd ziehen muss
+ i§ 10). —    Liegt insbesondere der gegebene Punkt in dem
+gegebenen Durchmesser, wie etwa r. so ziehe man durch ihn
+irgend eine den Kreis schneidende Gerade ref. ziehe weiter
+die Geraden ae und hf. af und be. die sich in den Punkten
+
+ q^ q^ schneiden, lege durch diese die Gerade qq^. die den
+gegebenen Durchmesser ah in s trifft, lege durch dieseu
+Punkt s eine beliebige Secante csd. ziehe sofort die Gera-
+den ac und dh. ad und eh. die sich in p. /), schneiden,
+und ziehe endlich die Gerade />/?, so wird diese der Aufgabe
+                                  .
+
+
+
+
+genügen.     Die Richtigkeit dieser Construction folgt aus
+{§ 10, in. und IV.); nämlich es ist zu bemerken, dass ^i/^,
+die Harmonische des Punktes r. und prp^ die Harmonische
+des Punktes s ist, u. s. w.  —   ß. Der gegebene Punkt liege
+innerhalb des Hülfskreises, wie etwa q.     Man ziehe die Ge-
+raden aq, hq, die den Kreis va e.     fschneiden, ziehe weiter
+die Geraden af. he. die sich in q^ schneiden, so ist qq^
+die verlangte Gerade.    Ist s der gegebene Punkt,    so ziehe
+man durch ihn eine beliebige Sehne csd. [74 und sodann
+die Geraden ac und dh, ad und eh.          die sich in y>. />,
+schneiden, ziehe ferner die Gerade pp^. die den Durckmesser
+ah in r trifft, lege durch dieseu Punkt eine beliebige Secante
+re/, und ziehe weiter die Geraden ae und hf. af und he.
+die sich in q. q^ schneiden, so wird die Gerade qq^ der For-
+derung genügen, d. h., sie wird in dem gegebenen Punkte *
+auf dem gegebenen Durchmesser ah senkrecht stehen.       Alles
+beruht auf ähnlichen Gründen, wie vorhin (a).
+     b. Wenn     die gegebene Gerade beliebige Lage
+hat, z. B. sie sei pp^ (oder </;/,).      — Man suche ihren
+harmonischen Pol s oder r) in Bezug auf den Hülfskreis
+(§ 10, IV. j,  ziehe den durch denselben gehenden     Durch-
+messer 31s (oder 3/r), so steht dieser auf der gegebenen
+Geraden pp^ (oder qq^\ im Punkte r (oder     senkrecht: mau
+                                              ^v
+
+
+suche weiter zu diesem Punkte r die Harmonische xi/. ziehe
+sofort >/z. und ferner az. h.r. die sich in r schneiden, so
+wird der Durchmesser rM der gegebenen Geraden pq^ parallel
+sein . und man hat sofort nur auf ihn aus dem gesebeuen

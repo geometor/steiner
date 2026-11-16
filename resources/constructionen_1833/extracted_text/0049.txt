@@ -1,0 +1,61 @@
+                                                                                j
+
+
+
+
+                      Die geouictrischeu (Jonstnictioiieu.                 45
+
+so wird,       wenn   insbesondere die Kreise einander schneiden,
+die   «gesuchte Ortsliuie      AQnotliwendiger Weise ihre gemein-
+schaftliclie     Secante sein, d. h., sie wird durch ihre gegen-
+seitigen Durchschnittspnnkte gehen.   Denn für jeden dieser
+zwei Punkte, wenn man ihn mit                      N
+                                      bezeichnet, hat man:
+MN =     R und 3l^          N=
+                          li^ welches offenbar der vorliegen-
+                                          ,
+
+
+
+
+den, für N festgesetzten Bedingung genügt.
+      Wenn aber die Kreise einander nicht schneiden, so wird
+auch keiner von ihnen von der Ortslinie NQ getroffen, son-
+dern diese liegt alsdann entweder zwischen oder jenseits
+der Kreise, je nachdem diese ausser oder ineinander
+liegen.
+
+     [61] Im Allgemeinen hat die Ortsliuie                   XQ ferner    fol-
+
+gende Beziehung zu den zwei Kreisen:
+       a)    »Die aus irgend              einem Punkte derselben an
+die Kreise gelegten Tangeuten sind einander gleich«;
+und
+     b) »Die   durch irgend einen Punkt derselben,
+welcher innerhalb der Kreise liegt (also im Falle, wo
+diese einander schneiden), in beiden Kreisen gezogeneu
+kleinsten Sehnen sind einander gleich.«      Und umge-           .
+
+
+
+
+kehrt:
+       (•)   »Jeder Punkt, welchem eine von diesen zwei
+Eigenschaften         («) oder {b) zukömmt, liegt in der
+Ortslinie        NQa
+       Denn denkt man              sich       aus irgend einem Punkte JV der
+Ortslinie an jeden Kreis eine                  Tangente gelegt, bezeichnet die
+Berührungspunkte durch Bj B^, und denkt sich ferner die
+Geraden J/.Y, 3/, iV^, sowie die Radien J/5, M^B^ gezogen,
+so hat man vermöge der rechtwinkligen Dreiecke 31      und           BN
+3I,B,N:
+
+             iVi?/-   =   31^ X-   —   31, B^-     = 31, X^ — B;-.
+Zufolge der obigen Gleichung sind aber in diesen zweien die
+Differenzen rechts einander gleich, daher muss auch
+                             XB""      = XB,-, oder
+                             XB =XB^
+sein, d. h.. es müssen die Tangenten einander gleich sein                  (a).
+
+Aelmlicher Weise wird der zweite Fall [b] bewiesen.
+       Die Ortslinie       XQ wird vermöge dieser Eigenschaft [62

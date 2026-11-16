@@ -1,0 +1,46 @@
+50                             Jacob Steiner.
+
+
+allemal zwei solche Sehnen (oder Secanten) be-
+stimmt, welche einander in irgend einem Punkte
+ihrer oremeinschaftlichen Secante re schneiden.
+
+
+                          Drittes Kapitel.
+
+Lösung aller geometrischen Aufgaben mittelst des Lineals,
+           wenn ein "fester Kreis gegeben ist.
+                                   i?   IS.
+
+     I.   Durch    die  den beiden vorhergehenden Kapiteln
+                         in
+enthaltenen Betrachtungen über Eigenschaften der Figuren
+sind wir nun in Stand gesetzt, dem eigentlichen Zwecke
+dieser Schrift. [68] nämlich der Forderung:      »alle geo-
+metrischen Aufgaben nur mittelst des Lineals zu
+lösen, wenn in der Ebene irgend ein fester Kreis ge-
+geben ist«, zu genügen.     Und zwar kommt es hierbei, wie
+schon Eingangs bemerkt worden § 1). hauptsächlich nur auf
+die Lösung der nachstehenden acht Aufgaben an.       Die Be-
+weisgründe, auf welchen die Richtigkeit der zur Lösung
+dieser Aufgaben angewendeten Constructionen beruht, werde
+ich. wenn sie in vorhergehenden Sätzen enthalten sind, kurz
+andeuten, wenn sie aber in leichten, allgemein bekannten
+Elementarsätzen bestehen, mit Stillschweigen übergehen.
+     U. Nehmen wir also an, es sei in der Ebene irgend ein
+gezeichnet vorliegender Kreis,    sowie   dessen Mittelpunkt,
+welcher fortan durch J/ bezeichnet werden soll, gegeben,
+und es sei nur der Gebrauch des Lineals, um zwischen ge-
+gebenen Punkteu gerade Linien zu ziehen, gestattet: dabei
+sei man jedoch berechtigt, die gegenseitigen Durchschnitts-
+punkte des Hülfskreises 3/ und beliebiger Gerader als un-
+mittelbar gegeben anzusehen: so lassen sich die in Kode
+stehenden Aufgaben wie folgt lösen.
+
+                              Erste Aufgabe.
+    »Mit irgend einer gegebeneu Geradeu. durch
+jeden beliebigen Punkt, eine Parallele zu ziehen.
+    a. Wenn die gegebene Gerade durch den Mittel-
+punkt des Hülfskreises geht, wie etwa uMb (Fig. 10
+—  In diesem Falle [69^ hat mau in der Geraden unmittelbar
+drei riinktc      nämlich die     zwei Punkte   (/   und   l>.   in   welchen

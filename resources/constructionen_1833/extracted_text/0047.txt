@@ -1,0 +1,63 @@
+                             Die geometrischen Constructionen.                                  43
+
+berührt werden, so liegen die zwei Berührungspunkte
+allemal mit dem äusseren (^'Ij) oder inneren (73) Aehn-
+lichkeitspunkt derselben in gerader Linie, je nach-
+dem sie gleichartig oder ungleichartig vom dritten
+Kreise berührt werden.«
+           4,   Wenn ferner insbesondere zwei Kreise einander gleich
+sind,       etwa       i?i   =   li^,        so    liegt   ihr         innerer    Aehnlichkeits-
+punkt /j in der Mitte zwischen ihren Mittelpunkten .1/,, J/3,
+und ihr äusserer 1^58] Aehnlichkeitspunkt A.., liegt unendlich
+entfernt (§ 12, I., 7.   sodass   also nothwendigerweise die
+                                        ,
+
+
+
+Aehnlichkeitsstrahlen               I^ I^ [A^] ,mit der AxeA^ A^ [A^]
+M^ J/3          parallel      gehen.          Werden
+                                              Kreise einander
+                                                            alle       drei
+gleich, so entfernt sich der Aehnlichkeitsstrahl A^A^A^ ins
+Unendliche,    und die drei inneren Aehnlichkeitsstrahlen
+/, /j  /j /j
+       ,     /j /, werden den Axen M^ M„ M^ M^ M^ M^
+                   ,
+                                                                              ,
+                                                                                       ,
+
+
+
+parallel.
+
+       U. lieber die drei betrachteten Kreise soll hier nur noch
+eine               in Bezug auf ähnlich liegende Punkte,- liin-
+           Bemerkung,
+zugefügt werden.     Sind etwa v^j und vT., irgend zwei ähnlich
+liegende Punkte zu den Kreisen M^ und M^ in Bezug auf
+ihren äusseren Aehnlichkeitspunkt A^         so werden sich die    .
+
+
+
+Strahlen A^^^ und A^k\^^ in demjenigen Punkte ^3 schneiden,
+welcher jenen zwei Punkten in Bezug auf die Aehnlichkeits-
+punkte J[.,, A^ entspricht, d. h., es sind q, und ^3, q., und O3
+beziehlich ähnlich liegende Punkte zu den Kreisen M^ und JI/3,
+M:, und J/3; und ebenso werden sich die Strahlen Z^q^ und
+/, cij in demjenigen Punkte ^^3 schneiden, welcher den zwei
+Punkten q,, v^., in Hinsicht der Aehnlichkeitspunkte /, /,                                  ,
+
+
+
+entspricht; die zwei Punkte \\^ und ^3 aber w^erden allemal
+in einem Durchmesser des dritten Kreises M^           liegen und
+gleich weit von seinem Mittelpunkte abstehen.           Von der
+Richtigkeit dieser Eigenschaften wird man mittelst des Vor-
+hergehenden sich leicht überzeugen.
+
+i59i
+                        m. Von der Potenz bei Kreisen.
+                  A.    Vom Ort der gleichen Potenzen.
+                                                  § 1^.
+           Sind iu einer Ebene                    irgend   zwei feste Punkte J/, M^
+(Fig. 17.)        gegeben und               es soll der    Ort desjenigen Punktes               N

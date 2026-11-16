@@ -1,0 +1,62 @@
+                 Die geometrischen Constructionen.
+
+
+
+                                Aufgabe     1.
+
+
+       »Weuu    in    einer Ebene zwei               beliebige Dreiecke
+gegeben sind,       man ein drittes finden, welches
+                      so soll
+zugleich dem ersten um- und dem zweiten einge-
+schrieben ist.«
+    Es seien B, B^, B^ die Eckpunkte des ersten, und
+A, A^^ A<^ die Seiten, und zwar die unbegrenzt verlängerten
+Seiten des zweiten Dreiecks.
+       Mau nehme in A einen willkürlichen Punkt a an, ziehe
+den Strahl  aB, der die Gerade A^ (beide genugsam ver-
+längert)   ineinem Punkte a, trifft, ziehe sofort den Strahl
+c^^B^, der die   A^ in einem Punkte a^ schneidet, und ziehe
+endlich 'den Strahl [92] a.,Z?.,, Avelcher der      in  einemA
+Punkte « begegnet.     Nun hat die Aufgabe offenbar keinen
+anderen Zweck, als den ersten Punkt a so zu bestimmen,
+dass der zuletzt erhaltene Punkt a mit ihm zusammenfällt,
+indem in diesem Falle das Dreieck aa,a.^a der Aufgabe ge-
+nügt.    Da aber, im Allgemeinen, dieses Zusammenfallen nicht
+stattfindet, sondern a und a zwei verschiedene, aber von
+einander abhängige,     einander entsprechende Punkte sein
+werden, so suche man ähnlicher Weise zu zwei anderen, be-
+liebig angenommenen Punkten b, c in der Geraden A.         die
+ihnen entsprechenden Punkte ß. y in der nämlichen Geraden.
+Sodann nehme man im Umfange des Hülfskreises 3/ irgend
+einen Punkt     P an. und ziehe die Strahlen Po, und P«,
+P6 und Pp', Pc und Py. die den Kreis (zum zweiten Mal)
+beziehlich in den Punkten a und a,       h und /i,
+                                                 ,   c und ;>    ,
+
+
+
+schneiden eins dieser Punktenpaare, z. B. das erste, verbinde
+            ;
+
+
+
+man kreuzweise mit jedem der übrigen, d. h., man ziehe die
+Geraden aß^ und a^h. die sich in einem Punkte p, sowie
+die Geraden a/^ und a, c,       die sich in einem Punkte q
+schneiden, ziehe weiter die Gerade ^>q, die den Kreis Jf, im
+Allgemeinen, in zwei Punkten r. s schneidet, und ziehe end-
+lich   die Strahlen       Pr. Ps:   so   werden diese      die   Seite   (oder
+Gerade)    A in denjenigen Punkten r, ^            welchen
+                                                      treffen,   in
+allein und in der That die Ecke des zu beschreibenden Drei-
+ecks liegen kann    so dass also dieses somit gefunden ist.
+                      .
+
+
+
+
+Demnach giebt es im Allgemeinen zwei Dreiecke rr, r,r.
+6^4§c,§.   wovon jedes der vorgelegten Aufgabe Genüge                 leistet.
+Wenn [93      aber insbesondere die Gerade pq den Kreis nur
+berührt,    so giebt es nur ein. und wenn sie ihn grar nicht

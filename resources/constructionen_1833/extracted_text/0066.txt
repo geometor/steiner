@@ -1,0 +1,78 @@
+62                                 Jacob Steiner.
+
+
+M, J^/,    .Die Gründe     auf welchen die Kichtigkeit dieses
+                           .
+
+
+
+
+Verfahrens beruht, sind leicht aufzufinden 2. Kapit.    .
+
+
+
+
+      2. Wenn die    gefundene Gerade po den Kreis          M
+                                                            nur
+berührt, oder ihn gar nicht trifft, so zeigt dies an. dass auch
+der Kreis J/, ihn berührt, oder ihn gar nicht trifft.
+      Zweiter Fall. Wenn die zwei Kreise bloss der Grösse
+und Lage nach gegeben sind.          Es seien z. B. J/, M^  .
+
+
+
+(Fig. 24) die Mittelpunkte, und etwa 3/,«,, M^c^ die Radien
+der zwei gegebenen Kreise.
+      Dieser Fall kann unter andern dadurch gelöst werden,
+dass man die gemeinschaftliche Secante der beiden gegebenen
+Kreise construirt. und sodann die gegenseitigen Durchschnitts-
+l)unkte dieser Secante und eines der beiden Kreise sucht.
+Dieses kann z. B. wie folgt geschehen.
+
+
+
+
+                                         Fig. 24.
+
+     Man         im Hülfskreise
+               ziehe                           M
+                                       die Durchmesser ah. cd
+den gegebenen Radien J/| r/| M^c^ parallel, und suche sofort
+                                         .
+
+
+
+
+die Aehnlichkeitspunkte A^ und /^. A^ und /, der Kreis-
+paare M    und M^      .   M
+                          und M,       Hierauf construire man.
+                                               .
+
+
+
+
+durch Hülfe der Aehnlichkeitspunkte ^-1^ und /j, den mit cd
+und also auch mit r^Jl/,      parallelen Durchmesser 85
+                                     .                    c, t/,
+
+des Kreises J/,   i; 12. HI.    und bestimme gleicherweise den
+                                         .
+
+
+
+zweiten Endpunkt d^ des Durclimcssers '^-V,       Sodann ziehe
+                                                    .
+
+
+
+
+man die Geraden r,r, </,(/^. welche den IJadius </, -V, in
+                               .
+
+
+
+
+c^. f^ schneiden, und ziehe ferner die Strahlen A^j\. A^f\.
+welche dem Durchmesser aMb in c. f hege^nen. und wo e
+und c. .
+         /' und  /'   ähnlichliegende Punkte zu den Kreisen

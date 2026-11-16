@@ -1,0 +1,38 @@
+                            Die geometrischen Constructionen.                                   23
+
+
+
+                                       Z>\eites Kapitel.
+
+             Ueber einige Eigenschaften des Kreises.
+
+                  I.    Von harmonischen Eigenschaften.")
+
+                                                §     10.
+
+       I.   Sind       Q,    i\     C,    C   (Fig.    12j     irgend    vier       harmonische
+Punlite,     so        sind jede vier Strahlen a, b, c, d,                          welche von
+irgend einem Punkte                      B aus durch dieselben gehen, ebenfalls
+harmonisch         § 3        .        Werden        die    vier   Punkte     als    fest   ange-
+nommen und sollen von den Strahlen zwei zugeordnete, etwa a
+
+
+
+
+                                               Fig. 12.
+
+und c, zu einander rechtwinklig sein, mithin die von den
+zwei übrigen eingeschlossenen Winkel hälften. sodass Winkel
+[ab)   = [ad) und                 [cb)   =    [cd)    (§ 3,    IV.',    so   ist   offenbar der
+Ort des Punktes               B ein Kreis 31. welcher die Strecke ac zum
+Durchmesser hat.
+    Die Strahlen                  b.     d begegnen dem genannten                    Kreise     M
+zum zweiten Male                  in     e, f. Da Winkel [30] (bc)                  =   [de],   so
+
+
+      *j Obschon diese Eigenschaften zu dem Hauptzwecke dieser
+Schrift (drittes Kapitel) wenig dienlich sind, so werden sie den-
+noch hier kurz entwickelt, und zwar deshalb, weil sie an und für
+sich Interessant sind, in den Lehrbüchern aber noch fast gänzlich
+fehlen, und weil sie sich hier aus den vorhergehenden Betrachtungen
+leicht und elementar ableiten lassen.

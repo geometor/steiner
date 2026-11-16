@@ -1,0 +1,53 @@
+f)3                                     Jacob Steiner.
+
+
+trifft,     so giebt es       gar kein Dreieck, welches die Bedingungen
+der Aufgabe              erfüllt.
+           Anmerkung.                Ganz ebenso wird               die   Aufgabe       gelöst,
+wenn            statt  Dreiecke
+                        der                     beliebige   Vierecke,      oder Fünfecke
+u.    s.    w. gesetzt werden.
+                   Aufgabe 2.
+           »Die        Durchschnittspunkte
+                        gegenseitigen                                                   einer
+gegebenen Geraden und eines bloss durch
+           a)    fünf Punkte, oder
+           b)    fünf Tangenten
+gegebenen                 (also     nicht       gezeichnet      vorliegenden           Kegel-
+schnitts zu finden.'«
+      Fall a. Es heisse die Gerade A.. und die fünf Punkte
+des Kegelschnitts B. J5,    3(, :©, ß.      ,Aus irgend zweien  —
+der fünf Punkte, etwa aus B. B^, ziehe man Strahlen durch
+die drei übrigen, also die Strahlen B'ii und B^%.             und                 B^
+B^^, B(5. und B^Q., und nenne die Punkte, in welchen sie
+(genugsam verlängert) der Geraden                           A
+                                         begegnen, beziehlich a
+und a, h und ,y, c und y.       Mittelst dieser drei Punkten-
+paare suche man sofort, genau auf dieselbe Weise wie bei
+der vorhergehenden Auflösung (Aufg. l      also durch Benutzung .
+
+
+
+
+des Hülfskreises 31. in der Geraden A die zwei Punkte v. v,
+so sind diese die verlangten Schneidepunkte.      TriflFt die Ge-
+
+rade ^vi, welche man durch die weitere Constructiou findet,
+den Hülfskreis                M
+                    nicht, so schneiden die gegebene Gerade
+ [94] und der Kegelschnitt einander auch nicht: berühren sich
+jene, so berühren sich auch diese, sodass in diesem Falle die
+Punkte r und ö zusammenfalleu.
+      Fall b.   Dieser Fall lässt sich leicht auf den ersten
+bringen, indem man nämlich mittelst des Lineals allein die
+fünf Punkte finden kann, in welchen der Kegelschnitt von
+den gegebenen fünf Taugenten berührt wird.         Abhängigk.
+geom. Gestalten. I. Tbl., S. 152.)
+                                        Aufgabe 3.
+     »Diejenigen Geraden zu finden, welche durch
+einen gegebenen Punkt gehen, und einen nur durch
+    a) fünf Tangenten, oder
+     b) fünf Punkte
+gegebenen Kegelschnitt berühren.«
+     Fall a. Es heisse der gegebene Punkt B. und die fünf
+gegebeneu Tangenten des Kegelschnitts A, A^,      '.1^. kf.                    '.?!.

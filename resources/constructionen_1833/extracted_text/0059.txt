@@ -1,0 +1,71 @@
+                      Die geometrischen Constructionen.                                            55
+
+Punkt     Loth zu füllen, nach (a
+         ein                         um der Aufgabe zu ge-
+                                                   ,
+
+
+
+
+nügen.       die Gerade (/y, ist die Lösung etwas einfacher,
+             Für
+wie man leielit bemerken wird.
+
+                               Vierte Aufgabe.
+    «Durch einen gegebenen Punkt eine Gerade zu
+ziehen, die  mit einer gegebenen Geraden einen
+Winkel einschliesst. [75] welcher einem gegebenen
+Winkel gleich ist.«
+     Es sei AtnC (Fig. 21) der gegebene Winkel.                                             EF die
+gegebene Gerade und etwa j) der gegebene Punkt.                                             — Man
+ziehe die Durchmesser ab. cd
+den Schenkeln des Winkels         j/   >
+parallel       il.   Aufgabe   .   sodass
+Winkel       uMc = AmC.                und                               <'
+
+
+
+
+ferner den Durchmesser ef der                                                 ~^^^\
+gegebenen Geraden          EF
+                          paral-                  "'
+                                                       ^        _        ,
+                                                                                      ^^-
+lel:  sodann ziehe man weiter
+                                                                     '
+
+                                                                                                  \^
+die Sehne re, und durch a die                                                     ^
+
+
+
+Sehne ag mit ihr parallel, und                                       -"^^M                   '^
+ferner den Durchmesser g/i. so                                  V
+ist Bogen ac         =
+                (je. und mithin              _,                                       ^
+
+
+Winkel g 31 e   a Mc =   A m C:=                                              /
+daher ziehe man endlich durch                          ^
+                                                                         y
+den gegebenen Punkt p mit
+dem Durchmesser g31h eine                                           Fig. 21.
+
+Parallele pq :§ 6. I.): so wird
+pqE [= gMe = AmC) der verlangte Winkel sein.           Zöge
+man   dieSehne ae, statt ce. und durch c mit ihr eine paral-
+lele Sehne u. s. w..   so würde man den anderen Winkel er-
+halten, welcher ebenfalls der Aufgabe genügt, und welcher
+nach     F
+         hin, statt nach           E
+                            hin. gekehrt wäre.
+     Ebenso wird die Aufgabe gelöst, wenn insbesondere der
+gegebene Punkt in der gegebenen Geraden         selbst liegt,                EF
+vne etwa q. d. h. wenn die gewöhnliche Aufgabe gestellt
+wird: »An eine gegebene Gerade EF. in einem gegebenen
+Punkt q, einen Winkel anzulegen, welcher einem der Grösse
+und Lage nach gegebenen Winkel AfnC gleich ist.«
+
+                               Fünfte Aufgabe.
+      »Einen          gegebenen        Winkel              a)       zu        hälften.            oder
+b)   beliebig oft zu vervielfachen.«

@@ -1,0 +1,59 @@
+                      Die geometrischen Constructioncn.                                 19
+
+             welcheein gegebenes rationales (24] Ver-
+          hältniss zu einander haben; oder
+       c) irgend zwei Parallele und irgend eine in ge-
+          gebenem rationalen Verhältniss getheilte
+          Strecke; oder endlich
+       d) zwei beliebige, nicht parallele Strecken, wo-
+       von jede in irgend einem gegebenen ratio-
+       nalen Verhältniss getheilt ist,
+gegeben sind, so soll man:
+    «) nach  jeder beliebigen Richtung Parallele
+           ziehen, und
+        ß) jede  beliebige gegebene Strecke nach jedem
+           beliebigen rationalen Verhältniss theilen oder
+           vervielfachen.«
+       Fall a. Schneiden etwa die drei Parallelen ^Z>*, CD, EF
+(Fig. S)     eine vierte        Gerade        AE            so,   dass sich ihre Abschnitte
+AC,     CE verhalten  wie p q,                     '
+
+
+
+
+wo p, q relative Primzahlen sind,
+so vervielfache man in der einen
+Parallelen, etwa in AB,      eine
+willkürliche        Strecke,          und nehme                                        „
+AG gleich            dem /»fachen und
+                                                                     ,
+                                                                                  ^
+GB gleich           dem </ fachen dieser
+Strecke (§ 6, IV,,             a.),    ziehe           so-
+fort   die   Geraden           GC, BE,                 so
+werden diese         parallel         sein,    (weil
+AC\ CE = AG: GB = p           q\               :
+
+
+
+
+und dadurch ist also die vorge-                                              „.    „
+legte Aufgabe auf die vorige (I.)
+zurückgeführt.
+       Um ein anderes Paar Parallele zu erhalten, könnte man
+auch, zufolge (§7), mit der in rationalem Verhältniss ge-
+theilten Geraden           AE
+                       irgend [25] eine Parallele ziehen, was
+aber weitläufiger sein würde, als das erste Vei'fahren.
+       Fall    h.     Es           AB, CD (Fig. S) die gegebenen
+                               seien
+Parallelen und etwa            AB, CH die gegebenen Sti'ecken, welche
+sich verhalten wie zwei gegebene Zahlen p^ q.    Man ziehe
+durch die Endpunkte der Strecken die Geraden AC, BH,
+die sich in irgend einem Punkte      schneiden (man könnte    E
+ebenso die Geraden AH,     BC ziehen), so wird man, ver-
+möge der ähnlichen Dreiecke AEB, CEH, z. B. haben
+                    AE CE ^ AB CH = p
+                           :                            :                :
+                                                                             q\
+                                                                                  2*

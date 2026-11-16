@@ -1,0 +1,83 @@
+    4
+
+1                                      Jacob Steiner.
+
+ GeF, u. s. w.,           so    werden offenbar          die Strecken    BC. (JJJ^
+DE, EF,                       gleich
+                         gross sein, sodass                       man auf     diese
+Weise jedes beliebige Vielfache der Strecke                       BC erhält, wie
+zum      Beispiel     BF ihr Vierfaches           ist.
+
+         [a]   nun ein solches Vielfache von irgend einem ge-
+               Süll
+gebenen Punkte          X
+                      an abgeschnitten werden, so ziehe man
+die Gerade XZ» (oder X/), verlängere sie, wenn es nöthig
+ist, bis sie die       AG Y
+                      in    schneidet, und ziehe YfZ. so wird
+ XZ die verlangte w fache (hier vierfache) Strecke sein.
+      Ib) Soll die gegebene Strecke                      BC
+                                            in n gleiche Theile
+getheilt werden, so ziehe man, wenn hf das ;i fache von bc
+ist. die Geraden Cb. Bj\      die sich in / kreuzen, und ziehe
+sofort cLy. dlö, e/e,                so  werden die Strecken
+                                              ,
+
+
+
+Cy, yö. ÖS,          einander gleich, und zwar jede der /^te
+Theil von der gegebenen Strecke          sein.     BC
+      Soll die gegebene Strecke                   BC
+                                        m zwei Abschnitte ge-
+theilt  werden, die sich verhalten wie zwei gegebene Zahlen
+p, q,    so muss bf das {p -\- j) fache von bc sein, und als-
+dann zählt man von b an /) Strecken bc, ccL            ab. zieht
+vom Endpunkte der letzten, z. B. von rf, die Gerade i/Id,
+[18], so werden sich die Abschnitte Cd. Bö verhalten wie /> y.                 :
+
+
+
+      (c) Soll endlich eine Strecke gefunden werden,    die sich
+zu der gegebenen verhält, wie g:p, so ziehe man. wenn
+etwa J'd. db sich ebenfalls wie q p verhalten die Geraden
+                                                   :                 .
+
+
+
+Bb, Cd^ und aus dem Punkt, in welchem diese sich kreuzen,
+ziehe mau eine Gerade durch /. so wird diese der Geraden                      BC
+in irgend einem Punkte, der TF heissen mag. begegnen, und
+es ist sodann C           W
+                      die verlangte Strecke, d. h. es wird sich
+BC: CW=jj          q verhalten.
+                          :
+
+
+
+
+        Anmerkung.   Soll von der gegebenen Strecke    bloss             BC
+ein bestimmter einfacher Theil abgeschnitten werden, d. h.
+ein Stück abgeschnitten werden,     welches sich zur ganzen
+verhält wie 1  )i.  wo // eine ganze Zahl ist. ^o kann man
+                      :
+
+
+
+
+auch wie folgt verfahren:
+     Aus einem willkürlichen Punkte                      A
+                                         (Fig. ö) ziehe man
+nach den Endpunkten der Strecke die Geraden AB. AC,
+welche mit der anderen Parallelen die Durchschnitte b, c
+bilden; sodann ziehe man die Geraden Bf    Cb, die sich in d  .
+
+
+
+schneiden, und ziehe weiter Adl). so ist CI> die Hälfte der
+gegebenen Strecke BC.
+     Wird nun ferner die Gerade D. die der Cb in c be-
+                                                   (
+
+
+gegnet, und sofort            AeE
+                         gezogen, so ist        \BC. Denn     CE =

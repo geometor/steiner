@@ -1,0 +1,94 @@
+                                                              :                         :           ;                                     .
+
+
+
+
+48                                                Jacob Steiner.
+
+
+lassen sich aber mit denen des anderen noch in einer anderen
+Ordnung paarweise gruppiren, nämlich                                                        a           und    b,.               b       und a,;
+jedes dieser                 zwei Paare              soll         vorläufig                 unähnlichliegende
+Punkte             heissen.             Zieht            mau nun                       ferner             durch                      denselben
+Aehnlichkeitspunkt                      A irgend eine zweite, die Kreise schnei-
+dende, Gerade At^, so liegen in ihr ebenfalls zwei Paar un-
+ähnlichliegende Punkte,  nämlich c und t^  C und c,    und es                                   ,                                    ,
+
+
+
+kann                 werden, dass jedes dieser Punktenpaare
+        leicht gezeigt
+mit jedem Paar      unähnlichliegenden Punkten    der ersten
+Geraden in irgend einem Kreise liegt, also dass sowohl die
+vier Punkte o, i\ und c, t^, als a, b, und t, c,    als b, a,                                                            ,
+
+
+
+und c, b, als b, a, und t, c^, in irgend einem Kreise liegen;
+               ,
+
+
+
+nämlich    Avie             folgt.
+       Man             ziehe      z.   B.     die        Sehnen ac,                      br, a,L\, so sind ac
+und    a, c,       ,       als    entsprechende                        oder            ähnlichjiegende Gerade,
+parallel   (§ 11,                I.    und § 12,              III.),           daher müssen                              die             Winkel
+der zwei Vierecke abbc und o,bbc, paarweise gleich sein, und
+daher muss, da das erstere einem Kreise 31 eingeschrieben
+[65] ist, auch das andere einem Kreise eingeschrieben sein,
+d. h.,  die vier Punkte a,   b, b, c, müssen in irgend einem
+                                                     ,
+
+
+
+und demselben Kreise liegen. Ebenso folgt, da die Sehnen bc
+und b, c, als ähnlichliegende Gerade parallel sind dass das                                                                  ,
+
+
+
+Viereck abc^b, einem Kreise eingeschrieben ist; u. s. w.
+     Da die vier Punkte b, b, a, c, in einem Kreise liegen,                ,
+
+
+
+so ist in Rücksicht auf die Secanten Ab, Ac^, zufolge eines
+bekannten Satzes (der Potenz des Punktes        in Bezug auf                                             A
+den Kreis bajbc,, siehe die vorerwähnte Abhandl.                                                                                 i?       15.):
+
+                                       Ah Aa^ = ^b
+                                              .                                    .   ^-Ic,
+
+ebenso folgt, da a,                     b,    c, ,       b,       in       einem Kreise liegen, dass
+                            = Ai Ac^   A.a    .   Ai\                           .
+                                                                                                    ;
+
+
+
+und aus ähnlichen Gründen      dass                       folgt,
+
+                  Aa Ah^ = Ac At^ und         .                                .
+
+
+
+
+                       Aa^ = Ac Ai^;   .'Ib   .                                .
+
+
+
+
+und         zusammengefasst
+       folglich
+
+     uia Ah^ = Ah Aa^ = Ac
+                       .             =        .                                .       .4b,                   --Ib   .           Ac,
+       Da diese Gleichungen immer stattfinden, welche Richtung
+die schneidenden           ^Ib,  At^ haben inrigen, also
+                                       Geraden                         .
+
+
+
+immer              wührenddem mau z. B. den Strahl A\.\
+           stattfinden,
+um den festen AehnliclikiMtspunkt A herumbewegt, und da
+Aehnlichcs in Bezug auf den inneren Aehnlichkeitspunkt f
+stattfindet,               so hat      man also den folgenden Satz:

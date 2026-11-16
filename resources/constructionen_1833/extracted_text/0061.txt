@@ -1,0 +1,80 @@
+                                                                                   .,
+
+
+
+
+                              Die fieonietrisclien Constniutioncn.               57
+
+bezieblicli           die Aelinlichkeitspunkte der Kreispaare        M und     3/,
+    .1/   und    il/,   .   J/|   und   M^ vor. Da die Kreise J/,    ,   M., jileifh
+>ind, so liegt ihr innerer Aehnliclikeitspnnkt / in der Mitte
+zwischen ihren Mittelpunkten 3/,    M^ und ihr äusserer Aehn-
+                                                      ,       ,
+
+
+
+liehkeitspunkt               A
+                   ist unendlich entfernt (§ 12, I., 7.), und es
+müssen die Aehnlichkeitsstrahlen A^A^[A',. /j/, [^] mit der
+Axe M^]\L^ parallel sein (i? 13, I., 4.1. Hiernach kann die
+vorgelegte Autgabe wie folgt gelöst werden.
+-
+    ' Man ziehe die Geraden ^l^[^ MM., und J/, .1/., ziehe.                 :
+
+
+
+
+ferner den Durchmesser ab parallel der gegebenen Geraden
+M^a^, und sodann die Geraden a^((. u^b. welche die                              M^M
+in A^^ /o schneiden:     hierauf ziehe man weiter durch den
+Punkt A^. mit Jl/^J/, parallel, die Gerade A:,^^. die der
+M^M     in A^ begegnet, und ziehe ferner die Gerade A^I.,.
+welche die 3/, 3/., in / trifft   und endlich die Gerade lA^
+                                                  .
+
+
+
+
+welche die MM.^ in /, schneidet*): so sind alsdann die
+Punkte A^. l^ die [78] Aehnlichkeitspuukte zweier Kreise
+M. J/j. wovon der letztere die gegebene Strecke ü/, ö, zum
+Halbmesser hat.
+     Kach diesen Vorbereitungen ist es nun leicht, an den
+Punkt 3/., so viele Gerade anzutragen, als man will, die der
+gegebenen Strecke il/, «', gleich sind.    Denn zieht mau im
+Hiilfskreise irgend einen Durchmesser, wie z. B. ab (welcher
+aber nicht mit il/, a, parallel zu sein braucht), verbindet seine
+Endpunkte a. b mit den Punkten ^,, /, durch Gerade^,«
+und Ä/,     A^b und a/, so schneiden sich diese in zwei
+                 .                        ,
+
+
+
+Punkten a^, ö^, wovon jeder um die gegebene Länge 3/,o,
+von dem gegebenen Punkte M^ absteht, und zwar liegen
+diese       drei        Punkte
+                   a.,. J/,  ^., in einer Geraden (§ 12. HI.).
+                                              .
+
+
+
+           Ist     Richtung der anzutragenden Geraden ge-
+                     aber die
+geben, ist z. B. eine durch M^ gehende Gerade gegeben, in
+welcher sie liegen soll, oder ist irgend eine Gerade gegeben,
+welcher sie parallel sein soll, so muss man zuerst den mit
+dieser Geraden parallelen Durchmesser des Hülfskreises                           M
+ziehen (1. Aufg.). und sodann ebenso verfahren wie vorhin.
+
+
+      *) Um die Punkte A^. I^ zu finden, kann man auch, zufolge
+der obigen Vorbereitnng. statt durch A.-^ die A.^A^. dnrch I^ die
+/o/, mit Jl/„3/i parallel ziehen, wo man sofort durch die Gerade
+Ä^I^ den Punkt /. und durch die Gerade //„ den Punkt A^ er-
+hält; oder mau kaun drittens zuerst die Mitte 7 der Geraden M^ISL
+suchen [2. Aufg.    und dann mittelst der Geraden /Z,. lA^ die
+                              .
+
+
+
+Punkte -1,. 1^ finden.

@@ -1,0 +1,54 @@
+                            Die geomßtnschen Constructionen.                                21
+
+    »Wenu in einer Ebene irgend ein Quadrat ge-
+geben ist, so soll man:
+     rti auf irgend eine gegebene Gerade, aus irgend
+         einem gegebenen Punkt, einen Perpendikel
+               fällen;
+          h)   irgend              einen        gegebenen            rechten         Winkel
+               hälften;
+          c)   irgend einen gegebenen Winkel                                    beliebig-   oft
+               vervielfachen.«
+        Es     sei       AB CD (Fig. 11) das gegebene Quadrat, [27]
+und E der Durchschnittspunkt                           seiner Diagonalen          AC% BD^
+also sein Mittelpunkt.
+        Zieht    man durch den Mittelpunkt
+eine    beliebige Gerade                 GI\      so    ist    es         ^^.
+
+
+leicht,    diejenige Gerade              IK zu finden,
+welche im Mittelpunkt                   E auf ihr senk-
+recht steht.              Nämlich man zieht aus      F
+die Gerade Ell parallel der Seite                             BC
+oder    AD (§6.                     und sodann aus
+                              III. ),
+
+dem Punkt H,                   in welchem sie die
+Seite   AB      trifft,       die Gerade        HI
+                                             paral-
+lelder Diagonale               AEC (§ ü,    so         I.),
+
+wird die Gerade               lEK zu FEG senk-
+recht sein.              Denn zufolge dieser Con-
+struction       ist,        wie     leicht      zu      sehen,
+FC= HB = BI. und ferner                                        ist
+
+BE=CE und Winkel EBI=ECF,
+folglich die Dreiecke                   EBI und EOF
+einander                 gleich.        daher          Winkel
+BEI = CEF und folglich Winkel
+BEC = lEF = einem Rechten.
+        Da     aus         der     Gleichheit        der Dreiecke      BEI und CEF
+ferner folgt, dass                 EI =
+                           EF^ mithin das Dreieck        ein                lEF
+gleichschenkliges, so dass also die Gerade EL^ welche dessen
+Winkel an der Spitze E hälftet, auf der Grundlinie IF senk-
+recht steht so lässt sich dieser Winkel leicht hälften.
+                     :                                   Denn
+zu diesem Endzweck ziehe man          parallel IF und GK^   EN
+und ziehe, nach der eben gezeigten Weise.               recht-                  MEL
+winklig auf EN^ so wird                           EL
+                                  den rechten Winkel lEF
+hälften.
+        Wird nun verlangt,                   es      soll     auf eine beliebige gegebene
+Gerade gf,                 aus     irgend       einem         gegebenen   Punkte       /,   ein

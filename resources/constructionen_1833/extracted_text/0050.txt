@@ -1,0 +1,72 @@
+46                                      Jacob Steiner.
+
+
+»die Linie der gleichen Potenzen'f. oder aucli. in An-
+sehung ihrer Punkte, welche ausserhalb der Kreise liegen,
+»die Linie der gleichen Tangeuten^f der zwei Kreise
+genannt.   Ueber die eigentlichen Gründe für die erste Be-
+nennung sehe man die oben (§ 2. erwähnte Abhandlung (im
+Journ.f. Mathem.). wo dieser Gegenstand etwas ausführlicher
+behandelt ist.
+        Wenn insbesondere die Kreise einander berühren,                     so   ist
+
+die Linie       der gleichen Potenzen               zugleich ihre   gemeinschaft-
+liche   Tangente            in   ihrem Berührungspunkte.
+
+
+                                            § lö-
+        Betrachtet           man
+                            einer Ebene irgend
+                                       in           drei  Krei.>e
+3/,,    il/,,   il/j,        deren
+                         Mittelpunkte    nicht in   einer Gera-
+den liegen, so haben je zwei derselben eine Linie der gleichen
+Potenzen; es seien iS'^Qj. ^^Q.:,. -^', Q, beziehlich die Linien
+der gleichen Potenzen der Kreise J/, und J/^. J/, und J/,.
+ilfj   und M^.
+       Denkt man sich den Punkt C).   in welchem sich zwei
+der drei Linien der gleichen Potenzen, etwa die Linien ->'3 Q-
+und y^Q^. schneiden, so hat dieser Punkt vermöge der Linie
+iS'j Qg zu den Kreisen J7, und J/,    und vermöge der Linie
+                                                     .
+
+
+
+
+^iQi zu den Kreisen JI^ und J/j gleiche Potenzen        d. h..          —
+wenn der Punkt c| ausserhalb der Kreise liegt, so sind die
+durch denselben gehenden Tangenten der Kreise J/, und .1/^.
+sowie der Kreise M^ und jl/j. einander gleich, also Tau-
+gente q B^      =
+                q B^ und vi B^    vT B^
+                                             =
+                                         und wenn er innerhalb
+                                                         .
+
+
+
+
+[63] der Kreise liegt   so sind die durch denselben gehenden
+                                   ,
+
+
+
+kleinsten Sehnen der Kreise 3I^ und M^. sowie der Kreise
+M^ und il/g. einander gleich                   —
+                                     daher hat er auch zu den
+Kreisen 37, und M^ gleiche Poteuzen (d. h.. die durch ihn
+gehenden Tangenten oder kleinsten Sehnen dieser Kreise
+sind einander gleich, nämlich Tangente (\B^:=c\Bj. und
+folglich liegt er in der zu diesen Kreisen gehörenden dritten
+Ortslinie JS\ Q^    Der Punkt q heisst vermöge dieser Eigen-
+                        .
+
+
+
+
+schaft j)der Punkt der gleichen Potenzen der drei
+Kreise«.
+     Aus dieser Betrachtung ergeben sich folgende Sätze:
+     a) »Die drei Linien der gleichen Potenzen y^Q^^-
+-i^\Qo- N^Q^. welche zu irgend drei Kreisen in einer
+Eljene, paarweise genommen, gehinen. treffen aileuial

@@ -1,0 +1,64 @@
+                             f
+                        Die geometrischen Constructioncn.                                              13
+
+man    mit jenen Endpunkten diirch Gerade HF.        die sich                           IG   .
+
+
+
+
+in   irgend einem Punkte V schneiden; durch diesen und durch
+Jenen    angenommenen Punkt       A lege man endlich die Ge-
+rade [\%]          ACD. so wird diese durch die Mitte D der ge-
+gebeneu Strecke              GF gehen.
+       III.   »Wenn irgend zwei parallele Gerade gegeben
+sind, so soll durch irgend einen gegebenen Punkt
+eine dritte Parallele gezogen werden.«
+     Man hälfte. nach (II.). irgend eine beliebige Strecke in
+einer der zwei gegebenen Geraden, so ist alsdann die Auf-
+gabe auf (I.j zurückgeführt.
+    IV. »Wenn zwei   parallele Gerade und in der
+einen irgend eine begrenzte Strecke gegeben siud.
+so soll       man:
+        a)    in der nämlichen Geraden eine andere Strecke,
+              welche     beliebiges Vielfache, etwa das
+                                ein
+              wfache,von Jener Strecke ist. von irgend
+            einem gegebenen Punkte au. abstecken; oder
+        h) die gegebene Strecke in irgend eine gegebene
+            Anzahl gleicher Theile theilen. oder iu zwei
+            Theile theilen. die sich zu einander verhalten,
+            wie zwei gegebene Zahlen; oder endlich
+         c) eine andere Strecke finden (in der nämlichen
+            Geraden^ die zu der gegebenen ein gegebenes
+           rationales Verhältniss hat.                                er
+
+
+
+        Es seien BF. hf (Fig. -1) die gegebenen Parallelen, und
+etwa B C die gegebene Strecke. Man ziehe durch einen beliebigen
+Punkt A eine dritte           Y  g      4
+Parallele      AG          (III.).                      ^
+
+
+und nach den End-
+punkten der Strecke
+die Geraden ^5. AC.
+                                                  '''       "'                      ^
+welche [171 die zweite                                           '^         '
+
+
+Parallele          in      h-
+schneiden      ;        sofort                ,
+                                                  '^
+
+
+ziehe     man        die     Ge         £ s y c X 1)                        £           7         ZZ
+rade     Co.         die      der                                 t^,.          ,
+                                                                           °'
+dritten Parallelen              in
+ G begegnet, und ziehe GcD. so wird, wie leicht zu sehen.
+DC = BC. und folglich BD doppelt so gross die ge-                                           als
+
+gebene Strecke BC      Zieht man nun weiter die Ge-
+                                      sein.
+rade AD uud sodann GdE: dann ferner AE und darauf

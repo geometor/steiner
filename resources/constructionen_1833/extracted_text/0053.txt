@@ -1,0 +1,52 @@
+                       Die ijceouictrischon Constructiouen.                   49
+
+        »Zielit     man uns eineiu
+                                der beiden Aelinlichkeits-
+piinkte            zweier Kreise J/, J/, beliebige, die
+              irgend
+Ivreise schneidende Strahlen, so liegen je zwei Paar
+[66 unäliulichliegeude Sclineldepunkte. welche irgend
+zwei verscliiedenen Strahlen angehören, allemal in
+irgend einem Kreis«; und ferner: »das Rechteck unter
+den Abständen Je zweier iinäbnlichliegendpr Punkte
+vom jedesmaligen Aehnlichkeitspunkt ist von be-
+ständigem Inhalt, d. h., für alle Strahlen oder für
+alle Punktenpaare hat dieses Rechteck einen und
+denselben bestimmten Inhalt«.
+     Dieser constante Inhalt aller Rechiteeke wird »die ge-
+meinschaftliche Potenz« der Kreise J/, M^ in Bezug auf
+den jedesmaligen Aehnlichkeitspunkt genannt, und zwar
+»äussere« oder >nnuere(( gemeinschaftliche Potenz, je nach-
+dem dieser Aehnlichkeitspunkt der äussere               A
+                                               oder der in-
+nere / ist: uud ferner werden je zwei unähnlichliegende
+Punkte, durch welche ein Rechteck bestimmt wird, wie etwa
+a und {\. »potenzhaltende« Punkte genannt.        (Zwei po-
+tenzhaltende Punkte brauchen jedoch nicht in den gegebenen
+Kreisen selbst zu liegen, sondern nur in einem Strahl, und
+zwar so. dass das Rechteck imter ihren Abständen vom Aehn-
+lichkeitspunkte den bestimmten Constanten Inhalt hat, und
+dass sie auf einerlei oder auf entgegengesetzten Seiten
+des Aehnlichkeitspunktes liegen, je nachdem dieser     oder               A
+/ ist.)
+      II.    Zum Behufe        später  folgender Aufgaben ist es
+wichtig,     hierbei    noch auf folgende Umstände aufmerksam zu
+machen.
+     Da nämlich die vier Punkte i», a, C,          ,einem '67
+                                                        c,     in
+Kreise liegen, so müssen die Sehnen bt und             gemein-
+                                                        a, C,       als
+schaftliche Sehnen dieses Kreises und der gegebenen Kreise
+M   und il/,, einander in irgend einem Punkte      der gemein-vi
+
+
+schaftlichen Sehne vg der letzteren Kreise schneiden (§ 16, b.).
+Aus ähnlichen Gründen müssen die Sehnen (oder Secanten)
+ac und bjb^, at) und b,c,, tc und ^^l^ einander auf der ge-
+meinschaftlicben Sehne (oder Secante) r^5 der gegebenen Kreise
+jli, il/, schneiden.  Entsprechendes findet in Rücksicht auf
+den inneren Aehnlichkeitspunkt / statt.    Also:
+      "Durch je zwei Paar potenzhaltende Punkte,
+welche in den Kreisen selbst (aber nicht in einem und
+demselben Strahle) liegen, werden in diesen Kreisen
+    Ostwald's Klassiker. tjO.                                        X

@@ -1,0 +1,67 @@
+36                                 Jacob Steiner.
+
+Punkte C|,, p, [^8] welche in einem und demselben
+               ,
+
+
+Durchmesser dieses Kreises liegen und gleich weit
+von seinem Mittelpunkte (auf entgegengesetzten -Seitem
+abstehen; und es haben nur die Mittelpunkte 31, M^
+der zwei Kreise allein die Eigenschaft, dass sie in
+Rücksicht auf beide Aehnlichkeitspunkte zugleich
+entsprechende Punkte sind.«
+     Hiernach kann man leicht, wenn etwa der eine Kreis
+M^ gezeichnet vorliegt, aber der andere nicht, und wenn die
+Aehnlichkeitspunkte A I gegeben sind
+                               .           zu irgend einem
+                                                         .
+
+
+
+Punkte q, oder '^^ welchen man als zu dem ersten Kreise
+                    ,
+
+
+
+gehörend ansieht, den entsprechenden Punkt                    in    Ansehung des
+zweiten Kreises    für        das        äussere und    innere     Aehnlichkeits-
+system finden.     Nämlich                man   zieht   die   Gerade    c\^   3/, V\   •
+
+
+
+nimmt den Punkt        oder q, so an, dass q,3/,
+                        'p^                             J/, ^},         ^
+^was, unter der Voraussetzung, dass der Kreis 3I^ gegeben
+sei, leicht geschehen kann), und zieht die Geraden -4q,  I'^^.                .
+
+
+
+so werden sich diese in dem verlangten Punkte q schneiden.
+Zieht man ferner die Geraden A'^^. /q,. so schneiden sich
+diese in einem Punkte :p. welcher ebenfalls der Forderung
+genügt, und es ist qü/p eine Gerade, und qJl/= J/p.                                   Am
+einfachsten sind die Punkte zu finden, welche in dem Um-
+fange des Kreises liegen     weil nämlich für diesen Fall in
+                                     ,
+
+
+
+jedem Durchmesser des gegebenen Kreises unmittelbar zwei
+gleiche Strecken gegeben sind, wie z. B. im Durchmesser
+a,bi die Strecken a,J/, und M^\>^.         wodurch sofort,
+nach der eben [49] angegebeneu Weise, die End-
+punkte a, 6 des entsprechenden Durchmessers im
+anderen Kreise gefunden werden. Diese letzte Con-
+struction findet bei den unten folgenden Aufgaben i§ 18
+häufige Anwendung.
+     Aus dem vorstehenden Satze folgert man ferner leicht:
+«Dass jeder Geraden, die man als zu dem einen
+Kreise gehörend ansieht, wie z. B. irgend einer Ge-
+raden G, die man sich als zum Kreise 3/ gehörend
+vorstellt, in Rücksicht auf die zwei Aehnlichkeits-
+punkte A, /, zwei verschiedene, zum Kreise M^ ge-
+hörige. Gerade G^. 11^ entsprechen, welche unter
+sich parallel sind (weil jede es mit jener G istK und
+welche gleich weit vom Mittelpunkte 3/, abstehen..
+«Geht die Gerade G insbesondere durch den Mittelpunkt                                 M
+des zugehörigen Kreises, so fallen die zwei Geraden   //,                (.>' ,   .

@@ -1,0 +1,106 @@
+{
+  "steiner-1833": {
+    "author": "Jakob Steiner",
+    "work": "Die geometrischen Constructionen, ausgeführt mittelst der geraden Linie und Eines festen Kreises, als Lehrgegenstand auf höheren Unterrichts-Anstalten und zur praktischen Benutzung",
+    "locus": "§§ 1–22, [1]–[110]; Ostwald's Klassiker der exakten Wissenschaften Nr. 60, ed. A. J. von Oettingen (1895)",
+    "year": "1833",
+    "publisher": "Ferdinand Dümmler, Berlin (Wilhelm Engelmann, Leipzig, 1895)",
+    "note": "Steiner's classic constructive treatise proving that every Euclidean ruler-and-compass construction can be executed with a straightedge alone given a single fixed circle and its center M."
+  },
+  "steiner-1832": {
+    "author": "Jakob Steiner",
+    "work": "Systematische Entwickelung der Abhängigkeit geometrischer Gestalten von einander",
+    "locus": "Erster Theil (all published), xvi + 322 pp., 4 plates",
+    "year": "1832",
+    "publisher": "Fincke, Berlin",
+    "note": "Steiner's foundational work establishing projective geometry systematically through projective ranges, pencils, and conic generation."
+  },
+  "poncelet-1822": {
+    "author": "Jean-Victor Poncelet",
+    "work": "Traité des propriétés projectives des figures",
+    "locus": "Tome I, Section III, Chapitre III, §§ 351–358",
+    "year": "1822",
+    "publisher": "Bachelier, Paris",
+    "note": "First published announcement that all ruler-and-compass constructions can be executed using only a straightedge when one circle and its center are given in the plane."
+  },
+  "mascheroni-1797": {
+    "author": "Lorenzo Mascheroni",
+    "work": "La Geometria del Compasso",
+    "locus": "Libri I–XII, §§ 1–213, 18 plates",
+    "year": "1797",
+    "publisher": "Eredi di Pietro Galeazzi, Pavia",
+    "note": "Classic compass-only treatise proving constructively that every Euclidean point-determination problem can be solved with the compass alone."
+  },
+  "mohr-1672": {
+    "author": "Georg Mohr",
+    "work": "Euclides Danicus, Bestaende udi Too Deele",
+    "locus": "Parts I–II, 36 pp. (republished with German translation by J. Hjelmslev, Copenhagen: Høst & Søn, 1928)",
+    "year": "1672",
+    "publisher": "Jacob van Velsen, Amsterdam",
+    "note": "Earliest demonstration of compass-only constructibility, anticipating Mascheroni by 125 years."
+  },
+  "lambert-1759": {
+    "author": "Johann Heinrich Lambert",
+    "work": "Freie Perspective, oder Anweisung, jeden perspektivischen Aufriß von freyen Stücken und ohne Grundriß zu verfertigen",
+    "locus": "2 Bände (2. Aufl. Zürich: Heidegger, 1774)",
+    "year": "1759 / 1774",
+    "publisher": "Heidegger und Compagnie, Zürich",
+    "note": "Pioneering investigation of ruler-only constructions in perspective drawing, cited by Steiner in § 2."
+  },
+  "brianchon-1817": {
+    "author": "Charles Julien Brianchon",
+    "work": "Application de la théorie des transversales",
+    "locus": "vi + 96 pp., 4 plates",
+    "year": "1817",
+    "publisher": "Bachelier, Paris",
+    "note": "Transversal methods for harmonic poles and polars cited by Steiner in § 2."
+  },
+  "hilbert-1899": {
+    "author": "David Hilbert",
+    "work": "Grundlagen der Geometrie",
+    "locus": "Siebentes Kapitel: Die geometrischen Konstruktionen auf Grund der Axiome I–IV (§§ 36–39)",
+    "year": "1899",
+    "publisher": "B. G. Teubner, Leipzig",
+    "note": "Rigorous algebraic classification of geometric constructibility with straightedge and segment-transferrer (Eichmaß), contrasting the Pythagorean field with Steiner's Euclidean closure."
+  },
+  "adler-1890": {
+    "author": "August Adler",
+    "work": "Zur Theorie der Mascheronischen Constructionen / Theorie der geometrischen Konstruktionen",
+    "locus": "Sitzungsberichte der Kaiserlichen Akademie der Wissenschaften in Wien, Math.-Naturwiss. Classe, Bd. 99; Sammlung Göschen Nr. 301 (1906)",
+    "year": "1890 / 1906",
+    "publisher": "K.-K. Hof- und Staatsdruckerei, Vienna / G. J. Göschen, Leipzig",
+    "note": "Comparative theory of Mascheroni, Poncelet–Steiner, and Lemoine construction systems."
+  },
+  "lemoine-1902": {
+    "author": "Émile Lemoine",
+    "work": "Géométrographie, ou Art des constructions géométriques",
+    "locus": "Collection Scientia, Série Physico-Mathématique, n° 18 (pp. 74–85: Géométrographie Steinerienne)",
+    "year": "1902",
+    "publisher": "C. Naud, Éditeur, Paris",
+    "note": "Formalization of Steinerian geometrography measuring simplicity S and exactitude E of straightedge-only constructions."
+  },
+  "euclid-elements": {
+    "author": "Euclid of Alexandria (trans. Sir Thomas L. Heath)",
+    "work": "The Thirteen Books of Euclid's Elements",
+    "locus": "Books I–VI (Plane Geometry); GEOMETOR Digital Scriptorium Edition (geometor/euclid & geometor/elements)",
+    "year": "1908 / 1926",
+    "publisher": "Cambridge University Press",
+    "note": "Standard axiomatic reference against which Steiner's constructive completeness is established."
+  },
+  "pappus-synagoge": {
+    "author": "Pappus of Alexandria",
+    "work": "Synagoge (Mathematical Collection), Book VII: On the Domain of Analysis",
+    "locus": "ed. Friedrich Hultsch (1876–1878); ed. & trans. Alexander Jones (Springer, 1986)",
+    "year": "c. 340 CE",
+    "publisher": "Weidmann, Berlin / Springer, New York",
+    "note": "Classical source for cross-ratios, complete quadrilaterals, and harmonic division."
+  },
+  "grueson-1825": {
+    "author": "Johann Philipp de Gruson (trans.)",
+    "work": "Des Herrn Abt L. Mascheroni Geometrie des Zirkels",
+    "locus": "xvi + 180 S., 8 Kupfertafeln",
+    "year": "1825",
+    "publisher": "Schlesinger, Berlin",
+    "note": "German translation of Mascheroni's La Geometria del Compasso studied by Steiner in Berlin."
+  }
+}

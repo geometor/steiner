@@ -1,0 +1,64 @@
+               ^
+12                     •                 Jacob Steiner.
+
+
+     Tritt nämlich der besoudere Fall ein.                          dass bei den drei
+gegebenen Punkten G. D.                      F
+                                der Punkt IJ gerade in der
+Mitte zwischen den Punkten G und          liegt,          F
+                                                 so -wird der
+vierte, ihm zugeordnete, harnionii-che Punkt     sich ins Un-        E
+endliche entfernen, d. h.. so muss die Gerade HI. durch
+                        welche er gefunden wird       mit der                 ,
+
+
+ -^i^—     ^        y/^ gegebenen Geraden                  GDF
+                                                       parallel
+    \   \^         1
+                       ^^sein. Und umgekehrt: Schneidet man
+     \         ^""^^i;^^        /        zwei Seiten AG. AF eines belie-
+      j,
+           ^
+
+                               'ff
+                                         bigen Dreiecks G AF durch irgend
+                                         eine,   der Grundlinie          Gt parallele,
+                                          Gerade ///      (Fig. 3    ,
+                                                                         verbindet    die
+                        Durchschnittspunkte FL. I mit den
+                        gegenüberliegenden Ecken an der
+                   ^    Grundlinie durch Gerade FH. Gl.
+                        welche sich im Punkte C kreuzen,
+            Pig 3_       und zieht durch diesen und durch die
+                         Spitze                  A
+                                 des Dreiecks die Gerade    CD^                   A
+so geht diese allemal durch die Mitte      der Grundlinie. D
+      [15] Hierauf gründen sich die Auflösungen        folgender
+Aufgaben.
+      I. »Wenn in einer Geraden drei Punkte G,            D.                           F
+(Fig. 3) gegeben sind,      wovon der eine, D. in der
+Mitte zwischen den zwei übrigen liegt, so soll (mit-
+telst des Lineals allein) durch irgend einen belie-
+bigen Punkt                H
+                   mit jener Geraden eine Parallele ge-
+zogen werden.«
+     Man ziehe die Geraden GH^ FH. nehme in    einen                          GH
+willkürlichen Punkt A. und  ziehe AD. AF: durch den
+Durchschnitt C. der FH und AD. ziehe mau aus G die
+Gerade         GCI. welche die AF in / schneidet, so ist endlich
+HI die geforderte Parallele.
+     IL        »Wenn irgend zwei parallele Gerade GF, HI
+(Fig. 3)gegeben sind, so soll irgend eine gegebene
+Strecke in der einen oder andern, etwa die Strecke GF,
+gehälftet werden.«
+     Man ziehe  aus einem willkürlichen Punkte      nach den              A
+Endpunkten G,              F
+                    der gegebenen Strecke Gerade        AF.                   AG.
+welche die andere Parallele in H. I schneiden (im Falle der
+Punkt      A
+          zwischen den Parallelen läge, wie C. oder jen-
+seits GF, müsste man      die Geraden                      AG. AF
+                                                  verlängern,
+bis sie        HI
+             schnitten^   diese Durchschnittspunkte vorbinde
+                                     ;

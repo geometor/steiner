@@ -1,0 +1,110 @@
+{
+  "fester-huelfskreis": {
+    "headword": "Fester Hülfskreis (mit gegebenem Mittelpunct M)",
+    "language": "de",
+    "translation": "Fixed Auxiliary Circle with Given Center M",
+    "definition": "Steiner's single permanent reference circle in the plane. Together with its center M, it supplies an involution of parallel diameters and orthogonal chords enabling pure straightedge simulation of all compass intersections; without M, projective collineations fixing the circle break Euclidean metric structure."
+  },
+  "aehnlichkeitspunkte": {
+    "headword": "Aehnlichkeitspunkte (A, I)",
+    "language": "de",
+    "translation": "External and Internal Centers of Similitude (Homothetic Centers)",
+    "definition": "In Steiner's Zweites Kapitel (§§ 12–13) and Sechste bis Achte Aufgabe (§ 18), the harmonic centers A and I on the line of centers M M_1 through which parallel radii of the fixed drawn circle M and an un-drawn virtual circle M_1 correspond under straightedge projection."
+  },
+  "aehnlichkeitsaxe": {
+    "headword": "Aehnlichkeitsaxe",
+    "language": "de",
+    "translation": "Axis of Similitude",
+    "definition": "A straight line passing through three centers of similitude of three circles taken in pairs; Steiner demonstrates that the six centers of similitude lie three by three on four axes of similitude by straightedge alone."
+  },
+  "linie-der-gleichen-potenzen": {
+    "headword": "Linie der gleichen Potenzen (Axe radicale)",
+    "language": "de",
+    "translation": "Line of Equal Powers (Radical Axis)",
+    "definition": "Coined via Steiner's 'Potenz des Punctes' (1826/1833, §§ 14–17) and Gaultier/Chasles's 'axe radical': the straight locus of points having equal power d_1^2 - r_1^2 = d_2^2 - r_2^2 with respect to two circles, constructed by straightedge alone in Problem 8 to intersect two un-drawn circles."
+  },
+  "potenz-eines-punktes": {
+    "headword": "Potenz eines Punktes",
+    "language": "de",
+    "translation": "Power of a Point with Respect to a Circle",
+    "definition": "For a point P and circle (M, r) at distance d = PM, the product of secant segments PA · PB = d^2 - r^2; introduced by Steiner in 1826 and fundamental to his theory of radical axes."
+  },
+  "punkt-der-gleichen-potenzen": {
+    "headword": "Punkt der gleichen Potenzen (Radikalzentrum)",
+    "language": "de",
+    "translation": "Point of Equal Powers (Radical Center)",
+    "definition": "The unique intersection point of the three radical axes of three circles taken in pairs, from which tangents to all three circles have equal length."
+  },
+  "harmonische-strahlen": {
+    "headword": "Harmonische Strahlen (Harmonisches Strahlenbündel)",
+    "language": "de",
+    "translation": "Harmonic Rays (Harmonic Pencil)",
+    "definition": "Four concurrent straight lines a, b, c, d whose cross-ratio (a, b; c, d) = -1; every transversal cutting the four rays produces a harmonic range of four collinear points."
+  },
+  "harmonische-punkte": {
+    "headword": "Harmonische Punkte (Harmonische Teilung)",
+    "language": "de",
+    "translation": "Harmonic Points (Harmonic Division)",
+    "definition": "Four collinear points A, B, C, D such that the cross-ratio (A, B; C, D) = (CA/CB) / (DA/DB) = -1; C and D divide the segment AB internally and externally in the same ratio."
+  },
+  "vollstaendiges-viereck": {
+    "headword": "Vollständiges Viereck",
+    "language": "de",
+    "translation": "Complete Quadrangle",
+    "definition": "A configuration of four points (vertices), no three collinear, and the six straight lines joining them; its three diagonal points form a diagonal triangle whose sides divide the opposite vertices harmonically."
+  },
+  "vollstaendiges-vierseit": {
+    "headword": "Vollständiges Vierseit",
+    "language": "de",
+    "translation": "Complete Quadrilateral",
+    "definition": "A configuration of four straight lines (sides), no three concurrent, and their six intersection points; dual to the complete quadrangle, its three diagonals form a triangle whose vertices separate the sides harmonically."
+  },
+  "pol-und-polare": {
+    "headword": "Pol und Polare am Kreise",
+    "language": "de",
+    "translation": "Pole and Polar with Respect to a Circle",
+    "definition": "The projective relationship where each point P (pole) is paired with a straight line p (polar) such that any secant through P cutting the circle at A, B has its harmonic conjugate on p; Steiner proves that polars can be constructed by straightedge alone."
+  },
+  "satz-des-thales": {
+    "headword": "Satz des Thales",
+    "language": "de",
+    "translation": "Thales' Theorem",
+    "definition": "The theorem that an angle inscribed in a semicircle is a right angle; used by Steiner in the Dritte Aufgabe to construct perpendiculars using chords of the fixed circle."
+  },
+  "orthocentrum": {
+    "headword": "Höhenschnittpunkt (Orthocentrum)",
+    "language": "de",
+    "translation": "Orthocenter",
+    "definition": "The common point of concurrency of the three altitudes of a triangle; constructed with straightedge alone on a diameter of the fixed circle to yield exact right angles."
+  },
+  "geometrographie-steinerienne": {
+    "headword": "Géométrographie Steinerienne",
+    "language": "fr",
+    "translation": "Steinerian Geometrography",
+    "definition": "Quantitative operational analysis of constructions executed using only the straightedge (l_1 R_1 + l_2 R_2, circles = 0) with a single fixed circle and its center in the plane."
+  },
+  "geometrographie-mascheronienne": {
+    "headword": "Géométrographie Mascheronienne",
+    "language": "fr",
+    "translation": "Mascheronian Geometrography",
+    "definition": "Evaluation of constructions restricted exclusively to the compass (m_1 C_1 + m_2 C_2 + m_3 C_3, lines = 0) following Lorenzo Mascheroni (1797)."
+  },
+  "eichmass": {
+    "headword": "Eichmaß (Streckenüberträger)",
+    "language": "de",
+    "translation": "Segment Transferrer / Unit Gauge",
+    "definition": "In Hilbert's Grundlagen der Geometrie (§ 36), an instrument capable of laying off a fixed unit segment along any ray; Hilbert proved that straightedge + Eichmaß generates only the pythagorean field, whereas Steiner's drawn circle generates the full Euclidean closure."
+  },
+  "steiner-punkt": {
+    "headword": "Steiner-Punkt",
+    "language": "de",
+    "translation": "Steiner Point",
+    "definition": "In triangle geometry, the circumcircle point X(99) discovered by Steiner; in projective geometry, one of the 20 points where three Pascal lines concur, or the two star points S+, S- in the Pappus S_3 configuration."
+  },
+  "equerre": {
+    "headword": "Équerre (Géométrographie de l'équerre)",
+    "language": "fr",
+    "translation": "Draftsman's Set-Square / Right Triangle",
+    "definition": "Auxiliary drafting triangle slid along a fixed straightedge to draw parallels and perpendiculars directly; first analyzed in Lemoine's 1888 Oran note and formalized in Scientia No. 18 (1902) via elementary alignment and sliding operations."
+  }
+}

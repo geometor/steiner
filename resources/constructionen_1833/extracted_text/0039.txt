@@ -1,0 +1,92 @@
+                            Die geometrischen Constructionen.                       35
+
+sodass      nach diesen Punkten gezogenen Radien
+                     die
+beider  Kreise paarweise parallel sind, z. B. bei
+einer durch A gehenden Geraden, welche die Kreise
+M, iW, etwa in t und c, l\ und c, schneidet, müssen
+sowohl die Radien Mh und M^i\. als il/c und J/, c,
+parallel sein.«
+           Da für beide Aehnlichkeitssysteme das Verhältniss
+             III.
+
+71   :   durch welches die entsprechenden Punkte bestimmt
+         n^ ,
+sind (i? 11.), durch die Radien der Kreise gegeben ist (I.y, mit-
+hin für beide den nämlichen Werth hat, und da sowohl
+A3I A3I^, als I3I:I3I^ diesem Werthe gleich ist (I., a
+             :
+
+
+
+und b.) so sind folglich 31 und 3I^ in beiden Syste-
+                 .
+
+
+
+men zugleich entsprechende Punkte.
+             Nimmt mau      einen beliebigen Punkt
+                               irgend                   au. uud               c\
+
+
+betrachtet ihn, in  Bezug auf beide Aehnlichkeitssysteme. [47]
+als mit dem Kreise 31 derselben Ebene E angehörend (§ 11.).
+so werden ihm in der anderen Ebene E^         welcher der andere          ,
+
+
+
+Kreis 3I^ angehört, zwei verschiedene Punkte entsprechen,
+nämlich es entspricht ihm ein bestimmter Punkt ^^ in Bezug
+auf den Aehnlichkeitspunkt ^4, und ein bestimmter Punkt p^.
+vermöge des Aehnlichkeitspunktes /, und es müssen diese               .
+
+
+
+
+zwei Punkte ^^, ^.\ offenbar in einem uud demselben Durch-
+messer des Kreises 3I^ liegen und zwar gleich weit von
+dessen Mittelpunkt entfernt sein; d. h., es muss i\^3f^'p^ eine
+Gerade und K\^3I^                =
+                        JI^p^ sein.    Denn da 31 und 3I^ in
+in Bezug auf beide Aehnlichkeitspunkte entsprechende Punkte
+sind  und da ferner q und
+         ,                        in Bezug auf den Aehnlich-
+                                                vT   ,
+
+
+
+
+keitspunkt A. und        und ^\, in Bezug auf den Aehnlich-
+                                  c\
+
+
+keitspunkt / entsprechende Punkte sind, so ist demnach so-
+wohl 3/, cij als 3I^'p^ parallel 37     s^ 11, I.), also q^iV, p,
+                                                         C)
+
+
+eine Gerade, und es verhält sich
+                   A3I: AM^                   =
+                                   31 q 3I^q^. und                :
+
+
+
+
+                    I3£: 131,      3Iq 31,\\'.=                   :
+
+
+
+mithin           (I., c.)
+
+                               il/q    :3/,q, = J/q J/,p,     :
+
+
+
+und folglich:
+                                       .3/,q,   =3/,p,.
+Also:«Irgend einem Punkte, welchen man als zu dem
+einen Kreise gehörend     ansieht, wie etwa dem
+Punkte q als zu dem Kreise 31 gehörend angesehen,
+entsprechen vermöge der zwei Aehnlichkeitspunkte
+A, I in Bezug auf den anderen Kreis 3/, zwei solche
+                                                                              .3*

@@ -1,0 +1,74 @@
+                                               :                                     .
+
+
+
+
+                           Die ffeoiuetrischen Constructionen.                           37
+
+auf einander, und gehen ebenfalls durch den Mittelpunkt M^
+ihres zugehörigen Kreises«;  »und fällt endlich Cr mit der
+Axe J/J/, zusammen, so vereinigen sich 6-', //, mit ihr«.*)              ,
+
+
+
+
+      *) Von der grossen Menge von Anwendungen, die aus den
+Eigenscliafteu des Aehnlichkeitspunktes sich ableiten lassen, und
+die ich au einein anderen Orte ausführlich entwickehi werde, will
+ich hier nur ein Bei-
+spiel   kurz andeuteu.
+welches denZusammen-
+hang einiger häufig be-
+trachteteu.          merkwür-
+digen Punkte des ge-
+radlinigen Dreiecks auf
+eine    eigenthümliche
+Weise         aufklärt,        näm-
+lich das folgende Bei-
+spiel.
+         I.   Zieht       man    in
+einem beliebigen Drei-
+eck abc (Fig. 15) aus
+den Ecken nach den
+Mitten        a,.   b,.   c^    der
+                                                             Fig. 15.
+gegenüber      liegenden
+Seiten gerade Linien a.^^. \^^i. cc,. so schneiden sieh diese bekannt-
+lieh in einem und demselben Punkte I und theilen einander der-
+i^estalt. dass sich die Abschnitte einer jeden zu einander verhalten
+wie 2:1; d. h., es verhält sich
+               1.          I<x: Ia^   =n   :       7b,   = 7c /c, = 2
+                                                             :               :   1
+
+      Daraus folgt also, dass man den Punkt 7 als Aehnlichkeits-
+punkt (oder Projectionspunkt) eines Beziehungssystems ansehen
+kann, in welchem a und a, b und b,. c und Ci entsprechende Punkte
+                                      .
+
+
+
+sind, sodass a. b. c der einen Ebene E und aj, bj, c, der anderen
+Ebene -Ej angehören, oder dass. mit einem Wort, die Dreiecke
+abc und a|b,Ci entsprechende Dreiecke sind, und dass je zwei ähn-
+lichliegende Punkte, in Bezug auf diese Dreiecke, auch zugleich
+ähnlichliegende Punkte in Bezug auf den Aehulichkeitspunkt 7
+sind, d. h. mit diesem in einer Geraden liegen, und von ihm
+nach dem beständigen Verhältniss von 2 1 entfernt sind (§ II).   :
+
+
+
+      Wird nun ferner als bekannt vorausgesetzt, dass die drei
+Lothe d^M. b,i)7. Ci37, welche aus den Mitten aj. b,. c, der Seiten
+des ersten Dreiecks abc auf diese Seiten errichtet werden, einander
+in  einem Punkte 31 treffen, nämlich im Mittelpunkte des dem
+Dreieck umschriebenen Kreises, und wird bemerkt, dass dieselben
+zugleich auch auf den entsprechenden Seiten des zweiten Drei-
+ecks ajbjC, perpendikular sind (weil diese beziehlich mit jenen
+parallel sind)  so folgt, wenn man jene Lothe für einen Augen-
+                      :
+
+
+blick als zu dem Dreieck flibjCj gehörend ansieht, vermöge des
+Aehnlichkeitspunktes 7 unmittelbar, dass auch die ihnen ent-
+sprechenden drei Geraden, d. i. die durch die Ecken a. b, c des
+ersten Dreiecks mit jenen Lothen parallelen      und mithin zu den   .

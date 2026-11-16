@@ -1,0 +1,51 @@
+26                       Jacob Steiner.
+
+(einfaches) Viereck, (welches jene Secanteu zu Dia-
+gonalen hat. und dessen gegenüber stehende Seiten-
+paare, T^c und ig, et und c^f). oder Bc und ae, aß und ec.
+sich auf der Harmonischen, "pq oder yC, des jedes-
+maligen festen Punktes,          oder b, schneiden, näm-
+                                 fc
+
+
+lich in den Punkten I. t oder &, x.<(
+     III. Zufolge dieses Satzes (II. muss also die Harmo-
+nische des Punktes (, da ^e und ig zwei durch diesen Punkt
+gehende Secanten sind, durch die Punkte C und f gehen; sie
+geht aber auch, zufolge (I.', zugleich durch die Berührungs-
+punkte der aus dem Punkt ( an den Kreis gelegten Tan-
+genten.    Daraus kann geschlossen werden: dass die Harmo-
+nische jedes beliebigen Punktes i. der in der Geraden pq.
+aber jenseits des Kreises, also auf der einen oder andern
+Seite in deren Verlängerung liegt, durch den harmonischen
+Pol b dieser Geraden geht, und dass, umgekehrt: der harmo-
+nische Pol jeder durch den festen Punkt t gehenden Secante
+in der Harmonischen 'pq dieses Punktes, aber jenseits des
+Kreises liegt  ;   sodass also die in den Durchschnittspunkten
+der Secante, etwa in l), t bei der Secante tfit. an den Kreis
+gelegten Tangenten sich in der genannten Harmonischen
+schneiden.      Es gehen aber auch die Harmonischen aller
+Punkte, welche innerhalb des Kreises in der Geraden pq.
+also in der Strecke ^>q, liegen, durch 34] den harmonischen
+Pol b dieser Geraden.      Denn denkt mau sich z. B. die Har-
+monische des Punktes ut, so muss dieselbe der Geraden iiitb
+iu demjenigen Punkte begegnen, welcher zu den drei Punkten
+i, m, f) der vierte,    dem m zugeordnete, harmonische Punkt
+ist (I.), folglich muss sie ihr in b begegnen.
+
+      Ebenso folgt, dass die Harmonische jedes Punktes in
+der festen Geraden jct (welche den Kreis nicht schneidet
+durch den harmonischen Pol b der letzteren geht.           Denn
+denkt man sich etwa die Harmonisclie des Punktes j", so
+muss sie der Geraden ^^B in demjenigen Punkte begegnen,
+welcher zu den drei Punkten j:, e.    B   der vierte, dem    zu-
+                                                            ^"
+
+
+geordnete, harmonische Punkt ist (I.  '
+                                          ;da aber, zufolge der
+obigen Betrachtung, der Punkt b diese Eigenschaft besitzt,
+so muss sie folglich durch  I^  gehen.  Da der Punkt  j,"ausser-
+halb des Kreises liegt, so sind aus ihm Taugenten an diesen
+möglich, durch deren Berührungspunkte seine Harmonische
+geht   (I.).

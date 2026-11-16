@@ -1,0 +1,49 @@
+34                          Jacob Steiner.
+
+
+im äusseren A-, und ihie inneren 45^ gemeinschaftlichen
+Tangenten schneiden sich im inneren /-Aehnlichkeitspunkte.
+sodass also beide Aehnlichkeitspunkte ausserhalb beider Kreise
+liegen.
+      2) Lässt man   in der Vorstellung die Kreise einander
+näher rücken, oder, wenn die Mittelpunkte und Aehnlichkeits-
+punkte fest bleiben sollen, in gleichem Verhältniss grösser
+werden, bis sie sich berühren, d. h. äusserlich berühren, so
+ist ihr Berührungspunkt zugleich ihr innerer Aehnlichkeits-
+punkt.
+       3)   Bewegt   man auf dieselbe Weise   die   Kreise   weiter,
+bis sie einander schneiden,    so liegt der innere Aehnlichkeits-
+punkt / innerhalb beider Kreise.
+       4)   Dringt der kleinere Kreis  tief in den grösseren,
+                                         so
+dass   er    ihn nur noch berührt, d. innerlich berührt, so
+                                        h.
+ist ihr Berührungspunkt zugleich ihr äusserer Aehnlichkeits-
+
+punkt.
+       5)   Gelangt der kleinere Kreis ganz innerhalb des grösse-
+ren,   so    liegen beide Aehnlichkeitspunkte innerhalb des klei-
+neren Kreises.
+     6) Werden endlich die Kreise concentrisch. so fallen beide
+Aehnlichkeitspunkte mit ihrem gemeinschaftlichen Mittelpunkte
+zusammen.
+       7) Sind insbesondere die Kreise einander gleich, gleich-
+viel   ob sie einander schneiden oder ausser einander liegen,
+so liegt der innere Aehnlichkeitspunkt / in der Mitte zwischen
+ihren Mittelpunkten, und der äussere Aehnlichkeitspunkt           A
+ist unendlich entfernt.
+
+      Von der Richtigkeit dieser Angaben wird man sich, durch
+Hülfe der obigen Betrachtungen, sehr leicht überzeugen
+können.
+      [46] II. Nach vorstehender Betrachtung liegen die End-
+punkte irgend zweier parallelen Radien der zwei Kreise mit
+dem äusseren oder inneren Aehnlichkeitspunkt in einer Ge-
+raden, je nachdem sie auf einerlei oder auf verschiedenen
+Seiten der Axe 3I3f^ liegen.        Daher muss nothwendiger
+Weise auch das Umgekehrte stattfinden, nämlich:
+    «Zieht man durch einen der beiden Aehnlich-
+keitspunkte A, I zweier gegebenen Kreise M, 3/,
+irgend eine Gerade, welche den einen Kreis schnei-
+det, so schneidet sie nothwendiger Weise auch den
+anderen Kreis, und zwar in entsprechenden Punkten.

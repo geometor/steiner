@@ -1,0 +1,62 @@
+                                                                                                   .
+
+
+
+
+                         [Die geometrischen Constnictionen.                                      53
+
+und ilurcli den Mittelpunkt     eine Gerade, so  M                                ist      diese der
+verlangte Durchmesser     ebenso schneiden sich
+                                         :                                          die     Geraden
+(1(1^. hc^ auf dem gesucliten Durchmesser.
+      [72] b. Wenn die gegebene Gerade den Ilülfskreis
+schneidet, wie etwa cd.                           —
+                                  Ziehe die Durchmesser rr,
+(l<^^ und sodann die Sehnen r^/, dc^. so werden diese letz-
+                                                        ,
+
+
+
+teren zu der gegebenen Geraden cd rechtwinklig und mithin
+unter sich parallel sein: dalier Avird der Aufgabe genügt,
+wenn man durch den jedesmaligen gegebenen Punkt mit jenen
+Sehnen eine Parallele zieht (v^ 6. 111. >
+      c. Wenn    die gegebene Gerade den Hülfskreis
+nicht schneidet, wie etwa ef.                               —
+                                        Ziehe irgend eine Sehne
+der gegebenen Geraden ey parallel 1. Aufg.K es sei etwa dc^
+eine solche Sehne, sodann ziehe die Durchmesser dd^. c^c.
+und dann weiter die Sehnen cd. d^c^, so sind diese zu dei-
+Sehne dc^     und mithin auch zu der gegebenen Geraden ef.
+                  .
+
+
+
+
+senkrecht, also parallel, und daher wird der Aufgabe genügt,
+wenn man sofort durch den gegebenen Punkt mit den Sehnen
+cd, d^c^          eine Parallele zieht               (§ 6,   III.].
+        Der gegebene Punkt kann, wie                            leicht zu       sehen,, in allen
+drei Fällen           (a.).    (b.).    (c.)   liegen   wo man          will,    in     der   gege-
+benen Geraden                 selbst,   oder ausserhalb derselben.
+
+             B.       Mittelst harmonischer Eigenschaften.
+        a.   Wenn die gegebene Gerade Durchmesser des
+Hülfskreises ist, wie etwa ab                                (Fig. 20).         —     a.    Der ge-
+gebene  Punkt liege
+ausserhalb  des Hülfs-
+kreises, wie etwa p.
+Ziehe durch den Punkt p
+und durch die End-
+punkte    des   Durch-
+messers ab die Gera-
+den pci. ph. die den
+Kreis zum zweiten Mal
+in c.   d schneiden, und
+ziehe die Geraden [73]
+ad. cb, die sich in
+irgend einem Punkte/;,
+                                                                  ^°'
+schneiden, so wird die
+Gerade pp^ die verlangte sein.   Denn da acb und adb
+rechte Winkel sind, so sind p^r und pd, in Hinsicht des

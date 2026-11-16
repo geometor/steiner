@@ -1,0 +1,53 @@
+                      Die geometrischen Constnictioncn.           ll
+
+
+kreuzweise durch ein Paar Gerade, wie etwa -4 C und
+7//, AL und HM, so liegen alle Punkte, wie B, K.
+in welchen sich      diese Geradenpaare kreuzen, in
+finer bestimmten Geraden ä, welche durch den
+l)urch,schnittspunkt /'' der zwei erstgenannten [13;
+Geraden «, c geht, und welche zu diesen und zu der
+Geraden l'G oder d die vierte, der letztern zuge-
+ordnete, harmonische Gerade ist.«
+    Die Richtigkeit dieses Satzes folgt, wie man leicht sehen
+wird, aus      (II.    oder   (i?   4).
+                einen gegebenen Punkt mittelst des
+       VI. jiDurch
+Lineals eine Gerade zu ziehen, welche mit zwei ge-
+gebenen Geraden nach einem und demselben Punkte
+gerichtet ist, wenn nämlich dieser Punkt, wegen Hin-
+dernisse, unzugänglich ist.«
+       Es sei etwa B (Fig. 2) der gegebene Punkt und A3I.         HL
+die gegebenen Geraden, welche aber nicht bis zu dem Punkte i^,
+nach welchem sie gerichtet sind, sollen verlängert werden
+können.    Man ziehe die Geraden AB. HB^ welche die ge-
+gebenen Geraden in C, / schneiden, und ziehe ferner die
+Geraden AH, IC, die sich in G kreuzen; durch diesen
+Punkt G lege man eine beliebige Gerade                   GM
+                                                     (die nicht
+durch      B
+          zu gehen braucht), welche die gegebenen in M, L
+schneidet, und ziehe sofort AL,                    HM.
+                                         die sich in          K
+                                                       kreuzen:
+so wird die Gerade             KB
+                              der Aufgabe genügen.    Das Ver-
+fahren bleibt sich gleich, der Punkt                 B
+                                         mag zu den gegebenen
+Geraden AM,           HL
+                       eine Lage haben, welche man will, wie
+z. B. die Lage von G]       ebenso können diese Geraden gegen
+einander eine Lage haben, welche man will, z. B. parallel sein.
+      Die Richtigkeit dieser Auflösung beruht, wie mau bemer-
+ken wird, auf dem vorhergehenden [14] Satze (V.).        (Vergl.
+Abhäng. geom. Gestalten. Tbl. I. S. 77.)
+
+     II.   Constructionen mittelst des Lineals unter gevvissen
+                          Voraussetzungen.
+
+A.   Wenn Parallele, oder rational getheilte Strecken
+                                    gegeben sind.
+                                          §   6.
+
+      In Ansehung der obigen Aufgabe (§ 5, I.) findet ein wich-
+tiger besonderer Fall statt, der näher betrachtet werden muss.

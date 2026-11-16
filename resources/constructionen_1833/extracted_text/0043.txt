@@ -1,0 +1,101 @@
+                                                                                                                   .                      :
+
+
+
+
+                     Die geometrischen Constructionen.                                                                                  39
+
+beizulegen.     Nämlich irgend zwei entsprechende Punkte, wie
+etwa q      und C|,, oder q .52] und \\, sollen in der Folge, in
+
+       2.   Die Punkte             »,.       h^.              r,,       in           welclicn              der             Kreis J/j    die
+Strahlen -Ja. Ah,            Ac schneidet, sind, vermöge des äusseren Aehn-
+liehkeitspunivtes A. die Mitten dieser Strahlen, sodass sich verhält:
+                Aa. Aa^     Ah Ab^  =   Ac Ac^      2:1.                =                                  =
+                                                                                                                                        M
+                     :                                    :                                :
+
+
+
+
+        3. Bezolclinet man die Punkte, in welchen die Kreise
+und J/, von den drei, durch ihren inneren Aehnlichkeitspunkt /
+gehenden Strahlen aai, bb, cc, geschnitten werden, beziehlich
+                                                          .         ,
+
+
+
+durch b und b,. e und e, f und f, so verhält sich:
+                                         .
+
+
+
+                   /b /b,    /e /e,
+                             :      =  /f /f,     2  1    :             =             :                =       :
+
+
+
+
+        4. Da der Punkt i»/, in der Mitte   zwischen 31 und     liegt                                                               A
+(1., 4.),  und da il/a, und ^I«, zu a, «, senkrecht sind, so muss
+folglich der Kreis iJy, auch durch «j gehen, weil er durch a, geht;
+ebenso muss er durch ,i, un<l 7, gehen.     Oder dasselbe folgt auch
+daraus, dass 3/, a, parallel J/a, vermöge des Aehnlichkeitspunktes /,
+und auchil/, «, parallel 3Ia, vermöge des Aehnlichkeitspunktes -J,
+dass mithin a^JI^a^ ein Durchmesser des Kreises 3/i, und folglich
+a,«,(/, ein reciiter             Winkel im Halbkreise ist u. s. w.
+       5.   Werden       also       die Strahlen Ac-i. A,i^,                                               Ayi verlängert,              bis
+sie   den ersten Kreis 31 in «, ji, y schneiden, so verhält sich, ver-
+möge des Aehnlichkeitspunktes A:
+           Are Acii = A,i Aß^ = Ay Ay^
+                     :                              2:1.  :                                    :           =
+    6. Vermöge des Kreises 3/, folgt nun weiter (4.) und (§ 17.), dass
+                Rechteck ab, = ac,               .       a,J,                    .   (^y^.
+                         »   = bc, b/, und
+                                    ba,          .       b«,                     .                 ,
+
+
+
+                     ca, c«, = cb,
+                         »                       .                               .   c.i,.
+       Vermöge des Aehnlichkeitspunktes A folgt
+       7.                                           dass:                                                              (§    17),
+           Rechteck Aa. Aa^ = Ah Aßi = Ac Ayi =^  .                                   .                                .
+
+
+
+                    Au Aüi =^ Aß Ab^ = Ay Acy-,
+                         »                           .                                .                                .
+
+
+
+und vermöge des Aehnlichkeitspunktes / folgt, dass:
+           Rechteck /a /b, = Ih 7e, = Je /f, =
+                                             .                               .                             .
+
+
+
+
+                    Jb. Ja, = Je Ih^ = Jf Je,.                               .                             .
+
+
+
+
+      Diese vorstehenden Sätze (1 bis 7) wird man leicht, nach gewöhn-
+licher Weise, in Worten abfassen können, wie z. B. folgenden Satz:
+      »In jedem Dreieck abc liegen die 12 Punkte                 näm-                                                           —
+lich    die drei Mittelpunkte                                       a,,      b,,          c,der Seiten, die drei
+Fusspunkte «,, ;?,, j', der Höhen,                                                        die drei Mittelpunkte
+a,,6,,c,  derjenigen Strecken der Höhen, welche zwischen
+ihrem Durchschnittspunkte A und den Ecken des Drei-
+ecks liegen, und endlich die drei Punkte b,, e,, t,, welche
+in den aus den Eckeu durch die Mitten der Gegenseiten
+gezogenen Geraden liegen, und von deren gemeinschaft-
+lichem Durchschnittspunkte J halb so weit entfernt
+sind, als die Punkte b. e, f, in welchen dieselben Gera-
+den den umschriebenen Kreis 31 schneiden, aber mit den
+letzteren nicht auf einerlei Seiten jenes Punktes J
+liegen      —allemal zusammen in einem und demselben
+Kreise 3Jj.«                  U. s. w.
+     III. In Folge der obigen Bemerkung (I.), dass ähnlichliegende
+Punkte, in Bezug auf die Dreiecke abc, a,,                                                             6,, c,,             auch zugleich

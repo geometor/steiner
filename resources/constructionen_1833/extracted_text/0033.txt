@@ -1,0 +1,57 @@
+                                                                               ,
+
+
+
+
+                          Die geometrischen Constnutiüneu.!                 2*.(
+
+
+
+
+betracLten, also als c, und danu entspricht ihm der Punkt c,
+oder man kann ihn als der Ebene is', angehörend anselien,
+das   ist    als t,   ,   und dann entspricht ihm der Punkt        t.
+
+           man in Gedanken den Punkt a sich so bewegen,
+        Lässt
+dass er dem Punkte A näher rückt, so [38] muss noth^ven-
+diger Weise auch der ilnn entsprechende Punkt a,                  gleichzeitig
+dem festen Punkte A sich nähern bis zuletzt beide zugleich
+                                                  .
+
+
+
+
+sich mit A vereinigen. Demnach kann man sagen, es seien
+in A zwei entsprechende Punkte vereinigt, und es ist
+klar,       dass   diese     Eigenschaft nur diesem Punkte         allein   zu-
+kommen kann (ausgenommen bei dem besonderen Beziehungs-
+system, wo das genannte Verhältuiss n n^ 1 ist, in welchem
+                                                      :   =
+Falle jeder Punkt mit seinem entsprechenden zusammenfällt).
+
+
+
+
+                                       Fig. 13.
+
+
+      Aus dem einfachen Gesetz, durch welches die ent-
+sprechenden Punkte der zwei Ebenen E, E^ bestimmt sind,
+folgt nun auch unmittelbar die gegenseitige Beziehung, welche
+irgend ein System von Punkten in der einen Ebene zu dem
+ihm entsprechenden System von Punkten in der andern Ebene
+hat; d. h. wenn in der einen Ebene irgend eine Figur ge-
+geben ist, so lässt sich leicht angeben, was für eine Figur
+ihr in der anderen Ebene entspricht, und welche gegenseitige
+Beziehung irgend zwei solche entsprechende Figuren zu einan-
+der haben.    Nämlich die Haupteigenschaften oder Hauptsätze
+über diese Beziehung gründen sich auf Folgendes:
+      Es ist zunächst klar, dass die Gerade at\ welche durch
+irgend zwei Punkte a, t der einen Ebene        geht, mit den- E
+jenigen Geraden ajb, welche durch die entsprechenden zwei
+                                 .
+
+
+
+Punkte ^y. t\ der anderen Ebene E^ geht, parallel ist, und

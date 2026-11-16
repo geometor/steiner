@@ -1,0 +1,71 @@
+                                                              c
+
+
+
+
+74                            Jacob Steiner.
+
+                           Aufgabe      15.
+
+                Geraden, welche durch
+       ^Diejenigen                                        einen   ge-
+gebenen Punkt gehen und einen durch
+       a)    drei Tangenten       und die Berührungspunkte von
+             zwei derselben, oder
+      drei Punkte und die Tangenten in zwei der-
+       b)
+      selben
+gegebenen Kegelschnitt berühren, zu finden.
+       Wie man sieht,   lassen sich z. B, die Aufgaben (S. und 9.)
+mittelst der Aufgaben (4. und 5.) auf die Aufgaben 2. und 3.)
+zurückführen, ebenso die Aufgaben 10. und 11.) mittelst der
+Aufgaben -6. und 7.) auf die Aufgaben 2. und 3.) u. s. w.,
+woraus die Zahl der Auflösungen, welche jeder der gegenwär-
+tigen Aufgaben möglicher Weise zukommen können, leicht zu
+finden      ist.
+
+                          Aufgabe       16.
+
+       »Wenn von zwei Kegelschnitten zwei gemein-
+schaftliche (oder Durchschnitts-) Punkte und ausser-
+dem von jedem insbesondere irgend drei Punkte
+gegeben sind, so soll man ihre übrigen zwei gemein-
+schaftlichen Punkte, sowie ihre vier gemeinschaft-
+lichen Tangenten finden.«
+     Es mögen die Kegelschnitte durch             K
+                                           und A', ihre ge-
+                                                          .
+
+
+
+gebenen zwei gemeinschaftlichen Punkte durch Oi, 2, die
+übrigen gegebenen drei Punkte des Kegelschnitts       durch   K
+2t, 33, ß und die des K^ durch %^. iß,, (i, bezeichnet und
+die gesuchten [103] zwei gemeinschaftlichen Punkte r. ^ ge-
+nannt werden; dann kann die Aufgabe unter anderen z. B.
+wie folgt gelöst werden.
+     Man ziehe etwa die Geraden :HOi und 33(2, ß®, suche
+die Punkte a, und t,. c,     in welchen sie K^
+                              .                     ausser in ^)l
+und 2) zum zweiten Mal schneiden              —
+                                            welches bekanntlich
+mittelst des Lineals allein leicht geschehen kann, da fünf
+Punkte von /i', gegeben sind       —
+                                  ziehe sofort die Geradenpaiire
+XHS3 und a,bj, :?((i und a, c,  nenne die Punkte, in welchen
+                                    .
+
+
+
+sie sich kreuzen, beziehlich p. ci,  und ziehe die Gerade pq,
+so   ist      eine
+            diese   der gegebenen !jH2 zugeordnete) geraeio-
+?;chaftlicheSecante der zwei Kegelschnitte A'. A', sodass also
+                                                      ,
+
+
+
+
+nur noch nöthig ist, die Durchschnitte derselben mit einem
+der letzteren zu finden ,Aufg. 2, </.), um die in der Aufgabe
+verlangten Punkte r, ^ zu haben.

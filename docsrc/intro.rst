@@ -1,0 +1,1 @@
+The mission of this project is to capture a semantic digital library of the works of **Jakob Steiner** — the Swiss synthetic geometer whose 1833 treatise proved that every Euclidean construction can be performed with a straightedge alone given a single fixed circle and its center.

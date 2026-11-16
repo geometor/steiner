@@ -1,0 +1,52 @@
+                     Die geometrischen Constructioueii.                     41
+
+sollen zwei Gerade,  welche in Bezug auf eines [54] der zwei
+Aehnlichkeitssysteuie  entsprechende Gerade sind    fortan in      .
+
+
+
+
+Kücksicht auf die Kreise 55      ähnlich liegende Gerade'(
+heissen. Endlicii soll jeder Strahl, welcher durcii einen der
+zwei Aehnlichkeitspunkte         A
+                              oder / geht, in Kücksicht auf
+die Kreise »Aehnlichkeitsstrahl«        (oder «Projections-
+strahl«) genannt werden.
+
+                                      i?   13.
+
+      I.   Betrachtet     man    einer Ebene irgend drei Kreise,
+                                in
+deren Mittelpunkte        M^, M,, J/j Fig. 16.- nicht in einer Ge-
+
+
+
+
+                                     Fig. 16.
+
+
+raden      liegen,   so           zwei derselben zwei Aehn-
+                          gehören zu je
+lichkeitspunkte, ein äussererund ein innerer ^§ 12.); es seien
+Aj und /g A.^ und /, A^ und /, beziehlich die Aehnlichkeits-
+              ,             ,
+
+
+
+punkte der Kreispaare 3I^ und J/, 31 und 31^ 31^ und 31^.
+                                                 .
+                                                     ^
+                                                              .
+
+
+
+Von     diesen    sechs Aehulichkeitspunkten             liegen   allemal vier-
+mal drei            Geraden, nämlich die drei äusseren liegeu
+              in einer
+in einer Geraden, und jeder äussere liegt den beiden ihm
+nicht zugehörigen inneren in einer Geraden; d. h.. es ist
+sowohl A^A^-^A^ als A^I.^I^ als A.^I^I^ als A^I,I^ eine
+Gerade.     Denn zieht [56] man z. B. die Gerade A^A^^ so
+ist sie.   vermöge der Punkte ^ig, A^, eine äussere Aehn-
+lichkeitsliuie sowohl zu den Kreisen M^ und J/.-,, als J/,
+und 3Ij. mithin muss sie auch eine äussere Aehnlichkeits-

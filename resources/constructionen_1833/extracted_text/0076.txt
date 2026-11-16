@@ -1,0 +1,68 @@
+                                   u                                 .
+
+
+
+
+72                        Jacob .Steiner.
+
+
+paare      B
+           und C. B und D. C und IJ beziehlich durch
+3^.  ß, 33.   Man ziehe die Gerade a«. and nenne die Punkte,
+in welchen sie das Tangentenpaar, etwa           B
+                                            und C. schneidet,
+b und ß. und suche sodann, in der Geraden a«. zu den zwei
+Punktenpaaren a und a. 6 und ß. das durch dieselben be-
+stimmte Punktenpaar x und e (Aufgabe 4        IL).  Aehnlicher
+                                                     .
+
+
+
+
+Weise suche man zu dem gegebenen Punktenpaare a und a.
+und zu dem Punktenpaare, in welchem die Gerade aa von
+einem andern Tangentenpaare, etwa von            B
+                                             und JJ. geschnit-
+ten wird, das durch dieselben bestimmte Punktenpaar r, und ?,.
+Sodann ziehe man die Strahlen ^r und X^e. ßr, und (5^,,
+und bezeichne die Durchschnittspunkte von X)r und ßr,
+©r und (5§,. 5)§ und ßr, S;:^ und (5^, beziehlich durch
+                               .                     .
+
+
+
+w, X. y, s, und ziehe endlich die Geradenpaare ua und ua.
+xa und .r«, ya und y«. ca und za. so wird jedes von
+diesen, für sich genommen, der vorgelegten Aufgabe genügen,
+d. h., je zwei solche Gerade berühren in den       zugehörigen
+Punkten a und a einen bestimmten Kegelschnitt, welcher
+ebenfalls von den drei gegebenen Geraden [lOOJ B. C. IJ
+berührt wird.   Demnach lässt die Aufgabe, im Allgemeinen,
+vier Auflösungen zu. oder es finden vier Kegelschnitte statt,
+welche sowohl die drei gegebeneu Tangenten, als die zwei
+gegebenen Punkte gemein haben; u. s. w.
+     Mittelst der vorstehenden Aufgaben   2 bis 7.) lassen sich
+nunmehr auch die folgenden Doppelaufgaben, welche, wie
+man bemerken wird, theils Zusammensetzungen, theils beson-
+dere Fälle von jenen sind, leicht lösen.
+
+                          Aufgabe b.
+      »Die     gegenseitigen           Durchschnittspnnkte       einer
+gegebenen       Geraden   und           eines   Kegelschnitts,    von
+welchem
+      vier Punkte und eine Tangente, oder
+      a)
+      vier Tangenten und ein Punkt
+      b)
+gegeben sind, zu finden.       (t
+
+
+
+
+                          Aufgabe 9.
+    »Diejenigen Geraden, die durch einen gegebenen
+Punkt gehen und einen Kegelschnitt berühren, von
+welchem
+    a) vier Tangenten und ein Punkt, oder
+    b vier Punkte und eine Tangente
+gegeben sind, zu finden.

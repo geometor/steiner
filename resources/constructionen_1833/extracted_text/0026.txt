@@ -1,0 +1,53 @@
+22                            Jacob Steiner.
+
+
+Perpendikel gefället werden (a). so zieht man durch den
+Mittelpunkt     Edie Gerade         FG
+                                   parallel fg.   errichtet                KEI
+rechtwinklig auf      FEGund zieht durch den gegebenen Punkt i
+die Gerade [28 ie parallel          lEK
+                                    (§ 6. I.); so hat man offen-
+bar die Forderung erfüllt,    f^s ist klar, dass das Verfahren
+
+sich gleich bleibt, wenn aus dem Punkte e. in der gegebenen
+Geraden fg^ auf diese ein Perpendikel errichtet werden soll.
+     Wird ferner verlangt, man soll irgend einen gegebenen
+rechten Winkel y«? hälften [h     so zieht man
+                                      .                     EF
+                                                      parallel ef
+und   EI parallel ei. hälftet sofort den Winkel FEI mittelst
+der Geraden EL und zieht endlich durch den Punkt e. mit
+EL parallel, die Gerade e/, so wird diese offenbar der For-
+derung genügen.
+      Der Fall      [c]   endlich   lässt     sich   mittelst   des Falles   a)
+und   einer     früheren    Aufgabe         5
+                                            (§  III.)
+                                                 ,    leicht erledigen.
+Denn errichtet man aus dem            Scheitel des gegebenen Winkels
+auf einen seiner Schenkel, welche «, b heissen mögen, etwa
+auf h. einen Perpendikel (wie soeben gezeigt worden ia)                       .
+
+
+so kann sofort dieser Winkel, nach Anweisung von ;i? 5. UI.                   ,
+
+
+verdoppelt werden, d. h. man hat zwei Winkel [ab           \bc).       ,
+
+
+
+die einander gleich sind und den Schenkel b gemein haben,
+sodass der Winkel [ac) das Zweifache des gegebenen Win-
+kels [ab) ist.  Errichtet man nun weiter auf dieselbe Weise
+auf den Schenkel c einen Perpendikel und verdoppelt die an
+diesem Schenkel liegenden beiden Winkel [cb). ca], so er-
+hält man zwei neue Schenkel d, e. und es ist ad) das Drei-
+fache und [ae das Vierfache des gegebenen Winkels ab                          .
+
+
+
+Auf gleiche Weise gelangt man nun mittelst eines Perpen-
+dikels auf den letzten Schenkel e zum 5-. 6-. 7- und S fachen
+des gegebenen Winkels, und sodann 29       durch einen neuen
+Perpendikel zum 9- bis 16 fachen u. s. w. f., nämlich durch
+den ;^ten Perpendikel gelangt man zum          ,2" -f- l)-   bis
+2 "-^'fachen.

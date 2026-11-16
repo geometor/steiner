@@ -1,0 +1,54 @@
+44                                      Jacob Steiner.
+
+gefunden werden, für welchen der Unterschied der Quadrate
+seiner Abstände von den zwei festen Punkten eine gegebene
+                           Grösse, etwa =w-. ist. sodass
+                                             also
+                   M.                                   MN'— M^N''=ti-.
+                                             so      der in Frage stehende
+                                                     ist
+
+                                             Ort offenbar eine Gerade XQ.
+                                             welche auf der durch die zwei
+       /                —               ^-   festen Punkte bestimmten Gera-
+                        ;
+                                    '   ^    den M^l^ senkrecht steht und
+                        1
+                                             sie                   dass auch
+                                                     dergestalt theilt,
+             Fig. 17.                        der   Unterschied  der Quadrate
+                                             ihrer   Abschnitte gleich jeuer
+gegebenen Grösse            ist,    d. h.,   dass auch
+                              MQ^ — M, Q* =                ti"
+
+ist. Denn erfüllt der Punkt                      N
+                             die gegebene Bedingung, so
+hat man, wenn man aus ihm auf die Gerade MM^ das Loth
+NQ     fället,   vermöge der rechtwinkligen Dreiecke                        XQM und
+NQM,:
+           N3P — QM, = NM;- — QM,'' = XQ-,
+mithin
+           XM^ — XM^- = Q3P — QM^- =                                 u'-.
+
+       Da nun     aber      Gerade 3I3f^ nur in einem einzigen
+                              die
+Punkte Q so       getheilt werden kann, dass der Unterschied der
+Quadrate der Abschnitte, das ist QM'          Q3I^. eine ge-     —
+gebene Grösse u"^ hat, so trifft also das genannte Loth                         XQ
+die Gerade [60] 3fM^ allemal in dem          nämlichen festen
+Punkte Q, und folglich ist der Ort von .V eine feste Ge-
+rade XQ.
+      Ob der Punkt Q zwischen den zwei festen Punkten
+31, 3I\ liege, oder jenseits derselben, hängt von dem gegen-
+seitigen Verhältniss der Grösse u und der Strecke 3I3[^ ab.
+je nachdem nämlich u kleiner oder grösser als .17.1/, ist.
+
+
+                                             §    15.
+
+     Denkt man sich um die Punkte 31. 3f^ mit beliebigen
+Radien li, 7»', Kreise beschrieben, und verlangt den Ort des
+Punktes    X für den besonderen Fall, wo die Differenz der
+Quadrate seiner Abstände von jenen Punkten gleich ist der
+Differenz der Quadrate der Radien, also wo
+                 3fX'-      —      31, X-        = Jr-— h\- = n-.

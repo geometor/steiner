@@ -1,0 +1,67 @@
+                    Die geoiuetrischen Constructionen.                            9
+
+     Denkt man sich zu den drei Strahlen «, c, d den vier-
+ten,dem d zugeordneten, harmonischen Strahl Z», und ebenso
+zu den drei Strahlen a, r, f/, den vierten, dem t/, zuge-
+                               ,           ,
+
+
+
+ordneten, harmonischen Strahl i,     so muss jeder der zwei
+                                                   ,
+
+
+
+Strahlen h. ä, die Diagonale                   ACD
+                                      in demjenigen Punkte i^
+schneiden, welcher zu den gegebenen drei Punkten A, C,                            D
+der vierte, dem J) zugeordnete, harmonische Punkt ist (§ 3);
+ebenso müssen beide Strahlen /;, b^ die Diagonale        JE in              HI
+demjenigen Punkte         B
+                        schneiden, welcher zu den drei Punk-
+ten //. /,     Eder vierte  dem J^ zugeordnete harmonische
+                                   ,                                    ,
+
+
+
+Punkt 10] ist; da aber b und b^ nur einen einzigen Punkt                          B
+gemein haben können, so mues folglich derselbe zugleich der
+Durchschnittspunkt der Diagonalen AC,            sein, woraus   HI
+denn hervorgeht, dass diese Diagonalen harmonisch geschnitten
+werden.    Aehnlicher Weise kann gezeigt werden, dass die
+dritte Diagonale 6rjFvon den zwei andern in den Punkten Z>,£
+harmonisch getheilt wird.    Also              :
+
+
+
+
+    »Bei jedem vollständigen Vierseit wird jede der
+drei Diagonalen von den zwei übrigen harmonisch
+geschnitten, d. h. die Punkte, in welchen eine der
+drei Diagonalen von den zwei übrigen geschnitten
+wird, sind zu den Eckpunkten, welche sie verbindet,
+zugeordnete harmonische Punkte,       zum Beispiel
+A, B, C, I) sind harmonisch und B,       sind zuge-                 D
+ordnete harmonische Punkte. ((2)
+
+
+       Von den       zahlreichen           Folgerungen        und   Anwendungen,
+die    sich   aus   dem   letzten      Satze       '§   4)   ziehen lassen,   sollen
+hier nur einige und zwar zunächst folgende herausgehoben
+werden.
+     I. ))Zu  irgend drei gegebenen Punkten in einer
+Geraden einen vierten harmonischen Punkt mittelst
+des Lineals allein zu finden.«
+     a) Sind etwa die drei Punkte G^ D.            (Fig. 2' ge-     F
+geben und es soll der dem                  D
+                                zugeordnete vierte harmonische
+Punkt    Egefunden werden     so ziehe man nach einem belie-
+                                       ,
+
+
+
+bigen Punkt ^4 die Geraden [11] AG. AD. AF. nehme mAT)
+einen beliebigen Punkt C. und ziehe die Geraden GC'J, FCH^
+wodurch man die zwei Durchschnitte / und            erhält, und     H
+ziehe endlich die Gerade HI^ so wird diese den verlangten
+Punkt    E angeben.   Oder:

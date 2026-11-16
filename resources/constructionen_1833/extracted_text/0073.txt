@@ -1,0 +1,62 @@
+                                                              ,
+
+
+
+
+                Die geometrischen Constructionen.           69
+
+Mau bezeichne die Punkte, in welchen A und A^ von
+'.H. ©, (5 geschnitten werden, beziehlich durch a und a,
+b und b, . c und c,   Man ziehe die Strahlen B^^. ^^n Bc^
+                                .
+
+
+
+
+und nenne    die Punkte, in welchen sie die Gerade      A
+                                                       treffen,
+beziehlich a.   ß   ,  Hierauf suche man auf gleiche Weise,
+                          y.
+wie bei den beiden vorhergehenden Aufgaben, mittelst der
+drei Pnnktenpaare a und «,       b und [i^ c und y und des
+Hidfskreises M, in der Geraden              A
+                                        die zwei Punkte r, §,
+und ziehe sofort die Geraden Bx, B^, so werden diese, und
+zwar diese allein, der Forderung der Aufgabe genügen. Wenn
+die Gerade ^.H"), [95 welche durch weitere Constructionen ge-
+funden wird isiehe Aufg. l.    den Hülfskreis 31 nicht schnei-
+                                       ,
+
+
+
+det, so zeigt dies an, dass der gegebene Punkt      Binnerhalb
+des Kegelschnitts liegt, und mithin die Aufgabe unmöglich
+ist; und wenn jene Gerade den Kreis berührt, so zeigt dies
+an, dass der Punkt im Kegelschnitte selbst liegt, und mithin
+nur. eine einzige Gerade    in der sich zwei vereinigt haben
+der Aufgabe genü;zen kann.
+     Fall b. Dieser Fall kann auf entsprechende Weise auf
+den ersten (a) gebracht werden, wie solches bei der vorigen
+Aufgabe (2.) stattfand, worüber ebenfalls an dem daselbst an-
+geführten Orte das Nähere zu finden ist.
+
+
+                                    Aufgabe 4.
+      »Wenn von einem Kegelschnitte vier Punkte und
+eine Tangente gegeben sind, so soll man den Punkt
+finden, in welchem die letztere vom Kegelschnitte
+berührt wird.»
+      I. Es heisse die gegebene Gerade A,  und die vier ge-
+gebenen Punkte       53, S. T).
+                        ',?(.   Man ziehe durch diese Punkte
+drei Paar Gerade, nämlich 3(50 und Sr. 21(5 und ißS^, 2(1^
+und ®(5, nenne die Punkte, in welchen sie der Geraden A
+begegnen, beziehlich a und a, b und /S, c und y, und suche
+sofort, auf dieselbe Weise, wie bei den vorhergehenden Auf-
+gaben, in der Geraden A die Punkte X und ö, so wird jeder
+von diesen der vorgelegten Aufgabe genügen, sodass es also
+im Allgemeinen zwei Kegelschnitte giebt, von denen jeder
+[96j durch die vier gegebenen Punkte geht und die gegebene
+Gerade berührt. Die Merkmale, woran man erkennt, ob die
+Aufgabe in der That zwei, oder nur eine, oder gar keine
+Auflösung- zulässt (d. h., ob 2, oder nur 1, oder kein

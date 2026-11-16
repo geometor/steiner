@@ -1,0 +1,73 @@
+                                                                                   ,
+
+
+
+
+                                Die geometrischen Constructionen.                                          17
+
+findet             mau      weiter          zwei        Strecken,            die       sich   verhalten    wie
+<   h:
+              —      c.    w.s. w.     f.,          was uotliwendiger Weise
+                                                          da                                    zuletzt,
+r/,      i,    ganze Zahlen sind, die der Reihe nach immer
+                r,
+kleiner werden, zu zwei Strecken führen rauss, die sich ver-
+halten wie 1:1.
+      Wird      oder b    xDE                       + =
+                               z gesetzt, so hat man, wenn
+statt X der obige Werth gesetzt wird:
+
+                                                                 ,
+                                                                     bja      +        b)
+
+                                                                         a   —         b
+oder
+                     2.                     a   :   z   = a — b 2b.      :
+
+
+
+
+das heisst: durch die nämlichen Constructionen gelaugt man
+zu zwei Strecken BJ), DE, welche sich verhalten, wie die
+Differenz der gegebenen Zahlen a    b zu der doppelten klei-         —
+neren Zahl 2 b wodurch man, in gewissen Fällen, sich etwas
+                                ,
+
+
+schneller dem verlangten Verhältniss 1  l nähern kauu.                         :
+
+
+
+           Ist       zum Beispiel
+                   a a)  2, und b      l        =                    =
+[22]        X so 3 und
+                     ist mithin =C  in der Mitte zwischen B
+und E; und wenn
+         ß)        a     3   und i     1        =       ,            =
+so ist X             =
+            2 und mithin                                D
+                             in der Mitte zwischen B und E.
+Jeder dieser zwei Fälle erfordert also nur eine einzige Hülfs-
+construction.
+
+
+
+B.        Wenn              zwei     Paar Parallele,
+                                              oder zwei rational
+getheilte Strecken,              oder Parallele und rational ge-
+                   theilte Strecken zugleich gegeben sind.
+
+                                                            §   S.
+
+           I.      »Wenn in einer Ebene irgend zwei Paar paral-
+lele Gerade, also irgend ein Parallelogramm                                                       gegeben
+ist, so soll man (mittelst des Lineals allein)
+              a) nach allen Richtungen parallele Gerade ziehen,
+                 d. h. mit irgend einer gegebenen Geraden
+                 durch irgend einen gegebenen Punkt eine
+                 Parallele ziehen, und
+              b) jede beliebige gegebene Strecke nach irgend
+
+                 einem gegebenen Verhältniss vervielfachen
+                 oder theilen.«
+         Ostwald's Klassiker.        (iO.                                                         >

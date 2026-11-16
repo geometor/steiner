@@ -1,0 +1,65 @@
+6                                          Jacob Steiner.
+
+     Zweites Kapitel.                      Vom Kreise.                              I.    Harmonische Eigen-
+              schaften          des   Kreises.                      II.    Von den Aehnlichkeits-
+         punkten (oder Projectionspunkten) zweier und mehrerer
+         Kreise.  III. Von der Potenz bei Kreisen; A. Ort der
+         gleichen Potenzen    B. gemeinschaftliche Potenz
+                                                   :        in                                                                   .
+
+
+
+         Beziehung auf die Aehnlichkeitspunkte.
+    Drittes Kapitel.     Lösung aller geometrischen Aufgaben
+             mittelst des Lineals,                        wenn irgend ein fester Hülfskreis
+       gegeben ist, enthaltend die obigen acht Aufgaben
+        § 1, a bis hl.  Schlussbemerkung.
+     Ausserdem werden in einem Anhange noch einige [6
+wesentliche Aufgaben über Kegelschnitte aufgestellt, welche
+als zweckmässige Beispiele der Anwendung der gegenwärtigen
+Methode dienen sollen.
+
+
+                                      Erstes Kai»itel.
+Einige Eigenschaften geradliniger Figuren und                                                                                daranf
+    gegründete Constructionen mittelst des Lineals                                                                          allein.
+
+      I.     Harmonische Strahlen und Punkte, Transversalen.
+
+
+        I.    Es   sei    ABC (Fig.                     1)   ein beliebiges Dreieck                                 :       aus der
+                                                              Spitze           B gehe der Strahl b
+                                                              durch             die           Mitte         b       und der
+                                                              Strahl           cl        parallel           der       Grund-
+                                                              linie       A  C.                   Zieht     man durch
+                                                              die             der Grundlinie
+                                                                          Mitte               b
+                                                              irgend eine Gerade, oder Trans-
+                                                              versale ab. so wird diese von
+                                                              den zwei Seiten a. c und von
+                                                              den Strahlen h. d in den vier
+       '^
+                                                              Punkten                    a.       b.   c.       t           so       ge-
+                    Fig.    1.                                schnitten, dass
+
+               Ah Bl = ah
+                      :                    :       (i\:      (weil        Aa-lb               ^ AaZ?r                   .
+
+
+
+
+               Cb     :   ^t)    = cb cb   :                 (weil        AcCb r^ ÄcBt                                  .
+
+
+
+
+folglich,      weil                                Ah = Ch                 :
+
+
+
+
+                                      nh    = cb
+                                               :       af                  :    et
+oder
+                                      ab bc = ar
+                                               :                           :    er.

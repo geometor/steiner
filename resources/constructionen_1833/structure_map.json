@@ -1,0 +1,38 @@
+{
+  "edition": "constructionen_1833",
+  "title": "Die geometrischen Constructionen, ausgeführt mittelst der geraden Linie und Eines festen Kreises",
+  "author": "Jakob Steiner",
+  "tracks": [
+    "en",
+    "de",
+    "summary",
+    "notes"
+  ],
+  "sections": [
+    {
+      "id": "01-einleitende-uebersicht",
+      "title": "Einleitende Uebersicht: Die Reduktion der Zirkel-Operationen auf das Lineal",
+      "locus": "§§ 1–2, S. 3–6 / [1]–[6]"
+    },
+    {
+      "id": "02-erstes-kapitel",
+      "title": "Erstes Kapitel: Harmonische Strahlen und Punkte, vollständiges Viereck und Polaren",
+      "locus": "§§ 3–10, S. 7–28 / [7]–[28]"
+    },
+    {
+      "id": "03-zweites-kapitel",
+      "title": "Zweites Kapitel: Aehnlichkeitspunkte und Linie der gleichen Potenzen der Kreise",
+      "locus": "§§ 11–17, S. 29–50 / [29]–[67]"
+    },
+    {
+      "id": "04-drittes-kapitel-lineare-aufgaben",
+      "title": "Drittes Kapitel: Erste bis Fünfte Fundamental-Aufgabe",
+      "locus": "§ 18, S. 50–56 / [68]–[76]"
+    },
+    {
+      "id": "05-drittes-kapitel-kreis-aufgaben",
+      "title": "Drittes Kapitel Fortsetzung: Sechste bis Achte Fundamental-Aufgabe",
+      "locus": "§ 18, S. 56–62 / [76]–[85]"
+    }
+  ]
+}

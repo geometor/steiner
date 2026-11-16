@@ -1,0 +1,59 @@
+                                                                         ,
+
+
+
+
+                     Die gt'omotrischen Cou.structionen.            71
+
+
+       Man  bezeichne die gegebenen Tangenten durch B, C,
+und     irgend zwei der drei gegebenen Punkte durch a, a.
+Man ziehe die Gerade o.(i und nenne die Punkte, in welchen
+sie die      B
+            und C schneidet, b und ß, und suche sodann, auf
+die nämliche Weise wie oben (Aufg. 4, IL), in der Gera-
+den aa [dort A] die zwei Punkte r und §.         Nun lege man
+ferner durch den dritten gegebenen Punkt und einen [98] der
+beiden andern, a oder a, eine Gerade, und suche, auf ganz
+gleiche Weise, in ihr die zwei Punkte r, und ^^.        Sodann
+ziehe man die vier Geraden n\, rö,, 6l', und gS,, so wird
+jede von diesen insbesondere die Tangenten B^ C in solchen
+Punkten schneiden, in welchen sie von einem und demselben,
+durch die drei gegebenen Punkte gehenden, Kegelschnitte be-
+rührt werden.      Die vorgelegte Aufgabe lässt demnach im
+Allgemeinen vier Auflösungen zu, oder es giebt, im Allge-
+meinen, vier Kegelschnitte, welche die drei gegebenen Punkte,
+sowie die zwei gegebenen Tangenten, gemein haben*).         Die
+Aufgabe wird (oder die Kegelschnitte werden) unmöglich,
+wenn eins der genannten Punktenpaare r und § r^ und ö      ,
+                                                                     ,
+
+
+nicht stattfindet.  Dieser Fall lässt sich aber, ohne vorherige
+Construction. unmittelbar aus der gegenseitigen Lage der ge-
+gebenen fünf Elemente erkennen, nämlich er findet statt, wenn
+die gegebeneu Punkte, in Piücksiclit auf die durch die Tan-
+genten B.        C
+                gebildeten Winkel, in Nebenwinkeln (aber
+keine zwei derselben mit dem Durchschnitte der Tangenten
+in einer Geraden) liegen.     Besondere oder Grenzfälle ent-
+stehen, wenn entweder die drei gegebenen Punkte in einer
+Geraden, oder zwei derselben mit dem Durchschnitte der Tan-
+genten B. C in einer Geraden liegen; u. s. w.
+
+[99]                           Aufgabe 7.
+    »Wenn drei Tangenten und zwei Punkte eines
+Kegelschnittes gegeben sind, so soll man die Tan-
+genten finden, welche denselben in jenen Punkten
+berühren.«
+       Man       bezeichne   die   gegebeneu   drei   Tangenten   durch
+B, C.        D und die gegebenen zwei Punkte durch a, a, und
+ferner die       gegenseitigen Durchschnittspunkte      der Tangenten-
+
+
+        Vergl. Memoire sur les lignes du second ordre, p. 47 par
+       "']
+
+
+Brimichon, Capitaine d'Artillerie. ancien eleve de TEcole Polj'-
+technique. Paris 1817; und Abhang, geom. Gestalten, S. 285, Tbl. I.

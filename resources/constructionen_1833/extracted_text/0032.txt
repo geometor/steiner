@@ -1,0 +1,62 @@
+28                                 Jacob Steiner.
+
+suche man, auf die eben gezeigte Weise, zu irgend zwei
+Punkten derselben, etwa zu ( und m, oder   und ^. die Har-
+                                                    j;
+
+
+monischen, so wird ihr Durclischnittspunkt. C oder b, der
+verlangte Pol sein       (III.).
+
+     2.   »An einen gegebenen Kreis 31 Tangenjen zu
+ziehen, welche durch irgend einen gegebenen ausser-
+halb des Kreises liegenden) Punkt t gehen.«
+     Man construire die Harmonische pq des gegebenen Punk-
+tes D (1, a.) und verbinde die Punkte p, q, in welchen sie
+den Kreis schneidet, mit jenem Punkte durch Gerade, fp, cq,
+so sind diese die gesuchten Tangeuten.
+      Anmerkung. Andere Sätze, welche aus der obigen
+Betrachtung unmittelbar folgen, und welche zum Theil die
+dem Kreise eingeschriebenen und umschriebenen Dreicke,
+Vierecke u. s. w. betreffen, werden hier, als zu weit von dem
+gegenwärtigen Zwecke abliegend       übergangen.
+                                              .     Man findet
+dieselben, nebst den vorstehenden Sätzen und Aufgaben, in
+der oben genannten Schrift (Systematische Entwickelung
+etc.)  auf umfassende, dem CTegenstande [37] angemessene
+Weise für alle Kegelschnitte zugleich bewiesen.              —
+                                                      Die vor-
+stehenden Sätze sind übrigens die Grundlage der sogenannten
+»Theorie des polaires recißroquesu.^,
+
+
+                   II.   Vom Aehnlichkeitspiinkt.
+                                          § 11-
+     Zieht   man   in    Ebene durch irgend einen Punkt A
+                         einer
+(Fig. 13) nach allen Richtungen Strahlen 'Gerade) Aa. A^,
+Ac,         und bezieht mittelst dieser Strahlen alle Punkte
+der Ebene dergestalt aufeinander, dass jedem Punkte a, in
+einem solchen Strahl, Aa^ ein anderer Punkt a, im nämlichen
+Strahl entspricht und zwar unter der Bedingung, dass die
+Abstände je zweier entsprechenden Punkte von dem Punkte
+Aj Aa und Aa^, durchweg ein und dasselbe gegebene
+Verhältniss haben, etwa // n^, so wird dadurch ein solches
+                                      :
+
+
+
+Beziehungssystem bewirkt, in welchem die Ebene doi)pelt ge-
+setzt ist, oder was man sich auch so vorstellen kann, als
+lägen zwei Ebenen, die E, E^ heisseu mögen, aufeinander,
+indem nämlich jeder Punkt sowohl als der einen       wie der .
+
+
+
+anderen Ebene angehörend angesehen werden kann          z. B.^   :
+
+
+
+
+den Punkt (et,) kann mm» als der Ebene                   E
+                                                  angehörend

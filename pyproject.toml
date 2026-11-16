@@ -1,0 +1,52 @@
+[project]
+name = "geometor-steiner"
+dynamic = ["version"]
+authors = [
+  { name = "phiarchitect", email = "github@geometor.com" },
+]
+description = "the Swiss synthetic geometer whose 1833 treatise proved that every Euclidean construction can be performed with a straightedge alone given a single fixed circle and its center"
+readme = "README.rst"
+requires-python = ">=3.13"
+license = { file = "LICENSE" }
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.13",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = []
+
+[project.scripts]
+steiner = "geometor.steiner.__main__:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["geometor*"]
+namespaces = true
+
+[tool.setuptools.dynamic]
+version = { attr = "geometor.steiner.__version__" }
+
+[project.urls]
+"Website" = "https://geometor.github.io/steiner"
+"Repository" = "https://github.com/geometor/steiner"
+"Issues" = "https://github.com/geometor/steiner/issues"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+
+[tool.ruff]
+target-version = "py313"
+line-length = 100
+src = ["src", "tests", "demos"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "ANN", "D"]
+
+[tool.ruff.lint.pydocstyle]
+convention = "google"

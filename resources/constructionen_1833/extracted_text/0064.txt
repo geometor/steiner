@@ -1,0 +1,53 @@
+(iO                      Jacob Steiner.
+
+dem Felde. Hindernisse vor. wäre z. \i. die gegebene Gerade G^
+nicht  überall zugänglich, sondern wäre sie nur durch zwei
+Punkte, etwa durch c^ und /', gegeben, die so lägen, dass
+                                .
+
+
+
+man nicht von dem einen bis zu dem anderen hinsehen
+könnte, so würde man auf die angegebene Weise beide Aehn-
+lichkeitspunkte A     und / zugleich benutzen, um jeden der
+beiden gesuchten Punkte (/^. //, als Durchschnittspnnkt zweier
+Strahlen .  wovon der eine durch    A  und der andere durch /
+ginge, zu erhalten. In diesem Falle müsste aber der Gang der
+Auflösung etwas geändert werden.       2Sämlich man würde zu-
+erst durch 182     die gegebenen Punkte c,   /',
+                                              .  die Durchmesser
+c^31^. f^J\l^ ziehen, sodann mit diesen parallel die Durchmesser
+aO. de, und dann wäre von da an das Weitere wie zuvor.
+     4. Wenn der gegebene Radius J/jö, insbesondere in der
+A.xe    MM^  läge. z. B. wenn er 3/^ k^ wäre, wie müsste dann
+bei der Lösung verfahren werden ?      Ein ähnlicher besonderer
+Fall kann bei der vorhergehenden Aufgabe eintreten, wenn
+nämlich die daselbst gegebene Strecke 3/, a^ in der Richtung
+irgend eines Durchmessers des Hülfskreises        M   liegt, und
+Aehnliches kann ferner bei der nachfolgenden Aufgabe
+(S. Aufgabe    stattfinden.  Die Lösung dieser besonderen Fälle
+wird den Liebhabern zur Selbstübung überlassen.
+
+                       Achte Aufgabe.
+    »Die gegenseitigen Durchschnittspunkte              zweier
+gegebenen Kreise zu finden.«
+      Erster Fall. Wenn der eine Kreis gezeichnet vorliegt,
+nämlich der Hülfskreis 3f selbst ist. und der andere Kreis
+nur der Grösse und Lage nach gegeben ist.    Es sei z. B. M^
+(Fig. IS) der Mittelpunkt und -V, I\ der gegebene Radius des
+zweiten Kreises.
+     Bei der Lösung dieses Falles kommt es oflenbar darauf
+an. die gemeinschaftliche Secante der zwei Kreise zu linden,
+weil diese sodann auf dem Hülfskreise unmittelbar die ge-
+suchten Punkte V. i? giebt.    Dieses kann, zufolge (i? 17.    .
+
+
+
+unter andern auf nachstehende Weise geschehen.
+      l83  Man ziehe im llülfskreise      M
+                                         den Durchmesser bi"
+dem gegebenen Radius .V, l\ parallel, ziehe ferner die Axe
+^f^/^ nebst den Geraden b, b. b,c. die Jener in den Aehn-
+lichkeitspunkten A, I begegnen, und den Kreis J\l zum zweiten
+Mal in a. C schneiden; nun ziehe man weiter den Strahl .>c.
+der den Kreis  M  zum zweiten Mal in r und den verlängerten

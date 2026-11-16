@@ -1,0 +1,56 @@
+42                                      Jacob Steiner.
+
+linie   der Kreise M^ und J/3 sein, und als solche durch
+ihren    äusseren Aehnlichkeitspunkt A^ gehen.      Oder, um
+sich hiervon     augenscheinlicher zu überzeugen,  denke man
+sich aus den Mittelpunkten .1/,, 3/,, J/3 der Kreise, nach
+irgend einer beliebigen Richtung, bis an die Gerade A^A^
+l'arallele M^N^, M^N^. M^N^         gezogen, so verhalten sich
+diese, vermöge der Aehnlichkeitspunkte A^ und A^^ wie die
+Radien der Kreise; also, wenn diese Radien durch l{^, R^. 7?,
+vorgestellt werden, so verhält sich:
+                   M^N^    :   M,N, = R^: R, (vermöge A^)
+                   M^ N^   :   J/3 y^   = R^       :   R^ (vermöge A^)   ,
+
+
+
+daher verhält sich auch
+                   J/,A;   :   J/3.Y3    =   if,   :   7?3,
+
+woraus denn folgt (§ 11, IV.), dass die Gerade -X-V, oder
+A^A^ durch den Aehnlichkeitspunkt A^ der Kreise 3/,, Jf,
+geht.
+         Aehnlicherweise folgen die übrigen drei Fälle.                      Also:
+       »Von den sechs Aehnlichkeitspunkten. welche
+         1.
+
+zu drei beliebigen, in einer Ebene liegenden Kreisen                                    .
+
+
+
+paarweise genommen, gehören, liegen viermal drei
+in einer           Geraden,       nämlich          es    liegen die drei äusse-
+ren  und jeder äussere liegt mit den beiden, ihm
+nicht zugehörigen inneren, in einer Geraden«; oder
+mit [57] anderen Worten: »die drei Kreise haben vier
+gemeinschaftliche Aehnlichkeitsstrahlen, einen äusse-
+ren und drei innere.
+         2.   Wenn die drei Kreise insbesondere alle ausser einander
+liegen,     schneiden sich ihre gemeinschaftlichen Tangenten
+              so
+in    ihren        sechs
+                  Aehnliclikeitspunkten (§ 12, L, 1.), sodass
+also der vorstehende Satz sich auf die Durchschnittspunkte
+der sechs Paar Tangenten, welche die Kreise, paarweise ge-
+nommen, gemein haben, übertragen lässt.
+      3. Wenn   insbesondere der eine Kreis, etwa .l/,. die
+beiden übrigen berührt, so sind die zwei Berührungspunkte
+zugleich entweder (i? 12, I., 2. u. 4.  o] die Aehnlichkeits-
+punkte A^ und A^, oder /, und /,, oder b) die Aehnlich-
+keitspunkte A^ und /,, oder A^ und /,      Je nachdem er sie   ,
+
+
+nämlich [a) gleichartig, oder 61 ungleichartig berührt (d. h.
+in Rücksicht auf äusserlich und innerlich berühren):    daher
+kann man auch sagen       l.): '^Wenn irgend zwei Kreise
+M,   ,   JMo        von    einem         beliebigen           dritten   Kreise   .1/,

@@ -1,0 +1,82 @@
+                                                                                             ,,
+
+
+
+
+                            Die geometrischen Constructionen.                              77
+
+(hmiit        beschiiftigt           haben.*)        Das Verfaliren,           durch   welches
+dieselbe mittelst der hier gestatteten Hiilfsmittel gelöst werden
+kann, besteht der Hauptsache nach z. B. in folgendem.
+      Der Kegelschnitt heisse M^ und das gegebene «Eck iV^.
+Durch irgend drei der fünf gegebenen Punkte des Kegel-
+schnittes, die etwa durch a.,, 6.,, C^ bezeichnet werden mögen,
+ist ein Kreis bestimmt; er heisse J/,   Zuvörderst lassen sich .
+
+
+
+
+nun, mittelst des Hülfskreises 3/, die Aehnlichkeitspunkte                                  A
+und / der Kreise il/, 3/, linden (wozu man von J/j nicht
+mehr als jene drei Punkte nöthig hat).       Mittelst    und /                         A
+bestimme man irgend zwei neue Punkte des Kreises M^
+[107] etwa r, e,   So lässt sich für 3/, und J/^, da von jedem
+                        ,    .
+
+
+
+
+fünf Punkte gegeben sind, ein Projectionspunkt (der nämlich
+in den meisten Fällen der Durchschnittspunkt zweier gemein-
+schaftlichen Tangenten derselben ist) finden; er heisse P.
+Mittelst        P
+             und einer gemeinschaftlichen Secante von M^
+und M,, etwa der Secante H^_h^_, findet man sofort das zu
+M^ gehörige «Eck jS\, welches dem, zu M.^ gehörigen, ge-
+gebenen «Ecke iV^ entspricht; und sodann findet man ferner,
+mittelst        A und /, leicht das zu M gehörige «Eck X, wel-
+ches dem, zu 21 gehörigen, «Ecke N^ entspricht.
+                                 ^
+                                                          Hierauf
+beschreibe man, mittelst des Lineals allein, in den gezeichnet
+vorliegenden Kreis 3/, ein «Eck ^^t, welches zugleich dem
+gegebenen «Eck iV umschrieben ist**), suche sofort, mittelst
+A  und /, das ihm in Bezug auf den Aehnlichkeitspunkt                                       A
+(oder/) entsprechende, zum Kreise 31 gehörige, «Eck 9c,, und
+                                                           ^
+
+
+
+sodann (mittelst             P
+                     und a., (\,j das diesem entsprechende, zum
+Kegelschnitte i¥., gehörige, «Eck 9i.,     so wird dieses letztere ,
+
+
+
+
+der Forderung der Aufgabe genug thun.          Auf entsprechende       —
+Weise kann auch die andere Aufgabe (21.) gelöst werden.
+     Anmerkung. Die vorstehenden Aufgaben, von der
+zweiten an sind wie man bemerken Avird
+                    ,            ,               nach dem soge-            ,
+
+
+
+
+nannten Gesetze der Dualität einander paarweise zugeordnet,
+nämlich: 2 und                3,      4   und   5,             20 und 21.
+
+
+         *)    Man sehe KlügeV& Mathematisches Wörterbuch, Th.III.
+Art.          § 115, S. 155. und ausserdem die späteren Arbeiten
+         Kreis,
+über denselben Gegenstand von den Mathematikern Geryonne,
+Encontre, Servois, Hochat, Brianchon, Poncelet, Lhuilier
+etc.. in den Annales de Mathematiques       tom. I waA VIII., im       ,
+
+
+
+Journal de VEcole Polytechnique, caliier X., etc.
+    **) Dieses geschieht z. B. nach dem Verfahren, welches
+Poncelet iu den Annales de Mathematiques, tom. VIII.. zu-
+erst   bekannt gemacht hat.

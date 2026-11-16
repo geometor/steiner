@@ -1,0 +1,75 @@
+                                                                           —
+
+40                           Jacob Steiner.
+
+Rücksicht auf die zwei Kreise 3/, J/, denen sie zugehören,
+                                                ,
+
+
+
+»ähnlich 53 liegende Punkte« genannt werden. Ebenso
+
+in   Betracht des Aehnlichkeitspunkts / ähnlichliegende Punkte sind,
+kann noch hinzugefügt werden,          dass.   wenn man      sich   die   vier
+Kreise denkt, wovon jeder die drei Seiten 'oder deren Veilängeruug'
+des Dreiecks abc berührt, und ebenso die vier dem zweiten Dreieck
+a,B, c, eingeschriebenen Kreise, dass dann die vier letzteren den
+vier ersteren beziehlich entsprechen; d. h.. dass dann diese Kreise
+paarweise den Punkt I zum inneren Aehnlichkeitspuukt haben,
+und dass also ihre Mittelpunkte paarweise in Strahlen liegen,
+welche durch diesen Punkt gehen, und dass ihre Abstände von
+demselben sich verhalten, wie 2:1. Aehnliches gilt vnn den Drei-
+ecken abc und a^h^c^ in Ilinsiclit ihres Aehnlichkeitspunktes -4.
+Die Dreiecke a^b^c^ und a, b, c, sind gleich und J/, ist ihr (innerer)
+Aehnlichkeitspunkt. weil a,J/,a, eine Gerade ist und 3/, in der
+Mitte zwischen a^ und a^ liegt.    — U. s. w.
+     IV. »Wenn man in der Peripherie eines Kreises J/
+irgend vier Punkte    a. t. c. g annimmt, so bestimmen
+diese, zu drei und drei genommen, vier Dreiecke, wel-
+chen der Punkt M. als Mittelpunkt des umschriebenen
+Kreises, gemeinschaftlich angehört, wogegen aber zu
+denselben sowohl vier verschiedene Punkte 1. als J/,,
+als A gehören.    Jede dieser vier Punkte, für sich ge-
+nommen, liegen in einem Kreise; die Radien dieser drei
+neuen Kreise sind, nach der Reihe, {^, \.    vom Radius  ]
+
+
+des gegebenen Kreises M. und ihre Mittelpunkte liegen
+mit dem Mittelpunkt des letzteren in einer Geraden, und
+zwar in solchen Abständen von diesem, die sich, nach
+der Reihe, verhalten wie 2 3 (i. sodass also der Punkt
+                                   :    :
+
+
+
+M  der gemeinschaftliche Aehnlichkeitspunkt der drei
+neuen Kreise ist.« Und ferner: »Verbindet mau jeden der
+vier angenommenen Punkte a. b. c. g. wie etwa g. mit
+dem zu den drei übrigen gehörigen Punkt A d. h. mit dem
+Durchschnittspunkt der Höhen des durch die drei übrigen be-
+stimmten Dreiecks durch eine Gerade, so schneiden sich
+die auf diese Weise entstehenden \- i e r Geraden in einem
+und demselben Punkt, und es wird jede durch diesen
+gehälftet." U. s. w.
+     V. Die wesentlichsten von den vorstehenden Sätzen habe ich
+schon an einem anderen Orte angedeutet, nämlich bei Gelegenheit
+der Abhandlung: »Diidojipement (l'unc serie de thtorl-nus relatifs
+aux secttons coniques"   in den Annales de Mathtinaitqiies,
+                         ,
+
+
+
+redigees ^^ar   Gergonne,    ä Jlonfpcllier,   tom.   XIX.    1S2S.   Eben-
+daselbst deutete ich auch den Satz an: i'Dass der Kreis Jl/,
+alle vier Kreise, welche dem Dreieck abc eingeschrieben
+werden können, berührt«, ohne zu wissen, dass derselbe
+schon früher von Ffvcrhach bekannt gemacht worden war.-"    Uebri-
+gens hat auch Herr Prof. Dove die Relation zwischen den vier
+Punkten iu (I.. ö. sowie die Eigenschaft U.. 4. durch unmittel-
+                    .
+
+
+
+
+bare Beziehung beider Dreiecke abc. a, b,c, aufeinander, ohne An-
+wendung des Aehulichkeitspnnktes. auf einfache Weise abgeleitet.

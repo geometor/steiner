@@ -1,0 +1,55 @@
+                                                 :
+
+
+
+
+                     Die geometrischen Constructionen.                  31
+
+e   und    e, ,   ebenfalls entsprechende Punkte, und liegen
+als   solche in irgend einem            (durch A gehenden)
+Strahl.«
+     Aus diesen Fundamentalsätzen            folgen   nun      weiter   die
+nachstehenden Sätze.
+      V.     «Irgend einer geradlinigen Figur             in   der einen
+Ebene entspricht eine ähnliche und ähnlichliegende
+Figur in der anderen Ebene, nämlich die Ecken bei-
+der Figuren sind entsprechende Punkte, so dass sie
+paarweise in Strahlen liegen, und ihre Seiten sind
+entsprechende Gerade oder Strecken, also paar-
+weise parallel.«
+    VI. »Irgend einer krummen Linie C in der einen
+Ebene E entspricht eine [41J ähnliche und ähnlich-
+liegende Curve C^, in der anderen Ebene £^^ die
+Punkte, in welchen die erste Curve C von irgend
+einer Geraden G geschnitten wird, entsprechen den
+Punkten, in welchen die dieser entsprechende Ge-
+rade G. die zweite Curve C, schneidet, sodass also
+C und G sich in ebensovielen Punkten schneiden,
+als C^ und G^^, daher wird jeder Tangente der ersten
+Curve auch eine bestimmte, jener parallele, Tan-
+gente der zweiten Curve entsprechen, und zwar
+müssen auch ihre Berührungspunkte entsprechende
+Punkte sein; jeder durch A gehende Strahl, welcher
+die eine Curve berührt, berührt auch die andere
+Curve, und zwar berührt er sie in entsprechenden
+Punkten«; u. s. w.
+    Insbesondere folgt also hieraus, dass
+    VU. »irgend einem Kreise in der einen Ebene
+ebenfalls ein Kreis in der anderen Ebene ent-
+sprechen muss, und dass auch die Mittelpunkte zweier
+solcher Kreise entsprechende Punkte sind«; u. s. w.
+     Zufolge dieser Eigenschaften des Beziehungssystems wird
+der Punkt -1 »der Aehnlichkeitspunkt« oder in Ansehung
+der beiden aufeinander liegenden Ebenen               E
+                                               und E^ »der
+Projectionspunkt« genannt.
+     Bei einem solchen     Beziehungssystem sind jedoch zwei
+wesentlich verschiedene          von einander [42] zu unter-
+                               Fälle
+scheiden.    Man kann nämlich entweder:
+      aj je zwei entsprechende Punkte, wie a und a,      auf        ,
+
+
+
+          einerlei Seite vom Aehnlichkeitspunkt           A
+                                                   annehmen,

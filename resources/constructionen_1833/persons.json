@@ -1,0 +1,92 @@
+{
+  "steiner": {
+    "name": "Jakob Steiner",
+    "dates": "1796–1863",
+    "role": "Swiss-born synthetic projective geometer; professor of geometry at the University of Berlin",
+    "bio": "Following Systematische Entwickelung der Abhängigkeit geometrischer Gestalten (1832), Steiner published Die geometrischen Constructionen, ausgeführt mittelst der geraden Linie und Eines festen Kreises (1833), proving via harmonic ranges, centers of similitude, and radical axes that a single fixed circle drawn with its center suffices to execute all Euclidean constructions by straightedge alone."
+  },
+  "poncelet": {
+    "name": "Jean-Victor Poncelet",
+    "dates": "1788–1867",
+    "role": "French military engineer and founder of modern projective geometry",
+    "bio": "In his Traité des propriétés projectives des figures (1822, §§ 351–358), first stated that all ruler-and-compass problems can be solved by straightedge alone when a single circle and its center are given in the plane—a theorem rigorously carried out and organized into eight canonical problems by Jakob Steiner in 1833."
+  },
+  "mascheroni": {
+    "name": "Lorenzo Mascheroni",
+    "dates": "1750–1800",
+    "role": "Italian mathematician and poet; professor of algebra and geometry at the University of Pavia",
+    "bio": "Author of Adnotationes ad calculum integralem Euleri (1790) and La Geometria del Compasso (Pavia, 1797), proving constructively across twelve books that every ruler-and-compass problem solvable by point determinations can be executed with the compass alone."
+  },
+  "mohr": {
+    "name": "Georg Mohr",
+    "dates": "1640–1697",
+    "role": "Danish mathematician; author of Euclides Danicus (1672)",
+    "bio": "Published Euclides Danicus in Dutch and Danish at Amsterdam in 1672—125 years before Mascheroni—proving that all constructions of the first six books of Euclid can be carried out with a compass alone; rediscovered by Johannes Hjelmslev in 1928."
+  },
+  "lambert": {
+    "name": "Johann Heinrich Lambert",
+    "dates": "1728–1777",
+    "role": "Swiss-German mathematician, physicist, and philosopher",
+    "bio": "In Freie Perspective (Zürich, 1759; 2nd ed. 1774), investigated perspective drawing with an ungraduated ruler alone, discovering that parallels and harmonic divisions can be constructed when certain fixed figures are present in the plane."
+  },
+  "brianchon": {
+    "name": "Charles Julien Brianchon",
+    "dates": "1783–1864",
+    "role": "French mathematician and artillery officer; author of Brianchon's Theorem (1806)",
+    "bio": "Developed projective transversal theory in Application de la théorie des transversales (1817), providing straightedge constructions of polars and conic tangencies cited by Steiner in § 2."
+  },
+  "hilbert": {
+    "name": "David Hilbert",
+    "dates": "1862–1943",
+    "role": "German mathematician; author of Grundlagen der Geometrie (1899)",
+    "bio": "In Chapter VII (§§ 36–39) of Grundlagen der Geometrie, complemented Steiner's fixed-circle ruler constructions with algebraic criteria characterizing exactly which problems are solvable with straightedge and segment-transferrer (Eichmaß) alone, showing that Eichmaß yields only the pythagorean field whereas Steiner's drawn circle yields the full Euclidean quadratic closure."
+  },
+  "adler": {
+    "name": "August Adler",
+    "dates": "1863–1923",
+    "role": "Czech-Austrian geometer; author of Theorie der geometrischen Konstruktionen (1906)",
+    "bio": "In Zur Theorie der Mascheronischen Constructionen (1890) and Theorie der geometrischen Konstruktionen (1906), gave systematic expositions linking Mascheroni's compass-only geometry, Steiner's fixed-circle constructions, and Lemoine's Géométrographie."
+  },
+  "lemoine": {
+    "name": "Émile Michel Hyacinthe Lemoine",
+    "dates": "1840–1912",
+    "role": "French geometer and creator of Géométrographie",
+    "bio": "In Scientia No. 18 (1902, pp. 74–85), formalized 'Géométrographie Steinerienne', quantitatively measuring Steiner's straightedge constructions with operation symbols l_1 R_1 + l_2 R_2."
+  },
+  "oettingen": {
+    "name": "Arthur Joachim von Oettingen",
+    "dates": "1836–1920",
+    "role": "German physicist and editor of Ostwald's Klassiker der exakten Wissenschaften",
+    "bio": "Edited and annotated the critical 1895 Leipzig edition of Steiner's Die geometrischen Constructionen (Ostwald's Klassiker Nr. 60), preserving the 1833 Dümmler pagination [1]–[85]."
+  },
+  "grueson": {
+    "name": "Johann Philipp de Gruson",
+    "dates": "1768–1857",
+    "role": "German mathematician and translator of Mascheroni",
+    "bio": "Professor of mathematics at the University of Berlin; published the German translation Des Herrn Abt L. Mascheroni Geometrie des Zirkels (Berlin, 1825), through which Steiner studied Mascheroni's methods."
+  },
+  "pappus": {
+    "name": "Pappus of Alexandria",
+    "dates": "c. 290–c. 350 CE",
+    "role": "Late antique Greek geometer; author of the Synagoge (Mathematical Collection)",
+    "bio": "Preserved the Treasury of Analysis in Book VII of the Synagoge, establishing the complete-quadrilateral harmonic division, projective collineations, and the Pappus hexagon theorem whose six-permutation family generates the two Steiner star points S+, S-."
+  },
+  "pascal": {
+    "name": "Blaise Pascal",
+    "dates": "1623–1662",
+    "role": "French mathematician, physicist, and religious philosopher",
+    "bio": "Author of the Essay pour les coniques (1640) formulating the Mystic Hexagram theorem; Steiner investigated the 60 Pascal lines and discovered the 20 Steiner points where three Pascal lines concur."
+  },
+  "euclid": {
+    "name": "Euclid of Alexandria",
+    "dates": "fl. c. 300 BCE",
+    "role": "Alexandrian mathematician; author of the Elements",
+    "bio": "Codified classical deductive geometry from straightedge and compass postulates (Postulates 1–3); Steiner proved that Postulate 3 (drawing arbitrary circles) is completely redundant if a single fixed circle and its center are given."
+  },
+  "phi-architect": {
+    "name": "phi ARCHITECT",
+    "dates": "",
+    "role": "GEOMETOR Curator & Symbolic Modeler",
+    "bio": "Curator of the GEOMETOR Digital Scriptorium, authoring exact symbolic SymPy models and synchronized multi-track codex editions of foundational mathematical texts."
+  }
+}

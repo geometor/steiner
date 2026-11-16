@@ -1,0 +1,77 @@
+                :                                          .
+
+
+
+
+38                                   Jacob Steiner.
+
+
+    [50] Zum Behufe des Folgenden ist es zweckmässig,
+den hier betrachteten Elementen bestimmte 511 Benennungen
+
+Gegenseiten dieses Dreiecks senkrechten. Geraden aA, bA. cA
+einander in einem bestimmten Punkte A treffen, und zwar in dem-
+jenigen Punkte, welcher jenem Punkte 31 entspricht, sodass folg-
+lich die drei Punkte 3f. I,           A in einer Geraden fProjectionsstrahl
+liegen, und sich verhält
+           2.                    lA   :   I3f =2:1.
+      Zugleich folgt zunächst aus dieser Betrachtung auf doppelte
+Weise der bekannte Satz: »Dass die aus den Ecken auf die
+Gegenseiten eines Dreiecks (Oit^c, oder abc gefällten
+Lothe i'ajil/, i\3f. c, Jl/, oder aA, hA. cA) allemal einander
+in einem und demselben Punkte [31 oder Ai treffen.«
+      Es folgt weiter, wenn man nämlich den Punkt 31 als der
+ersten Ebene JiJ angehörend ansieht, und zwar als Mittelpunkt des
+dem Dreieck abc umschriebenen Kreises, dass ihm dann der Mittel-
+punkt 3/, des dem Dreieck a^h^c^ umschriebenen Kreises ent-
+spricht, und dass folglich dieser letztere Punkt J!/", ebenfalls in
+dem vorgenannten Projectionsstrahl 31 lA liegen muss. und zwar
+so liegen muss, dass sich verhält
+         3.               I3f I31i    2:1.
+                                      :        =
+      Aus diesem und dem vorigen ,'2.) Verhältniss folgt, wie man
+in der Figur sieht, dass sich auch verhält
+           4.                   A3I: A 3/, = 2     :   1
+
+sodass also der Punkt A offenbar der äussere Aehnlichkeitspunkt
+der zwei Kreise 31, il/, ist.
+     Demnach hat man. zusammengenommen, den folgenden Satz.
+     »Bei jedem beliebigen Dreieck abc liegen die zwei
+Punkte, A und I. wovon der eine A der Durchschnitts-
+punkt   der drei Höhen und der andere / der Durch-
+schnittspunkt der drei aus den Ecken nach den Mitten
+der Gegenseiten gezogenen Geraden ist. mit den Mittel-
+punkten. 3/ und 3/,. der zwei Kreise, wovon der eine
+dem Dreieck umschrieben und der andere durch die
+Mitten der Seiten desselben geht, allemal in einer und
+derselben Geraden, und zwar sind die erstgenannten
+zwei Punkte die Aehnlichkeitspunkte der zwei Kreise,
+sodass also die vier genannten Punkte harmonisch
+liegen (§ 12. I.). wobei sowohl das erste wie das zweite
+Punktenpaar zugeordnete harmonische Punkte sind:
+und ferner sind die Abstände der vier Punkte von
+einander namentlich so beschaffen, dass sich verhält
+           5.7.1/, 131 A 31^ ,i 3/ = 1 2 3 «...
+                        :        :         :               :   :       :
+
+
+
+
+     II.Vermöge der Kreise 31. 3f, und ihrer Aehulichkoitspuukto
+A. I folgert mau unmittelbar noch mehr Eigenschaften, als z. B.
+nachstehende
+       1. Die Strecken -/o. Ah. Ac. in £. entsprechen in An-
+sehung     des   inneren  AehnlioiiUoitspunktes /   den Strecken   .
+
+
+
+
+3I(^^. 3Il\. 3/c, in ü", daher verhält sich
+                            :
+
+
+
+              Aa Jla,
+                    :       =
+                          Ab .Vb,     A c 3/c,
+                                      :        =  2:1. :               =
