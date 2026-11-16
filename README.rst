@@ -1,42 +1,36 @@
-=======
-steiner
-=======
+GEOMETOR • steiner
+==================
 
-the Swiss synthetic geometer whose 1833 treatise proved that every Euclidean construction can be performed with a straightedge alone given a single fixed circle and its center
+**Visit the Online Archive:** https://geometor.github.io/steiner/
 
-Edition Overview
-----------------
+**Jakob Steiner • Die geometrischen Constructionen • semantic digital archive**
 
-- **Treatise**: *Die geometrischen Constructionen, ausgeführt mittelst der geraden Linie und Eines festen Kreises*
-- **Author**: Jakob Steiner
-- **Primary Edition Track**: ``docsrc/constructionen_1833/`` (``:layout: book``)
-- **Apparatus**: ``resources/persons.json``, ``resources/citations.json``, ``resources/glossary.json``
-Installation & Verification
----------------------------
-
-Managed with ``uv`` on Python 3.13:
-
-.. code-block:: bash
-
-   uv run --no-sync pytest
-   ruff check src tests demos
-   publish build
-
-Usage
------
-
-.. code-block:: bash
-
-   steiner --help
-
-Links
------
-
-- **Documentation**: https://geometor.github.io/steiner
-- **Repository**: https://github.com/geometor/steiner
-- **Issues**: https://github.com/geometor/steiner/issues
-
-License
+Mission
 -------
 
-Licensed under the MIT License. See ``LICENSE`` for details.
+``geometor/steiner`` is part of the interconnected `GEOMETOR <https://geometor.com>`_ semantic digital archive. Jakob Steiner proved the profound Poncelet–Steiner theorem: that every Euclidean compass-and-straightedge construction can be carried out using an unmarked straightedge alone, provided a single fixed circle with its center is given in the plane. Within this archive, Steiner's classic 1833 treatise is liberated from isolated print bounds into addressable semantic units, calibrated theme-adaptive vector diagrams, primary-source folio provenance, and exact symbolic algebra across the GEOMETOR corpus.
+
+Books in This Archive
+---------------------
+
+- **`Die geometrischen Constructionen, ausgeführt mittelst der geraden Linie und Eines festen Kreises <https://geometor.github.io/steiner/constructionen_1833/>`_** — Jakob Steiner (1833), establishing straightedge-only geometric constructions using harmonic pencils, parallel chords, and a single fixed auxiliary circle.
+
+Repository Contents
+-------------------
+
+- ``docsrc/`` — Sphinx Book Codex source tracks, scholarly apparatus, and bibliography compiled by `PHOTON publish <https://github.com/photon-platform/publish>`_.
+- ``resources/`` — Primary source German editions, citation registries, and figure manifests.
+- ``src/geometor/steiner/`` — Exact symbolic geometry algorithms, Poncelet–Steiner construction engines, and CLI tools.
+
+Local Build & Verification
+--------------------------
+
+.. code-block:: bash
+
+   publish build
+   uv run --no-sync pytest
+
+Part of the GEOMETOR Knowledge Archive
+--------------------------------------
+
+Explore all **74 Book Codices** and **11 Mathematical Catalogs** at https://geometor.com/books/.
