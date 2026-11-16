@@ -1,0 +1,11 @@
+geometor.steiner.__main__
+=========================
+
+.. py:module:: geometor.steiner.__main__
+
+.. autoapi-nested-parse::
+
+   Package entry point for ``python -m geometor.steiner``.
+
+
+
