@@ -3,7 +3,7 @@
 :layout: book
 :order: 1
 :folio: 0007
-:tracks: English: 01-einleitende-uebersicht-en | Deutsch (1833): 01-einleitende-uebersicht-de | Summary: 01-einleitende-uebersicht-summary | Notes: 01-einleitende-uebersicht-notes
+:tracks: English: 01-einleitende-uebersicht-en | German: 01-einleitende-uebersicht-de | Summary: 01-einleitende-uebersicht-summary | Notes: 01-einleitende-uebersicht-notes
 
 .. _steiner-01-summary:
 

@@ -3,7 +3,7 @@
 :layout: book
 :order: 3
 :folio: 0032
-:tracks: English: 03-zweites-kapitel-en | Deutsch (1833): 03-zweites-kapitel-de | Summary: 03-zweites-kapitel-summary | Notes: 03-zweites-kapitel-notes
+:tracks: English: 03-zweites-kapitel-en | German: 03-zweites-kapitel-de | Summary: 03-zweites-kapitel-summary | Notes: 03-zweites-kapitel-notes
 
 .. _steiner-03-summary:
 

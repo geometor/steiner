@@ -1,9 +1,9 @@
 :title: Steiner (1833) § 18 (Aufgaben 1–5) — Drittes Kapitel (Deutsch, 1833)
-:track_label: Deutsch (1833)
+:track_label: German
 :layout: book
 :order: 4
 :folio: 0054
-:tracks: English: 04-drittes-kapitel-lineare-aufgaben-en | Deutsch (1833): 04-drittes-kapitel-lineare-aufgaben-de | Summary: 04-drittes-kapitel-lineare-aufgaben-summary | Notes: 04-drittes-kapitel-lineare-aufgaben-notes
+:tracks: English: 04-drittes-kapitel-lineare-aufgaben-en | German: 04-drittes-kapitel-lineare-aufgaben-de | Summary: 04-drittes-kapitel-lineare-aufgaben-summary | Notes: 04-drittes-kapitel-lineare-aufgaben-notes
 
 .. _steiner-04-de:
 
