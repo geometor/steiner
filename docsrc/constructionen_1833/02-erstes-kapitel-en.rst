@@ -3,7 +3,7 @@
 :layout: book
 :order: 2
 :folio: 0010
-:tracks: English: 02-erstes-kapitel-en | Deutsch (1833): 02-erstes-kapitel-de | Summary: 02-erstes-kapitel-summary | Notes: 02-erstes-kapitel-notes
+:tracks: English: 02-erstes-kapitel-en | German: 02-erstes-kapitel-de | Summary: 02-erstes-kapitel-summary | Notes: 02-erstes-kapitel-notes
 
 .. _steiner-02-en:
 

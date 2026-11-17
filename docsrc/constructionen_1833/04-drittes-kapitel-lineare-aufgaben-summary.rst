@@ -3,7 +3,7 @@
 :layout: book
 :order: 4
 :folio: 0054
-:tracks: English: 04-drittes-kapitel-lineare-aufgaben-en | Deutsch (1833): 04-drittes-kapitel-lineare-aufgaben-de | Summary: 04-drittes-kapitel-lineare-aufgaben-summary | Notes: 04-drittes-kapitel-lineare-aufgaben-notes
+:tracks: English: 04-drittes-kapitel-lineare-aufgaben-en | German: 04-drittes-kapitel-lineare-aufgaben-de | Summary: 04-drittes-kapitel-lineare-aufgaben-summary | Notes: 04-drittes-kapitel-lineare-aufgaben-notes
 
 .. _steiner-04-summary:
 

@@ -3,7 +3,7 @@
 :layout: book
 :order: 5
 :folio: 0060
-:tracks: English: 05-drittes-kapitel-kreis-aufgaben-en | Deutsch (1833): 05-drittes-kapitel-kreis-aufgaben-de | Summary: 05-drittes-kapitel-kreis-aufgaben-summary | Notes: 05-drittes-kapitel-kreis-aufgaben-notes
+:tracks: English: 05-drittes-kapitel-kreis-aufgaben-en | German: 05-drittes-kapitel-kreis-aufgaben-de | Summary: 05-drittes-kapitel-kreis-aufgaben-summary | Notes: 05-drittes-kapitel-kreis-aufgaben-notes
 
 .. _steiner-05-notes:
 

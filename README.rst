@@ -3,6 +3,11 @@ GEOMETOR • steiner
 
 **Visit the Online Archive:** https://geometor.github.io/steiner/
 
+.. image:: docsrc/_static/figures/fig_mascheroni_steiner_duality.svg
+   :alt: GEOMETOR • steiner featured geometric construction
+   :target: https://geometor.github.io/steiner/
+   :align: center
+
 **Jakob Steiner • Die geometrischen Constructionen • semantic digital archive**
 
 Mission
@@ -13,7 +18,7 @@ Mission
 Books in This Archive
 ---------------------
 
-- **`Die geometrischen Constructionen, ausgeführt mittelst der geraden Linie und Eines festen Kreises <https://geometor.github.io/steiner/constructionen_1833/>`_** — Jakob Steiner (1833), establishing straightedge-only geometric constructions using harmonic pencils, parallel chords, and a single fixed auxiliary circle.
+- **`Geometrical Constructions <https://geometor.github.io/steiner/constructionen_1833/>`_** — *Die geometrischen Constructionen, ausgeführt mittelst der geraden Linie und Eines festen Kreises* (Jakob Steiner, 1833), establishing straightedge-only geometric constructions using harmonic pencils, parallel chords, and a single fixed auxiliary circle.
 
 Repository Contents
 -------------------
