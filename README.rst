@@ -20,6 +20,16 @@ Books in This Archive
 
 - `Geometrical Constructions <https://geometor.github.io/steiner/constructionen_1833/>`_ — *Die geometrischen Constructionen, ausgeführt mittelst der geraden Linie und Eines festen Kreises* (Jakob Steiner, 1833), establishing straightedge-only geometric constructions using harmonic pencils, parallel chords, and a single fixed auxiliary circle.
 
+Python Package & Modules
+------------------------
+
+The ``geometor-steiner`` Python package (``import geometor.steiner``) provides the executable symbolic geometry, construction, and compilation modules powering this archive:
+
+- ``constructions.py`` — Symbolic DAG constructions for Jakob Steiner's *Geometrische Constructionen* (1833).
+- ``app.py`` — Command-line interface for ``geometor.steiner``.
+
+See the `API Reference <https://geometor.github.io/steiner/modules/>`_ for full module documentation.
+
 Repository Contents
 -------------------
 
