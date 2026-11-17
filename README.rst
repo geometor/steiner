@@ -18,7 +18,7 @@ Mission
 Books in This Archive
 ---------------------
 
-- **`Geometrical Constructions <https://geometor.github.io/steiner/constructionen_1833/>`_** — *Die geometrischen Constructionen, ausgeführt mittelst der geraden Linie und Eines festen Kreises* (Jakob Steiner, 1833), establishing straightedge-only geometric constructions using harmonic pencils, parallel chords, and a single fixed auxiliary circle.
+- `Geometrical Constructions <https://geometor.github.io/steiner/constructionen_1833/>`_ — *Die geometrischen Constructionen, ausgeführt mittelst der geraden Linie und Eines festen Kreises* (Jakob Steiner, 1833), establishing straightedge-only geometric constructions using harmonic pencils, parallel chords, and a single fixed auxiliary circle.
 
 Repository Contents
 -------------------
