@@ -1,0 +1,21 @@
+:type: source_record
+:author: Jakob Steiner
+:year: 1895
+:era: Internet Archive
+:languages: German
+:site_url: https://archive.org/details/diegeometrischen00steiuoft
+:excerpt: Ostwalds Klassiker Nr. 60 (1895), 94 pp., University of Toronto copy on Internet Archive.
+
+.. _source-steiner-1833-1895:
+
+Die geometrischen Constructionen, ausgeführt mittelst der geraden Linie und eines festen Kreises (1833 / 1895)
+==============================================================================================================
+
+Ostwalds Klassiker Nr. 60 (1895), 94 pp., University of Toronto copy on Internet Archive.
+
+* **Publisher**: Wilhelm Engelmann (Ostwalds Klassiker Nr. 60), Leipzig
+* **Local Path**: ``resources/pdfs/steiner_1833_1895_geometrischen_constructionen.pdf``
+* **Rights**: Public Domain (1833 / 1895)
+* **Origin URL**: `https://archive.org/details/diegeometrischen00steiuoft <https://archive.org/details/diegeometrischen00steiuoft>`_
+* **Holding Institution**: University of Toronto
+* **Pages / Folios**: 94
