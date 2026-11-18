@@ -1,0 +1,23 @@
+{
+  "repository": "geometor/steiner",
+  "rights_category": "public-domain",
+  "sources": [
+    {
+      "id": "steiner-1833-1895",
+      "title": "Die geometrischen Constructionen, ausgeführt mittelst der geraden Linie und eines festen Kreises (1833 / 1895)",
+      "author": "Jakob Steiner",
+      "year": "1895",
+      "era": "Internet Archive",
+      "languages": [
+        "German"
+      ],
+      "site_url": "https://archive.org/details/diegeometrischen00steiuoft",
+      "local_path": "resources/pdfs/steiner_1833_1895_geometrischen_constructionen.pdf",
+      "pages": 94,
+      "publisher": "Wilhelm Engelmann (Ostwalds Klassiker Nr. 60), Leipzig",
+      "holding_institution": "University of Toronto",
+      "rights": "Public Domain (1833 / 1895)",
+      "excerpt": "Ostwalds Klassiker Nr. 60 (1895), 94 pp., University of Toronto copy on Internet Archive."
+    }
+  ]
+}
