@@ -37,17 +37,17 @@ Die geometrischen Constructionen, ausgeführt mittelst der geraden Linie und Ein
 Inhaltsverzeichnis
 ------------------
 
-**Einleitende Uebersicht: Reduktion der Zirkel-Operationen auf das Lineal (§§ 1–2, S. 3–6 / [1]–[6])**
-   :doc:`German <01-einleitende-uebersicht-de>` · :doc:`English <01-einleitende-uebersicht-en>` · :doc:`Summary <01-einleitende-uebersicht-summary>` · :doc:`Notes <01-einleitende-uebersicht-notes>`
+**Einleitende Uebersicht (§§ 1–2, S. 3–6 / [1]–[6])**
+   :doc:`Übersicht <overview/index>` · :doc:`§ 1 (DE) <overview/sec_01/de>` · :doc:`§ 2 (DE) <overview/sec_02/de>`
 
-**Erstes Kapitel: Harmonische Strahlen und Punkte, vollständiges Viereck und Polaren (§§ 3–10, S. 7–28 / [7]–[28])**
-   :doc:`German <02-erstes-kapitel-de>` · :doc:`English <02-erstes-kapitel-en>` · :doc:`Summary <02-erstes-kapitel-summary>` · :doc:`Notes <02-erstes-kapitel-notes>`
+**Erstes Kapitel: Harmonische Strahlen und Punkte (§§ 3–9, S. 6–22 / [6]–[28])**
+   :doc:`Kapitel I <chapter_01/index>` · :doc:`§ 3 (DE) <chapter_01/sec_03/de>` · :doc:`§ 6 (DE) <chapter_01/sec_06/de>` · :doc:`§ 9 (DE) <chapter_01/sec_09/de>`
 
-**Zweites Kapitel: Aehnlichkeitspunkte und Linie der gleichen Potenzen der Kreise (§§ 11–17, S. 29–50 / [29]–[67])**
-   :doc:`German <03-zweites-kapitel-de>` · :doc:`English <03-zweites-kapitel-en>` · :doc:`Summary <03-zweites-kapitel-summary>` · :doc:`Notes <03-zweites-kapitel-notes>`
+**Zweites Kapitel: Vom Kreise — Polaren, Aehnlichkeit und Potenz (§§ 10–17, S. 23–50 / [29]–[67])**
+   :doc:`Kapitel II <chapter_02/index>` · :doc:`§ 10 (DE) <chapter_02/sec_10/de>` · :doc:`§ 11 (DE) <chapter_02/sec_11/de>` · :doc:`§ 14 (DE) <chapter_02/sec_14/de>` · :doc:`§ 17 (DE) <chapter_02/sec_17/de>`
 
-**Drittes Kapitel: Erste bis Fünfte Fundamental-Aufgabe (§ 18, S. 50–56 / [68]–[76])**
-   :doc:`German <04-drittes-kapitel-lineare-aufgaben-de>` · :doc:`English <04-drittes-kapitel-lineare-aufgaben-en>` · :doc:`Summary <04-drittes-kapitel-lineare-aufgaben-summary>` · :doc:`Notes <04-drittes-kapitel-lineare-aufgaben-notes>`
+**Drittes Kapitel: Die acht Fundamental-Aufgaben & Schluss (§§ 18–19, S. 50–65 / [68]–[89])**
+   :doc:`Kapitel III <chapter_03/index>` · :doc:`Aufgabe 1 <chapter_03/problem_01/de>` · :doc:`Aufgabe 6 <chapter_03/problem_06/de>` · :doc:`Aufgabe 8 <chapter_03/problem_08/de>` · :doc:`§ 19 Schluss <chapter_03/sec_19/de>`
 
-**Drittes Kapitel Fortsetzung: Sechste bis Achte Fundamental-Aufgabe (§ 18, S. 56–62 / [76]–[85])**
-   :doc:`German <05-drittes-kapitel-kreis-aufgaben-de>` · :doc:`English <05-drittes-kapitel-kreis-aufgaben-en>` · :doc:`Summary <05-drittes-kapitel-kreis-aufgaben-summary>` · :doc:`Notes <05-drittes-kapitel-kreis-aufgaben-notes>`
+**Anhang: Vermischte Aufgaben über Kegelschnitte (§ 20, S. 66–80) & Anmerkungen (S. 81–84)**
+   :doc:`Anhang <appendix/index>` · :doc:`§ 20 <appendix/sec_20/de>` · :doc:`Aufgabe 22 <appendix/problem_22/de>` · :doc:`Anmerkungen <appendix/editorial_notes/de>`
