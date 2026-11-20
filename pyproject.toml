@@ -5,7 +5,7 @@ authors = [
   { name = "phiarchitect", email = "github@geometor.com" },
 ]
 description = "the Swiss synthetic geometer whose 1833 treatise proved that every Euclidean construction can be performed with a straightedge alone given a single fixed circle and its center"
-readme = "README.rst"
+readme = "README.md"
 requires-python = ">=3.13"
 license = { file = "LICENSE" }
 classifiers = [
