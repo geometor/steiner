@@ -1,13 +1,13 @@
+.. image:: docsrc/_static/logo.png
+   :alt: GEOMETOR • steiner Medallion
+   :target: https://geometor.github.io/steiner/
+   :width: 150px
+   :align: right
+
 GEOMETOR • steiner
 ==================
 
 **Visit the Online Archive:** https://geometor.github.io/steiner/
-
-.. image:: docsrc/_static/logo.png
-   :alt: GEOMETOR • steiner Medallion
-   :target: https://geometor.github.io/steiner/
-   :width: 180px
-   :align: center
 
 .. image:: docsrc/_static/figures/fig_mascheroni_steiner_duality.svg
    :alt: GEOMETOR • steiner featured geometric construction
