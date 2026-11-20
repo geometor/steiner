@@ -27,7 +27,7 @@ Geometrical Constructions
    | **First Edition (Berlin, 1833):** Ferdinand Dümmler (110 S., 2 Kupfertafeln, Fig. 1–25).
    | **Ostwald's Klassiker Edition (Leipzig, 1895):** Nr. 60, edited by :person:`A. J. von Oettingen <oettingen>` (Wilhelm Engelmann).
    | **English Translation:** Scholarly edition curated for the GEOMETOR Digital Scriptorium.
-   | **Synchronized 4-Track Codex:** *English · German · Summary · Notes*, paired with exact symbolic geometry in :mod:`geometor.steiner.constructions`.
+   | **Synchronized 4-Track Codex:** *English · German · Summary · Notes*, across 51 atomic leaf pages paired with 26 calibrated archival plates and exact symbolic geometry in :mod:`geometor.steiner.constructions`.
 
 .. epigraph::
 
@@ -35,93 +35,27 @@ Geometrical Constructions
 
    — :person:`Jakob Steiner <steiner>`, :cite:`*Die geometrischen Constructionen* <steiner-1833>`, **§ 1** (p. 3)
 
+.. picture:: /_static/figures/fig_mascheroni_steiner_duality.svg
+   :alt: Duality between Mascheroni compass-only geometry and Steiner straightedge-plus-fixed-circle geometry
+
 ----
 
 Table of Contents
 -----------------
 
-**Introductory Survey: Reduction of Compass Operations to the Straightedge (§§ 1–2, pp. 3–6 / [1]–[6])**
-   :doc:`English <01-einleitende-uebersicht-en>` · :doc:`German <01-einleitende-uebersicht-de>` · :doc:`Summary <01-einleitende-uebersicht-summary>` · :doc:`Notes <01-einleitende-uebersicht-notes>`
-
-   Foundational statement of the Poncelet–Steiner theorem, survey of the eight fundamental tasks, and historical lineage from :person:`Mascheroni <mascheroni>`, :person:`Poncelet <poncelet>`, :person:`Lambert <lambert>`, and :person:`Brianchon <brianchon>`.
-
-**Chapter I: Harmonic Pencils and Points, Complete Quadrangle, and Polars (§§ 3–10, pp. 7–28 / [7]–[28])**
-   :doc:`English <02-erstes-kapitel-en>` · :doc:`German <02-erstes-kapitel-de>` · :doc:`Summary <02-erstes-kapitel-summary>` · :doc:`Notes <02-erstes-kapitel-notes>`
-
-   Harmonic pencils, cross-ratio invariance :math:`(A, B; C, D) = -1`, straightedge construction of fourth harmonic points via the complete quadrangle (:math:`S = 15`), and pole-polar involution on drawn circles (:math:`S = 19`).
-
-**Chapter II: Centers of Similitude and Radical Axis of Circles (§§ 11–17, pp. 29–50 / [29]–[67])**
-   :doc:`English <03-zweites-kapitel-en>` · :doc:`German <03-zweites-kapitel-de>` · :doc:`Summary <03-zweites-kapitel-summary>` · :doc:`Notes <03-zweites-kapitel-notes>`
-
-   External and internal centers of similitude (:term:`Aehnlichkeitspunkte <aehnlichkeitspunkte>`) :math:`A, I`, the four axes of similitude of three circles, coining of the :term:`power of a point <potenz-eines-punktes>` :math:`d^2 - R^2`, and the straightedge construction of the :term:`radical axis <linie-der-gleichen-potenzen>`.
-
-**Chapter III: First through Fifth Fundamental Problems (§ 18, pp. 50–56 / [68]–[76])**
-   :doc:`English <04-drittes-kapitel-lineare-aufgaben-en>` · :doc:`German <04-drittes-kapitel-lineare-aufgaben-de>` · :doc:`Summary <04-drittes-kapitel-lineare-aufgaben-summary>` · :doc:`Notes <04-drittes-kapitel-lineare-aufgaben-notes>`
-
-   The linear and angular straightedge constructions: drawing parallels via diameter :math:`ab` (:math:`S = 17`), segment multiplication and division, dropping perpendiculars via Thales chords and orthocenters (:math:`S = 15`), laying off angles, and angle bisection.
-
-**Chapter III (Continued): Sixth through Eighth Fundamental Problems (§ 18, pp. 56–62 / [76]–[85])**
-   :doc:`English <05-drittes-kapitel-kreis-aufgaben-en>` · :doc:`German <05-drittes-kapitel-kreis-aufgaben-de>` · :doc:`Summary <05-drittes-kapitel-kreis-aufgaben-summary>` · :doc:`Notes <05-drittes-kapitel-kreis-aufgaben-notes>`
-
-   Transfer of segments via similitude centers, intersection of a straight line with an un-drawn circle via homothetic projection onto :math:`\Omega` (:math:`S = 25`), intersection of two un-drawn circles via radical axis (:math:`S = 42`), and proof of the indispensability of center :math:`M`.
-
-.. picture:: /_static/figures/fig_mascheroni_steiner_duality.svg
-
-Treatise Sections
------------------
-
 .. collection::
    :sort: order
 
-   01-einleitende-uebersicht-en
-   02-erstes-kapitel-en
-   03-zweites-kapitel-en
-   04-drittes-kapitel-lineare-aufgaben-en
-   05-drittes-kapitel-kreis-aufgaben-en
-
 .. toctree::
    :maxdepth: 1
    :hidden:
-   :caption: English Translation
+   :caption: Chapters
 
-   01-einleitende-uebersicht-en
-   02-erstes-kapitel-en
-   03-zweites-kapitel-en
-   04-drittes-kapitel-lineare-aufgaben-en
-   05-drittes-kapitel-kreis-aufgaben-en
-
-.. toctree::
-   :maxdepth: 1
-   :hidden:
-   :caption: German Edition
-
-   01-einleitende-uebersicht-de
-   02-erstes-kapitel-de
-   03-zweites-kapitel-de
-   04-drittes-kapitel-lineare-aufgaben-de
-   05-drittes-kapitel-kreis-aufgaben-de
-
-.. toctree::
-   :maxdepth: 1
-   :hidden:
-   :caption: Operational Summaries
-
-   01-einleitende-uebersicht-summary
-   02-erstes-kapitel-summary
-   03-zweites-kapitel-summary
-   04-drittes-kapitel-lineare-aufgaben-summary
-   05-drittes-kapitel-kreis-aufgaben-summary
-
-.. toctree::
-   :maxdepth: 1
-   :hidden:
-   :caption: Commentary & Notes
-
-   01-einleitende-uebersicht-notes
-   02-erstes-kapitel-notes
-   03-zweites-kapitel-notes
-   04-drittes-kapitel-lineare-aufgaben-notes
-   05-drittes-kapitel-kreis-aufgaben-notes
+   overview/index
+   chapter_01/index
+   chapter_02/index
+   chapter_03/index
+   appendix/index
 
 .. toctree::
    :maxdepth: 1
