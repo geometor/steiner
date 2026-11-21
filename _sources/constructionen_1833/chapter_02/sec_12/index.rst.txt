@@ -32,7 +32,7 @@ I. Given any two coplanar circles :g:`M <0036.g1:( M a )>` and :g:`M_1 <0036.g1:
 
 II–III. Every ray through :g:`A` or :g:`I` establishes a direct homothety mapping :math:`(M, R)` onto :math:`(M_1, r_1)`.
 
-*Footnote Application (Fig. 15, pp. 37–40)*: Applying § 11 to triangle :g:`abc <0041.g1:< a b c >>` and its medial triangle :g:`a_1 b_1 c_1 <0041.g1:a1>` (ratio :math:`2 : 1` from centroid :g:`I <0041.g1:I>`), Steiner proves in a few lines that the circumcenter :g:`M <0041.g1:M>`, centroid :g:`I <0041.g1:I>`, orthocenter :g:`H <0041.g1:H>`, and nine-point center :g:`M_1 <0041.g1:M1>` are collinear along the **Euler line** with :math:`HI = 2 IM` and :math:`M_1` bisecting :g:`HM <0041.g1:/ H M />`!
+*Footnote Application (Fig. 15, pp. 37–40)*: Applying § 11 to triangle :g:`abc <0041.g1:< a b c >>` and its medial triangle :g:`a_1 b_1 c_1 <0041.g1:a1>` (in the ratio :math:`2 : 1` from their internal center of similitude :g:`I <0041.g1:I>`), it follows immediately that the circumcenter :g:`M <0041.g1:M>`, centroid :g:`I <0041.g1:I>`, orthocenter :g:`H <0041.g1:H>`, and nine-point center :g:`M_1 <0041.g1:M1>` lie on one straight line with :math:`HI = 2 IM` and :math:`M_1` bisecting :g:`HM <0041.g1:/ H M />`.
 
 .. picture:: 0041.g1.svg
    :alt: Figure 15 — Euler line and nine-point circle via 2:1 similitude at centroid I (§ 12 fn.)

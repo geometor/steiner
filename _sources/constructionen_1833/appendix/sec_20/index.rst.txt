@@ -17,9 +17,9 @@
 
 **Appendix: Miscellaneous Constructions, Partly Concerning Conic Sections (§ 20, p. 66 / ``[90]``–``[92]``).**
 
-In the concluding Appendix, Steiner applies the straightedge-plus-fixed-circle method to **22 higher constructive problems**, chiefly in projective conic geometry (Problems 1–21) together with a practical surveying construction using staves and a chain over terrain obstacles (Problem 22).
+We now apply the straightedge together with the single fixed auxiliary circle to twenty-two further constructive problems, chiefly concerning conic sections (Problems 1–21), concluding with a practical surveying construction with staves and measuring chain over terrain obstacles (Problem 22).
 
-The master mechanism unifying Problems 1–21 is **projective fixed-point determination along a line** :math:`A`: given three pairs of homologous points :math:`(a, \alpha)`, :math:`(b, \beta)`, :math:`(c, \gamma)` of a projectivity on line :math:`A`, pick an arbitrary pole :math:`P` on the fixed auxiliary circle :math:`\Omega`, project the six points onto circle points :math:`(a_0, \alpha_0), (b_0, \beta_0), (c_0, \gamma_0)`, form cross-axis intersections :math:`\mathfrak{p} = a_0\beta_0 \cap \alpha_0 b_0` and :math:`\mathfrak{q} = a_0\gamma_0 \cap \alpha_0 c_0` (Pappus–Pascal line :math:`\mathfrak{pq}`), cut :math:`\Omega` at :math:`r, s`, and project back from :math:`P` to locate the exact double points :math:`\mathfrak{r}, \mathfrak{s}` on :math:`A`.
+The fundamental operation underlying Problems 1–21 is the **determination of the double points of two projective ranges on a straight line** :math:`A`: given three pairs of homologous points :math:`(a, \alpha)`, :math:`(b, \beta)`, :math:`(c, \gamma)` on line :math:`A`, take an arbitrary pole :math:`P` on the fixed auxiliary circle :math:`\Omega`, project the six points onto circle points :math:`(a_0, \alpha_0), (b_0, \beta_0), (c_0, \gamma_0)`, form the cross-intersections :math:`\mathfrak{p} = a_0\beta_0 \cap \alpha_0 b_0` and :math:`\mathfrak{q} = a_0\gamma_0 \cap \alpha_0 c_0` (line :math:`\mathfrak{pq}`), let this line cut :math:`\Omega` at :math:`r, s`, and project back from :math:`P` to obtain the exact double points :math:`\mathfrak{r}, \mathfrak{s}` on :math:`A`.
 
 .. toctree::
    :hidden:
