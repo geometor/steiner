@@ -28,8 +28,8 @@ Erste Aufgabe (§ 18, [68]–[71]): Parallele durch einen beliebigen Punkt
    .. picture:: 0055.g1.png
       :alt: Archivalischer Scan von Fig. 19 aus Ostwalds Klassiker Nr. 60 (S. 51)
 
-**Fall a: Wenn die gegebene Gerade durch den Mittelpunkt :math:`M` geht.**
+**Fall a: Wenn die gegebene Gerade durch den Mittelpunkt** :math:`M` **geht.**
   Die gegebene Gerade schneidet den festen Hülfskreis in den Endpunkten eines Durchmessers :g:`a, b <0055.g1:/ a b />`, dessen Mittelpunkt :g:`M <0055.g1:M>` bekannt ist. Nach der Construction im Ersten Kapitel (§ 6) liefert das :term:`vollständige Viereck <vollstaendiges-viereck>` sofort die gesuchte Parallele in genau **6 geraden Linien** (:math:`11R_1 + 6R_2, S = 17, E = 11`).
 
-**Fall b: Wenn die gegebene Gerade :g:`ef <0055.g1:/ e f />` nicht durch :math:`M` geht.**
+**Fall b: Wenn die gegebene Gerade** :g:`ef <0055.g1:/ e f />` **nicht durch** :math:`M` **geht.**
   Man zieht einen Durchmesser :g:`ab <0055.g1:/ a b />`, der die gegebene Gerade in :g:`g <0055.g1:g>` trifft (Fig. 19), legt durch die Gegenpunkte mittelst des Mittelpunktes :g:`M <0055.g1:M>` die symmetrischen Sehnen :g:`cd <0055.g1:/ c d />` und :g:`c_1 d_1 <0055.g1:/ c1 d1 />`, überträgt damit die Richtung von :g:`ef <0055.g1:/ e f />` auf einen parallelen Durchmesser durch :math:`M` und gewinnt die Parallele :g:`hi <0055.g1:/ h i />` nach Fall a.

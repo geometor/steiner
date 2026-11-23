@@ -15,7 +15,7 @@ Anhang Aufgabe 21: Einem Kegelschnitte ein n-Eck umzuschreiben (Ecken auf n Gera
 
 .. rubric:: Jakob Steiner — *Die geometrischen Constructionen* (Ostwald's Klassiker Nr. 60, 1895)
 
-« *Um einen durch irgend fünf Tangenten gegebenen Kegelschnitt ein :math:`n`-Eck zu beschreiben, welches zugleich irgend einem gegebenen :math:`n`-Seit eingeschrieben ist (d. h., dessen Ecken zugleich, nach der Reihe, in :math:`n` beliebigen gegebenen Geraden liegen).* »
+« *Um einen durch irgend fünf Tangenten gegebenen Kegelschnitt ein* :math:`n`-*Eck zu beschreiben, welches zugleich irgend einem gegebenen* :math:`n`-*Seit eingeschrieben ist (d. h., dessen Ecken zugleich, nach der Reihe, in* :math:`n` *beliebigen gegebenen Geraden liegen).* »
 
 Auf entsprechende Weise gelöst wie Aufgabe 20 (S. 77).
 

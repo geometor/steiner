@@ -17,7 +17,7 @@ Eighth Problem (§ 18, [82]–[85]): Intersecting Two Un-Drawn Circles
 
 .. rubric:: Jakob Steiner — *Die geometrischen Constructionen* (Berlin, 1833 / Leipzig, 1895)
 
-« *To find the mutual intersection points of two given (un-drawn, virtual) circles :math:`(M_1, r_1)` and :math:`(M_2, r_2)`.* »
+« *To find the mutual intersection points of two given (un-drawn, virtual) circles* :math:`(M_1, r_1)` *and* :math:`(M_2, r_2)`. »
 
 .. picture:: 0065.g1.svg
    :alt: Figure 18 (Repeated) — Constructing the radical axis of fixed circle M and virtual circle M₁ (§ 18, Problem 8)
@@ -43,7 +43,7 @@ Neither circle is drawn on the paper; each is specified solely by its center and
 2. Because the radical axis is the straight carrier line containing the common intersection points (whenever real), intersecting the two virtual circles reduces immediately to finding the intersection of a straight line (:g:`rs <0066.g1:/ r s />`) with one of the circles (say :math:`M_1`).
 3. But this is precisely the **Seventh Problem**!
 
-This concludes the constructive proof that **every Euclidean ruler-and-compass construction can be executed with the straightedge alone given a single fixed circle and its center :math:`M`**.
+This concludes the constructive proof that **every Euclidean ruler-and-compass construction can be executed with the straightedge alone given a single fixed circle and its center** :math:`M`.
 
 .. toctree::
    :hidden:

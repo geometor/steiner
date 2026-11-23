@@ -15,7 +15,7 @@ Appendix Problem 21: n-Gon Circumscribed About a Conic with Vertices on n Lines
 
 .. rubric:: Jakob Steiner — *Die geometrischen Constructionen* (Berlin, 1833 / Leipzig, 1895)
 
-« *About a conic section given by any five tangents, to circumscribe an :math:`n`-gon that is simultaneously inscribed in any given :math:`n`-lateral (i.e., whose vertices lie in order upon :math:`n` given straight lines).* »
+« *About a conic section given by any five tangents, to circumscribe an* :math:`n`-*gon that is simultaneously inscribed in any given* :math:`n`-*lateral (i.e., whose vertices lie in order upon* :math:`n` *given straight lines).* »
 
 Dual of Problem 20, executed symmetrically by projecting onto tangent systems of the fixed circle :math:`M` and translating back to :math:`M_2` (pp. 76–77).
 

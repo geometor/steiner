@@ -24,7 +24,7 @@
      - Complete quadrangle diagonals (§ 6)
      - :math:`9R_1 + 6R_2`
      - :math:`S = 15, E = 9`
-   * - **Polar of Pole :math:`P`**
+   * - **Polar of Pole** :math:`P`
      - Two secants + diagonal join (§ 10)
      - :math:`12R_1 + 7R_2`
      - :math:`S = 19, E = 12`

@@ -17,7 +17,7 @@ Appendix Problem 2: Line Intersecting an Un-Drawn Conic (5 Points or 5 Tangents)
 
 « *To find the mutual intersection points of a given straight line and a conic section given solely by (a) five points or (b) five tangents (i.e., not drawn).* »
 
-**Case a (Five points :math:`B, B_1, \mathfrak{A}, \mathfrak{B}, \mathfrak{C}`)**: Draw pairs of rays from :math:`B` and :math:`B_1` through :math:`\mathfrak{A}, \mathfrak{B}, \mathfrak{C}` meeting the given line :math:`A` in pairs :math:`(a, \alpha), (b, \beta), (c, \gamma)`. Finding the double points :math:`\mathfrak{r}, \mathfrak{s}` via fixed circle :math:`\Omega` exactly determines the two intersection points of :math:`A` with the un-drawn conic.
+**Case a** (Five points :math:`B, B_1, \mathfrak{A}, \mathfrak{B}, \mathfrak{C}`): Draw pairs of rays from :math:`B` and :math:`B_1` through :math:`\mathfrak{A}, \mathfrak{B}, \mathfrak{C}` meeting the given line :math:`A` in pairs :math:`(a, \alpha), (b, \beta), (c, \gamma)`. Finding the double points :math:`\mathfrak{r}, \mathfrak{s}` via fixed circle :math:`\Omega` exactly determines the two intersection points of :math:`A` with the un-drawn conic.
 
 **Case b (Five tangents)**: First construct the five points of contact using the straightedge alone (:cite:`steiner-1832`, p. 152), reducing directly to Case a.
 

@@ -28,7 +28,7 @@
      - :person:`Mohr <mohr>` (:cite:`mohr-1672`), :person:`Mascheroni <mascheroni>` (:cite:`mascheroni-1797`)
      - :math:`m_1 C_1 + m_2 C_2 + m_3 C_3` (:math:`l_1 = l_2 = 0`)
      - Full Euclidean quadratic closure :math:`\mathbb{E}`
-   * - **Poncelet–Steiner Straightedge + Fixed Circle :math:`M`**
+   * - **Poncelet–Steiner Straightedge + Fixed Circle** :math:`M`
      - :person:`Poncelet <poncelet>` (:cite:`poncelet-1822`), :person:`Steiner <steiner>` (:cite:`steiner-1833`)
      - :math:`l_1 R_1 + l_2 R_2` (:math:`m_1 = m_2 = m_3 = 0`)
      - Full Euclidean quadratic closure :math:`\mathbb{E}`
