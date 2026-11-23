@@ -28,10 +28,10 @@ Third Problem (§ 18, [71]–[75]): Dropping a Perpendicular to a Straight Line
    .. picture:: 0057.g1.png
       :alt: Archival scan of Fig. 20 from Ostwald's Klassiker Nr. 60 (p. 53)
 
-**Solution A (Via :term:`Thales' Theorem <satz-des-thales>`):**
+**Solution A (Via** :term:`Thales' Theorem <satz-des-thales>`):
   Draw diameter :g:`ab <0057.g1:/ a b />` of fixed circle :g:`M <0057.g1:M>` parallel to the given line :g:`pq <0057.g1:/ p q />` (or take :g:`ab <0057.g1:/ a b />` perpendicular to :g:`pq <0057.g1:/ p q />` as in Fig. 20 via a chord pair :g:`ad <0057.g1:/ a d />` and :g:`bd <0057.g1:/ b d />`). For any point :g:`c <0057.g1:c>` on the circumference of :math:`\Omega`, Thales' theorem guarantees :math:`\angle acb = 90^\circ`. Drawing through the given point a line parallel to the right-angle leg (by Problem 1) yields the required perpendicular.
 
-**Solution B (Via the :term:`Orthocenter <orthocentrum>` of a Triangle on Diameter :math:`ab`):**
+**Solution B (Via the** :term:`Orthocenter <orthocentrum>` **of a Triangle on Diameter** :math:`ab`):
   Choose vertex :math:`S` off diameter :g:`ab <0057.g1:/ a b />`. Rays :math:`Sa, Sb` cut :math:`\Omega` at :math:`c, d`. Because :math:`\angle acb = \angle adb = 90^\circ`, chords :math:`ad` and :math:`bc` are the exact altitudes of :math:`\triangle abS`. Their intersection :math:`H` is the orthocenter, so line :math:`SH` is strictly perpendicular to :math:`ab` in just **5 straight lines**:
 
   .. math::

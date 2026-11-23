@@ -15,7 +15,7 @@ Anhang Aufgabe 22: Punkte eines Kreises im Felde bei unzugänglichem Mittelpunkt
 
 .. rubric:: Jakob Steiner — *Die geometrischen Constructionen* (Ostwald's Klassiker Nr. 60, 1895)
 
-« *Auf dem Felde seien der Mittelpunkt :math:`M_1` und ein Punkt :math:`a_1` in der Peripherie eines Kreises gegeben, es liege aber ein solches Hinderniss :math:`RS` dazwischen, dass man nicht über dasselbe hinwegmessen kann; man soll nun allein mittelst Stäbe und Kette beliebig viele Punkte :math:`c_1, d_1, \dots` jenes Kreises abstecken.* »
+« *Auf dem Felde seien der Mittelpunkt* :math:`M_1` *und ein Punkt* :math:`a_1` *in der Peripherie eines Kreises gegeben, es liege aber ein solches Hinderniss* :math:`RS` *dazwischen, dass man nicht über dasselbe hinwegmessen kann; man soll nun allein mittelst Stäbe und Kette beliebig viele Punkte* :math:`c_1, d_1, \dots` *jenes Kreises abstecken.* »
 
 .. picture:: 0082.g1.svg
    :alt: Figur 25 — Absteckung eines Kreises M₁ auf dem Felde über ein Hinderniss RS mittelst Hülfskreis M (§ 20, Aufgabe 22)

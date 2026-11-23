@@ -17,7 +17,7 @@ Seventh Problem (§ 18, [78]–[82]): Intersecting a Line with an Un-Drawn Circl
 
 .. rubric:: Jakob Steiner — *Die geometrischen Constructionen* (Berlin, 1833 / Leipzig, 1895)
 
-« *To find the mutual intersection points of a given straight line and a given (un-drawn, virtual) circle :math:`(M_1, r_1)`.* »
+« *To find the mutual intersection points of a given straight line and a given (un-drawn, virtual) circle* :math:`(M_1, r_1)`. »
 
 .. picture:: 0062.g1.svg
    :alt: Figure 23 — Intersecting line g₁h₁ with un-drawn circle M₁ via homothety onto drawn fixed circle M (§ 18, Problem 7)

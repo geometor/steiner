@@ -24,7 +24,7 @@
    .. picture:: 0019.g2.png
       :alt: Archival scan of Fig. 6 from Ostwald's Klassiker Nr. 60 (p. 15)
 
-*Problem (§ 7)*: *Given two adjacent collinear segments :g:`BD <0019.g2:/ B D />` and :g:`DC <0019.g2:/ D C />` having any given rational ratio :math:`a : b`, to draw a line parallel to :g:`BC <0019.g2:/ B E />` through any given point using the straightedge alone.*
+*Problem (§ 7)*: *Given two adjacent collinear segments* :g:`BD <0019.g2:/ B D />` *and* :g:`DC <0019.g2:/ D C />` *having any given rational ratio* :math:`a : b`, *to draw a line parallel to* :g:`BC <0019.g2:/ B E />` *through any given point using the straightedge alone.*
 
 Let :math:`a > b` be coprime integers. Constructing the fourth harmonic point :g:`E <0019.g2:E>` conjugate to :g:`C <0019.g2:C>` with respect to :g:`B <0019.g2:B>` and :g:`D <0019.g2:D>` (§ 5, I) produces segment :math:`CE = x` satisfying :math:`a : b = (a + b + x) : x`, whence :math:`x = \frac{b(a+b)}{a-b}`, and therefore:
 

@@ -12,4 +12,4 @@
 
 .. rubric:: Structural & Geometrographic Summary — Folio 0047 (p. 43)
 
-* **Unique Foot :math:`Q`**: If :math:`M=(0,0)` and :math:`M_1=(d,0)`, then :math:`x_Q = \frac{d^2 + u^2}{2d}` uniquely determines the perpendicular locus :math:`x = x_Q`.
+* **Unique Foot** :math:`Q`: If :math:`M=(0,0)` and :math:`M_1=(d,0)`, then :math:`x_Q = \frac{d^2 + u^2}{2d}` uniquely determines the perpendicular locus :math:`x = x_Q`.
