@@ -22,16 +22,3 @@ Sections
 
 .. collection::
    :sort: order
-
-.. toctree::
-   :hidden:
-   :maxdepth: 1
-
-   sec_10/index
-   sec_11/index
-   sec_12/index
-   sec_13/index
-   sec_14/index
-   sec_15/index
-   sec_16/index
-   sec_17/index

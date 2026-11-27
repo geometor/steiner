@@ -17,32 +17,3 @@ Sections
 
 .. collection::
    :sort: order
-
-.. toctree::
-   :hidden:
-   :maxdepth: 1
-
-   sec_20/index
-   problem_01/index
-   problem_02/index
-   problem_03/index
-   problem_04/index
-   problem_05/index
-   problem_06/index
-   problem_07/index
-   problem_08/index
-   problem_09/index
-   problem_10/index
-   problem_11/index
-   problem_12/index
-   problem_13/index
-   problem_14/index
-   problem_15/index
-   problem_16/index
-   problem_17/index
-   problem_18/index
-   problem_19/index
-   problem_20/index
-   problem_21/index
-   problem_22/index
-   editorial_notes/index

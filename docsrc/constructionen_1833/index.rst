@@ -49,17 +49,6 @@ Table of Contents
 .. toctree::
    :maxdepth: 1
    :hidden:
-   :caption: Chapters
-
-   overview/index
-   chapter_01/index
-   chapter_02/index
-   chapter_03/index
-   appendix/index
-
-.. toctree::
-   :maxdepth: 1
-   :hidden:
    :caption: Title Pages
 
    title-de
