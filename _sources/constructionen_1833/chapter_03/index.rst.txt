@@ -17,18 +17,3 @@ Sections
 
 .. collection::
    :sort: order
-
-.. toctree::
-   :hidden:
-   :maxdepth: 1
-
-   sec_18_intro/index
-   problem_01/index
-   problem_02/index
-   problem_03/index
-   problem_04/index
-   problem_05/index
-   problem_06/index
-   problem_07/index
-   problem_08/index
-   sec_19/index
